@@ -5,7 +5,7 @@
 				building = "building_oil_rig"
 				add_ownership = {
 					building = {
-						type = ""building_oil_rig""
+						type = "building_oil_rig"
 						country = "c:NEJ"
 						levels = 3
 						region = "STATE_NEJD"
@@ -26,7 +26,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:OMA"
 						levels = 1
 						region = "STATE_OMAN"
@@ -45,7 +45,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:OMA"
 						levels = 2
 						region = "STATE_OMAN"
@@ -63,7 +63,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:OMA"
 						levels = 1
 						region = "STATE_OMAN"
@@ -78,7 +78,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:OMA"
 						levels = 1
 						region = "STATE_OMAN"
@@ -97,7 +97,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:ABU"
 						levels = 1
 						region = "STATE_ABU_DHABI"
@@ -115,7 +115,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:ABU"
 						levels = 3
 						region = "STATE_ABU_DHABI"
@@ -133,7 +133,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ABU"
 						levels = 1
 						region = "STATE_ABU_DHABI"
@@ -150,7 +150,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:QAT"
 						levels = 1
 						region = "STATE_ABU_DHABI"
@@ -169,7 +169,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:QAT"
 						levels = 1
 						region = "STATE_ABU_DHABI"
@@ -186,7 +186,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:BHN"
 						levels = 1
 						region = "STATE_ABU_DHABI"
@@ -205,7 +205,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:BHN"
 						levels = 1
 						region = "STATE_ABU_DHABI"
@@ -222,7 +222,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:OMA"
 						levels = 1
 						region = "STATE_ABU_DHABI"
@@ -241,7 +241,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:OMA"
 						levels = 1
 						region = "STATE_ABU_DHABI"
@@ -260,7 +260,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:YEM"
 						levels = 1
 						region = "STATE_YEMEN"
@@ -278,7 +278,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_coffee_plantation""
+						type = "building_coffee_plantation"
 						country = "c:YEM"
 						levels = 1
 						region = "STATE_YEMEN"
@@ -298,7 +298,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_coffee_plantation""
+						type = "building_coffee_plantation"
 						country = "c:ADE"
 						levels = 2
 						region = "STATE_YEMEN"
@@ -316,7 +316,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:ADE"
 						levels = 1
 						region = "STATE_YEMEN"
@@ -334,7 +334,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ADE"
 						levels = 1
 						region = "STATE_YEMEN"
@@ -353,7 +353,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:NEJ"
 						levels = 1
 						region = "STATE_HEDJAZ"
@@ -377,7 +377,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:CYP"
 						levels = 2
 						region = "STATE_CYPRUS"
@@ -395,7 +395,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:CYP"
 						levels = 1
 						region = "STATE_CYPRUS"
@@ -412,7 +412,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:CYP"
 						levels = 1
 						region = "STATE_CYPRUS"
@@ -431,7 +431,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:EOT"
 						levels = 2
 						region = "STATE_TRANSJORDAN"
@@ -453,7 +453,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:PAL"
 						levels = 3
 						region = "STATE_PALESTINE"
@@ -468,7 +468,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:PAL"
 						levels = 1
 						region = "STATE_PALESTINE"
@@ -486,7 +486,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:PAL"
 						levels = 2
 						region = "STATE_PALESTINE"
@@ -504,7 +504,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:PAL"
 						levels = 1
 						region = "STATE_PALESTINE"
@@ -522,7 +522,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:PAL"
 						levels = 1
 						region = "STATE_PALESTINE"
@@ -541,7 +541,7 @@
 				building = "building_millet_farm"
 				add_ownership = {
 					building = {
-						type = ""building_millet_farm""
+						type = "building_millet_farm"
 						country = "c:LEB"
 						levels = 1
 						region = "STATE_LEBANON"
@@ -558,7 +558,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_banana_plantation""
+						type = "building_banana_plantation"
 						country = "c:LEB"
 						levels = 1
 						region = "STATE_LEBANON"
@@ -576,7 +576,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:LEB"
 						levels = 1
 						region = "STATE_LEBANON"
@@ -598,7 +598,7 @@
 				building = "building_millet_farm"
 				add_ownership = {
 					building = {
-						type = ""building_millet_farm""
+						type = "building_millet_farm"
 						country = "c:SYR"
 						levels = 6
 						region = "STATE_SYRIA"
@@ -615,7 +615,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:SYR"
 						levels = 1
 						region = "STATE_SYRIA"
@@ -633,7 +633,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:SYR"
 						levels = 5
 						region = "STATE_SYRIA"
@@ -655,7 +655,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:SYR"
 						levels = 4
 						region = "STATE_ALEPPO"
@@ -673,7 +673,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:SYR"
 						levels = 3
 						region = "STATE_ALEPPO"
@@ -690,7 +690,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:SYR"
 						levels = 2
 						region = "STATE_ALEPPO"
@@ -709,7 +709,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:SYR"
 						levels = 3
 						region = "STATE_ALEPPO"
@@ -727,7 +727,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:SYR"
 						levels = 5
 						region = "STATE_ALEPPO"
@@ -742,7 +742,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:SYR"
 						levels = 5
 						region = "STATE_ALEPPO"
@@ -761,7 +761,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:SYR"
 						levels = 5
 						region = "STATE_ALEPPO"
@@ -779,7 +779,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = ""building_steelworks""
+						type = "building_steelworks"
 						country = "c:SYR"
 						levels = 1
 						region = "STATE_ALEPPO"
@@ -798,7 +798,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:SYR"
 						levels = 3
 						region = "STATE_ALEPPO"
@@ -818,7 +818,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:SYR"
 						levels = 1
 						region = "STATE_ALEPPO"
@@ -835,7 +835,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:SYR"
 						levels = 1
 						region = "STATE_ALEPPO"
@@ -854,7 +854,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:SYR"
 						levels = 1
 						region = "STATE_ALEPPO"
@@ -872,7 +872,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:SYR"
 						levels = 1
 						region = "STATE_ALEPPO"
@@ -889,7 +889,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:SYR"
 						levels = 4
 						region = "STATE_ALEPPO"
@@ -911,7 +911,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:SYR"
 						levels = 7
 						region = "STATE_ALEPPO"
@@ -928,7 +928,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = ""building_pharmaceutical_industry""
+						type = "building_pharmaceutical_industry"
 						country = "c:SYR"
 						levels = 3
 						region = "STATE_ALEPPO"
@@ -948,7 +948,7 @@
 				building = "building_media_industry"
 				add_ownership = {
 					building = {
-						type = ""building_media_industry""
+						type = "building_media_industry"
 						country = "c:SYR"
 						levels = 1
 						region = "STATE_ALEPPO"
@@ -968,7 +968,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_ALEPPO"
@@ -986,7 +986,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_ALEPPO"
@@ -1009,7 +1009,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:IRQ"
 						levels = 3
 						region = "STATE_BAGHDAD"
@@ -1026,7 +1026,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:IRQ"
 						levels = 5
 						region = "STATE_BAGHDAD"
@@ -1043,7 +1043,7 @@
 				building = "building_oil_rig"
 				add_ownership = {
 					building = {
-						type = ""building_oil_rig""
+						type = "building_oil_rig"
 						country = "c:IRQ"
 						levels = 10
 						region = "STATE_BAGHDAD"
@@ -1064,7 +1064,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:IRQ"
 						levels = 3
 						region = "STATE_MOSUL"
@@ -1085,7 +1085,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:SYR"
 						levels = 5
 						region = "STATE_DEIR_EZ_ZOR"
@@ -1107,7 +1107,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:IRQ"
 						levels = 1
 						region = "STATE_BASRA"
@@ -1124,7 +1124,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:IRQ"
 						levels = 1
 						region = "STATE_BASRA"
@@ -1144,7 +1144,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:KUW"
 						levels = 2
 						region = "STATE_BASRA"
@@ -1162,7 +1162,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:KUW"
 						levels = 1
 						region = "STATE_BASRA"
@@ -1179,7 +1179,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:KUW"
 						levels = 1
 						region = "STATE_BASRA"
@@ -1198,7 +1198,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_FARS"
@@ -1216,7 +1216,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:PER"
 						levels = 4
 						region = "STATE_FARS"
@@ -1231,7 +1231,7 @@
 				building = "building_oil_rig"
 				add_ownership = {
 					building = {
-						type = ""building_oil_rig""
+						type = "building_oil_rig"
 						country = "c:PER"
 						levels = 10
 						region = "STATE_FARS"
@@ -1248,7 +1248,7 @@
 				building = "building_fuel_refineries"
 				add_ownership = {
 					building = {
-						type = ""building_fuel_refineries""
+						type = "building_fuel_refineries"
 						country = "c:PER"
 						levels = 5
 						region = "STATE_FARS"
@@ -1268,7 +1268,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:PER"
 						levels = 3
 						region = "STATE_FARS"
@@ -1285,7 +1285,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_FARS"
@@ -1303,7 +1303,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_FARS"
@@ -1321,7 +1321,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_FARS"
@@ -1342,7 +1342,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_LARISTAN"
@@ -1360,7 +1360,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_LARISTAN"
@@ -1375,7 +1375,7 @@
 				building = "building_fuel_refineries"
 				add_ownership = {
 					building = {
-						type = ""building_fuel_refineries""
+						type = "building_fuel_refineries"
 						country = "c:PER"
 						levels = 5
 						region = "STATE_LARISTAN"
@@ -1395,7 +1395,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:PER"
 						levels = 3
 						region = "STATE_LARISTAN"
@@ -1412,7 +1412,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:PER"
 						levels = 5
 						region = "STATE_LARISTAN"
@@ -1430,7 +1430,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_LARISTAN"
@@ -1445,7 +1445,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_LARISTAN"
@@ -1466,7 +1466,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_SISTAN"
@@ -1484,7 +1484,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_SISTAN"
@@ -1499,7 +1499,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:PER"
 						levels = 3
 						region = "STATE_SISTAN"
@@ -1516,7 +1516,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_SISTAN"
@@ -1534,7 +1534,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_SISTAN"
@@ -1555,7 +1555,7 @@
 				building = "building_airport"
 				add_ownership = {
 					building = {
-						type = ""building_airport""
+						type = "building_airport"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_KHORASAN"
@@ -1571,7 +1571,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_opium_plantation""
+						type = "building_opium_plantation"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_KHORASAN"
@@ -1589,7 +1589,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_KHORASAN"
@@ -1607,7 +1607,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:PER"
 						levels = 3
 						region = "STATE_KHORASAN"
@@ -1624,7 +1624,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_KHORASAN"
@@ -1643,7 +1643,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_KHORASAN"
@@ -1664,7 +1664,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_KHUZESTAN"
@@ -1682,7 +1682,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_KHUZESTAN"
@@ -1697,7 +1697,7 @@
 				building = "building_oil_rig"
 				add_ownership = {
 					building = {
-						type = ""building_oil_rig""
+						type = "building_oil_rig"
 						country = "c:PER"
 						levels = 10
 						region = "STATE_KHUZESTAN"
@@ -1714,7 +1714,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:PER"
 						levels = 3
 						region = "STATE_KHUZESTAN"
@@ -1731,7 +1731,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_KHUZESTAN"
@@ -1749,7 +1749,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_KHUZESTAN"
@@ -1767,7 +1767,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_KHUZESTAN"
@@ -1784,7 +1784,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_KHUZESTAN"
@@ -1807,7 +1807,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_ISFAHAN"
@@ -1825,7 +1825,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:PER"
 						levels = 3
 						region = "STATE_ISFAHAN"
@@ -1843,7 +1843,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = ""building_coal_mine""
+						type = "building_coal_mine"
 						country = "c:PER"
 						levels = 4
 						region = "STATE_ISFAHAN"
@@ -1861,7 +1861,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:PER"
 						levels = 3
 						region = "STATE_ISFAHAN"
@@ -1878,7 +1878,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:PER"
 						levels = 3
 						region = "STATE_ISFAHAN"
@@ -1897,7 +1897,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_ISFAHAN"
@@ -1918,7 +1918,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_MAZANDARAN"
@@ -1936,7 +1936,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_MAZANDARAN"
@@ -1954,7 +1954,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_MAZANDARAN"
@@ -1972,7 +1972,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:PER"
 						levels = 4
 						region = "STATE_MAZANDARAN"
@@ -1990,7 +1990,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = ""building_coal_mine""
+						type = "building_coal_mine"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_MAZANDARAN"
@@ -2008,7 +2008,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:PER"
 						levels = 4
 						region = "STATE_MAZANDARAN"
@@ -2026,7 +2026,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_sugar_plantation""
+						type = "building_sugar_plantation"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_MAZANDARAN"
@@ -2044,7 +2044,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_MAZANDARAN"
@@ -2061,7 +2061,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_MAZANDARAN"
@@ -2084,7 +2084,7 @@
 				building = "building_airport"
 				add_ownership = {
 					building = {
-						type = ""building_airport""
+						type = "building_airport"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_IRAKAJEMI"
@@ -2100,7 +2100,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_IRAKAJEMI"
@@ -2118,7 +2118,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:PER"
 						levels = 3
 						region = "STATE_IRAKAJEMI"
@@ -2136,7 +2136,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:PER"
 						levels = 4
 						region = "STATE_IRAKAJEMI"
@@ -2153,7 +2153,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:PER"
 						levels = 4
 						region = "STATE_IRAKAJEMI"
@@ -2175,7 +2175,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:PER"
 						levels = 4
 						region = "STATE_IRAKAJEMI"
@@ -2192,7 +2192,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:PER"
 						levels = 3
 						region = "STATE_IRAKAJEMI"
@@ -2211,7 +2211,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_IRAKAJEMI"
@@ -2231,7 +2231,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_IRAKAJEMI"
@@ -2250,7 +2250,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:PER"
 						levels = 5
 						region = "STATE_IRAKAJEMI"
@@ -2269,7 +2269,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:PER"
 						levels = 4
 						region = "STATE_IRAKAJEMI"
@@ -2284,7 +2284,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:PER"
 						levels = 2
 						region = "STATE_IRAKAJEMI"
@@ -2301,7 +2301,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:PER"
 						levels = 5
 						region = "STATE_IRAKAJEMI"
@@ -2318,7 +2318,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_IRAKAJEMI"
@@ -2341,7 +2341,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:AZR"
 						levels = 1
 						region = "STATE_TABRIZ"
@@ -2360,7 +2360,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:AZR"
 						levels = 1
 						region = "STATE_TABRIZ"
@@ -2379,7 +2379,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:AZR"
 						levels = 1
 						region = "STATE_TABRIZ"
@@ -2399,7 +2399,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:KUR"
 						levels = 1
 						region = "STATE_TABRIZ"
@@ -2418,7 +2418,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:KUR"
 						levels = 2
 						region = "STATE_TABRIZ"
@@ -2442,7 +2442,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_LURISTAN"
@@ -2460,7 +2460,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:PER"
 						levels = 3
 						region = "STATE_LURISTAN"
@@ -2477,7 +2477,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:PER"
 						levels = 4
 						region = "STATE_LURISTAN"
@@ -2495,7 +2495,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:PER"
 						levels = 3
 						region = "STATE_LURISTAN"
@@ -2514,7 +2514,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:PER"
 						levels = 1
 						region = "STATE_LURISTAN"
@@ -2535,7 +2535,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = ""building_glassworks""
+						type = "building_glassworks"
 						country = "c:TUR"
 						levels = 3
 						region = "STATE_BURSA"
@@ -2554,7 +2554,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:TUR"
 						levels = 13
 						region = "STATE_BURSA"
@@ -2571,7 +2571,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_BURSA"
@@ -2590,7 +2590,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_BURSA"
@@ -2607,7 +2607,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:TUR"
 						levels = 5
 						region = "STATE_BURSA"
@@ -2625,7 +2625,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:TUR"
 						levels = 5
 						region = "STATE_BURSA"
@@ -2643,7 +2643,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_BURSA"
@@ -2661,7 +2661,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_BURSA"
@@ -2680,7 +2680,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:TUR"
 						levels = 5
 						region = "STATE_BURSA"
@@ -2698,7 +2698,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:TUR"
 						levels = 3
 						region = "STATE_BURSA"
@@ -2717,7 +2717,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:TUR"
 						levels = 6
 						region = "STATE_BURSA"
@@ -2735,7 +2735,7 @@
 				building = "building_small_arms_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_small_arms_manufactories""
+						type = "building_small_arms_manufactories"
 						country = "c:TUR"
 						levels = 3
 						region = "STATE_BURSA"
@@ -2754,7 +2754,7 @@
 				building = "building_advanced_military_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_advanced_military_manufactories""
+						type = "building_advanced_military_manufactories"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_BURSA"
@@ -2774,7 +2774,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_BURSA"
@@ -2789,7 +2789,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:TUR"
 						levels = 5
 						region = "STATE_BURSA"
@@ -2807,7 +2807,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_BURSA"
@@ -2827,7 +2827,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_BURSA"
@@ -2850,7 +2850,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_AYDIN"
@@ -2867,7 +2867,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = ""building_coal_mine""
+						type = "building_coal_mine"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_AYDIN"
@@ -2885,7 +2885,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:TUR"
 						levels = 13
 						region = "STATE_AYDIN"
@@ -2902,7 +2902,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_AYDIN"
@@ -2921,7 +2921,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:TUR"
 						levels = 3
 						region = "STATE_AYDIN"
@@ -2939,7 +2939,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_AYDIN"
@@ -2957,7 +2957,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:TUR"
 						levels = 3
 						region = "STATE_AYDIN"
@@ -2976,7 +2976,7 @@
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
-						type = ""building_shipyards""
+						type = "building_shipyards"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_AYDIN"
@@ -2995,7 +2995,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_AYDIN"
@@ -3010,7 +3010,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:TUR"
 						levels = 5
 						region = "STATE_AYDIN"
@@ -3028,7 +3028,7 @@
 				building = "building_small_arms_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_small_arms_manufactories""
+						type = "building_small_arms_manufactories"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_AYDIN"
@@ -3047,7 +3047,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_AYDIN"
@@ -3066,7 +3066,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_AYDIN"
@@ -3084,7 +3084,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_AYDIN"
@@ -3106,7 +3106,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = ""building_steelworks""
+						type = "building_steelworks"
 						country = "c:TUR"
 						levels = 4
 						region = "STATE_KONYA"
@@ -3125,7 +3125,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:TUR"
 						levels = 19
 						region = "STATE_KONYA"
@@ -3142,7 +3142,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:TUR"
 						levels = 3
 						region = "STATE_KONYA"
@@ -3161,7 +3161,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:TUR"
 						levels = 8
 						region = "STATE_KONYA"
@@ -3179,7 +3179,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_KONYA"
@@ -3198,7 +3198,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:TUR"
 						levels = 4
 						region = "STATE_KONYA"
@@ -3216,7 +3216,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:TUR"
 						levels = 7
 						region = "STATE_KONYA"
@@ -3235,7 +3235,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:TUR"
 						levels = 3
 						region = "STATE_KONYA"
@@ -3254,7 +3254,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:TUR"
 						levels = 10
 						region = "STATE_KONYA"
@@ -3272,7 +3272,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_KONYA"
@@ -3287,7 +3287,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:TUR"
 						levels = 3
 						region = "STATE_KONYA"
@@ -3309,7 +3309,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = ""building_steelworks""
+						type = "building_steelworks"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_KASTAMONU"
@@ -3328,7 +3328,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_KASTAMONU"
@@ -3345,7 +3345,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_KASTAMONU"
@@ -3364,7 +3364,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:TUR"
 						levels = 18
 						region = "STATE_KASTAMONU"
@@ -3382,7 +3382,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_KASTAMONU"
@@ -3400,7 +3400,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:TUR"
 						levels = 4
 						region = "STATE_KASTAMONU"
@@ -3418,7 +3418,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_KASTAMONU"
@@ -3433,7 +3433,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_KASTAMONU"
@@ -3453,7 +3453,7 @@
 				building = "building_small_arms_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_small_arms_manufactories""
+						type = "building_small_arms_manufactories"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_KASTAMONU"
@@ -3476,7 +3476,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = ""building_coal_mine""
+						type = "building_coal_mine"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_DIYARBAKIR"
@@ -3494,7 +3494,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:TUR"
 						levels = 7
 						region = "STATE_DIYARBAKIR"
@@ -3511,7 +3511,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_DIYARBAKIR"
@@ -3530,7 +3530,7 @@
 				building = "building_airport"
 				add_ownership = {
 					building = {
-						type = ""building_airport""
+						type = "building_airport"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_DIYARBAKIR"
@@ -3550,7 +3550,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = ""building_coal_mine""
+						type = "building_coal_mine"
 						country = "c:TUR"
 						levels = 5
 						region = "STATE_ADANA"
@@ -3568,7 +3568,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:TUR"
 						levels = 13
 						region = "STATE_ADANA"
@@ -3585,7 +3585,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_ADANA"
@@ -3603,7 +3603,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_ADANA"
@@ -3621,7 +3621,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:TUR"
 						levels = 4
 						region = "STATE_ADANA"
@@ -3639,7 +3639,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:TUR"
 						levels = 4
 						region = "STATE_ADANA"
@@ -3658,7 +3658,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_ADANA"
@@ -3676,7 +3676,7 @@
 				building = "building_airport"
 				add_ownership = {
 					building = {
-						type = ""building_airport""
+						type = "building_airport"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_ADANA"
@@ -3692,7 +3692,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_ADANA"
@@ -3711,7 +3711,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_TRABZON"
@@ -3730,7 +3730,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:TUR"
 						levels = 7
 						region = "STATE_TRABZON"
@@ -3748,7 +3748,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:TUR"
 						levels = 3
 						region = "STATE_TRABZON"
@@ -3766,7 +3766,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:TUR"
 						levels = 4
 						region = "STATE_TRABZON"
@@ -3784,7 +3784,7 @@
 				building = "building_copper_mine"
 				add_ownership = {
 					building = {
-						type = ""building_copper_mine""
+						type = "building_copper_mine"
 						country = "c:TUR"
 						levels = 3
 						region = "STATE_TRABZON"
@@ -3806,7 +3806,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:TUR"
 						levels = 4
 						region = "STATE_ERZURUM"
@@ -3824,7 +3824,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:TUR"
 						levels = 5
 						region = "STATE_ERZURUM"
@@ -3841,7 +3841,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_ERZURUM"
@@ -3860,7 +3860,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_ERZURUM"
@@ -3878,7 +3878,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_ERZURUM"
@@ -3896,7 +3896,7 @@
 				building = "building_lead_mine"
 				add_ownership = {
 					building = {
-						type = ""building_lead_mine""
+						type = "building_lead_mine"
 						country = "c:TUR"
 						levels = 3
 						region = "STATE_ERZURUM"
@@ -3914,7 +3914,7 @@
 				building = "building_airport"
 				add_ownership = {
 					building = {
-						type = ""building_airport""
+						type = "building_airport"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_ERZURUM"
@@ -3934,7 +3934,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:TUR"
 						levels = 17
 						region = "STATE_ANKARA"
@@ -3951,7 +3951,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:TUR"
 						levels = 8
 						region = "STATE_ANKARA"
@@ -3970,7 +3970,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:TUR"
 						levels = 6
 						region = "STATE_ANKARA"
@@ -3987,7 +3987,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_ANKARA"
@@ -4006,7 +4006,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = ""building_motor_industry""
+						type = "building_motor_industry"
 						country = "c:TUR"
 						levels = 5
 						region = "STATE_ANKARA"
@@ -4026,7 +4026,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_ANKARA"
@@ -4043,7 +4043,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:TUR"
 						levels = 6
 						region = "STATE_ANKARA"
@@ -4058,7 +4058,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:TUR"
 						levels = 4
 						region = "STATE_ANKARA"
@@ -4076,7 +4076,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:TUR"
 						levels = 5
 						region = "STATE_ANKARA"
@@ -4094,7 +4094,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:TUR"
 						levels = 5
 						region = "STATE_ANKARA"
@@ -4113,7 +4113,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:TUR"
 						levels = 4
 						region = "STATE_ANKARA"
@@ -4132,7 +4132,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_ANKARA"
@@ -4150,7 +4150,7 @@
 				building = "building_advanced_military_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_advanced_military_manufactories""
+						type = "building_advanced_military_manufactories"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_ANKARA"
@@ -4170,7 +4170,7 @@
 				building = "building_airport"
 				add_ownership = {
 					building = {
-						type = ""building_airport""
+						type = "building_airport"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_ANKARA"
@@ -4186,7 +4186,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_ANKARA"
@@ -4206,7 +4206,7 @@
 				building = "building_automobile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_automobile_manufactories""
+						type = "building_automobile_manufactories"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_ANKARA"
@@ -4231,7 +4231,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:TUR"
 						levels = 7
 						region = "STATE_KARS"
@@ -4248,7 +4248,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_KARS"
@@ -4267,7 +4267,7 @@
 				building = "building_airport"
 				add_ownership = {
 					building = {
-						type = ""building_airport""
+						type = "building_airport"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_KARS"
@@ -4287,7 +4287,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:PAL"
 						levels = 2
 						region = "STATE_PALESTINE_2"
@@ -4306,7 +4306,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:PAL"
 						levels = 2
 						region = "STATE_PALESTINE_2"
@@ -4324,7 +4324,7 @@
 				building = "building_copper_mine"
 				add_ownership = {
 					building = {
-						type = ""building_copper_mine""
+						type = "building_copper_mine"
 						country = "c:PAL"
 						levels = 1
 						region = "STATE_PALESTINE_2"
@@ -4342,7 +4342,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:PAL"
 						levels = 1
 						region = "STATE_PALESTINE_2"
@@ -4364,7 +4364,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:PAL"
 						levels = 1
 						region = "STATE_PALESTINE_3"
@@ -4382,7 +4382,7 @@
 				building = "building_millet_farm"
 				add_ownership = {
 					building = {
-						type = ""building_millet_farm""
+						type = "building_millet_farm"
 						country = "c:PAL"
 						levels = 3
 						region = "STATE_PALESTINE_3"
@@ -4399,7 +4399,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:PAL"
 						levels = 3
 						region = "STATE_PALESTINE_3"
@@ -4419,7 +4419,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:SYR"
 						levels = 2
 						region = "STATE_PALESTINE_3"
@@ -4438,7 +4438,7 @@
 				building = "building_millet_farm"
 				add_ownership = {
 					building = {
-						type = ""building_millet_farm""
+						type = "building_millet_farm"
 						country = "c:SYR"
 						levels = 1
 						region = "STATE_PALESTINE_3"
@@ -4455,7 +4455,7 @@
 				building = "building_copper_mine"
 				add_ownership = {
 					building = {
-						type = ""building_copper_mine""
+						type = "building_copper_mine"
 						country = "c:SYR"
 						levels = 1
 						region = "STATE_PALESTINE_3"

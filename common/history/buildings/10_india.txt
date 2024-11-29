@@ -5,7 +5,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_BIHAR"
@@ -22,7 +22,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = ""building_coal_mine""
+						type = "building_coal_mine"
 						country = "c:HND"
 						levels = 2
 						region = "STATE_BIHAR"
@@ -40,7 +40,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 25
 						region = "STATE_BIHAR"
@@ -57,7 +57,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_BIHAR"
@@ -72,7 +72,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 2
 						region = "STATE_BIHAR"
@@ -90,7 +90,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 14
 						region = "STATE_BIHAR"
@@ -108,7 +108,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:HND"
 						levels = 5
 						region = "STATE_BIHAR"
@@ -127,7 +127,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:HND"
 						levels = 5
 						region = "STATE_BIHAR"
@@ -144,7 +144,7 @@
 				building = "building_bauxite_mine"
 				add_ownership = {
 					building = {
-						type = ""building_bauxite_mine""
+						type = "building_bauxite_mine"
 						country = "c:HND"
 						levels = 5
 						region = "STATE_BIHAR"
@@ -162,7 +162,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_BIHAR"
@@ -184,7 +184,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_NORTH_BENGAL"
@@ -201,7 +201,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_opium_plantation""
+						type = "building_opium_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_NORTH_BENGAL"
@@ -219,7 +219,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_NORTH_BENGAL"
@@ -237,7 +237,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_NORTH_BENGAL"
@@ -255,7 +255,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_NORTH_BENGAL"
@@ -273,7 +273,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_NORTH_BENGAL"
@@ -290,7 +290,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 2
 						region = "STATE_NORTH_BENGAL"
@@ -308,7 +308,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_NORTH_BENGAL"
@@ -323,7 +323,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:HND"
 						levels = 20
 						region = "STATE_NORTH_BENGAL"
@@ -341,7 +341,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_coffee_plantation""
+						type = "building_coffee_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_NORTH_BENGAL"
@@ -363,7 +363,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_ASSAM"
@@ -380,7 +380,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = ""building_coal_mine""
+						type = "building_coal_mine"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_ASSAM"
@@ -398,7 +398,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_ASSAM"
@@ -415,7 +415,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 6
 						region = "STATE_ASSAM"
@@ -430,7 +430,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 20
 						region = "STATE_ASSAM"
@@ -448,7 +448,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_coffee_plantation""
+						type = "building_coffee_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_ASSAM"
@@ -466,7 +466,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_ASSAM"
@@ -484,7 +484,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_ASSAM"
@@ -506,7 +506,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_HARYANA"
@@ -524,7 +524,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:HND"
 						levels = 20
 						region = "STATE_HARYANA"
@@ -542,7 +542,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 20
 						region = "STATE_HARYANA"
@@ -559,7 +559,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 7
 						region = "STATE_HARYANA"
@@ -581,7 +581,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_UTTAR_PRADESH"
@@ -599,7 +599,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_opium_plantation""
+						type = "building_opium_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_UTTAR_PRADESH"
@@ -617,7 +617,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 40
 						region = "STATE_UTTAR_PRADESH"
@@ -634,7 +634,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_UTTAR_PRADESH"
@@ -649,7 +649,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 2
 						region = "STATE_UTTAR_PRADESH"
@@ -667,7 +667,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 17
 						region = "STATE_UTTAR_PRADESH"
@@ -685,7 +685,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_UTTAR_PRADESH"
@@ -704,7 +704,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:HND"
 						levels = 5
 						region = "STATE_UTTAR_PRADESH"
@@ -725,7 +725,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 15
 						region = "STATE_GUJARAT"
@@ -743,7 +743,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 24
 						region = "STATE_GUJARAT"
@@ -760,7 +760,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 8
 						region = "STATE_GUJARAT"
@@ -778,7 +778,7 @@
 				building = "building_bauxite_mine"
 				add_ownership = {
 					building = {
-						type = ""building_bauxite_mine""
+						type = "building_bauxite_mine"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_GUJARAT"
@@ -796,7 +796,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_GUJARAT"
@@ -818,7 +818,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 15
 						region = "STATE_MADHYA_PRADESH"
@@ -836,7 +836,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_MADHYA_PRADESH"
@@ -855,7 +855,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_opium_plantation""
+						type = "building_opium_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_MADHYA_PRADESH"
@@ -873,7 +873,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_MADHYA_PRADESH"
@@ -891,7 +891,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 20
 						region = "STATE_MADHYA_PRADESH"
@@ -908,7 +908,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_banana_plantation""
+						type = "building_banana_plantation"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_MADHYA_PRADESH"
@@ -926,7 +926,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_coffee_plantation""
+						type = "building_coffee_plantation"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_MADHYA_PRADESH"
@@ -944,7 +944,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 2
 						region = "STATE_MADHYA_PRADESH"
@@ -962,7 +962,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 6
 						region = "STATE_MADHYA_PRADESH"
@@ -980,7 +980,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 5
 						region = "STATE_MADHYA_PRADESH"
@@ -999,7 +999,7 @@
 				building = "building_millet_farm"
 				add_ownership = {
 					building = {
-						type = ""building_millet_farm""
+						type = "building_millet_farm"
 						country = "c:HND"
 						levels = 30
 						region = "STATE_KASHMIR"
@@ -1016,7 +1016,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_KASHMIR"
@@ -1034,7 +1034,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_KASHMIR"
@@ -1052,7 +1052,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 2
 						region = "STATE_KASHMIR"
@@ -1069,7 +1069,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_KASHMIR"
@@ -1084,7 +1084,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:HND"
 						levels = 15
 						region = "STATE_KASHMIR"
@@ -1103,7 +1103,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:HND"
 						levels = 5
 						region = "STATE_KASHMIR"
@@ -1122,7 +1122,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_KASHMIR"
@@ -1144,7 +1144,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 20
 						region = "STATE_WEST_PUNJAB"
@@ -1161,7 +1161,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_WEST_PUNJAB"
@@ -1183,7 +1183,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 25
 						region = "STATE_CHHATTISGARH"
@@ -1201,7 +1201,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_CHHATTISGARH"
@@ -1218,7 +1218,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_CHHATTISGARH"
@@ -1237,7 +1237,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_CHHATTISGARH"
@@ -1254,7 +1254,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 3
 						region = "STATE_CHHATTISGARH"
@@ -1272,7 +1272,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 9
 						region = "STATE_CHHATTISGARH"
@@ -1290,7 +1290,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 5
 						region = "STATE_CHHATTISGARH"
@@ -1305,7 +1305,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:HND"
 						levels = 18
 						region = "STATE_CHHATTISGARH"
@@ -1327,7 +1327,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_SOUTH_BENGAL"
@@ -1345,7 +1345,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_SOUTH_BENGAL"
@@ -1362,7 +1362,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 20
 						region = "STATE_SOUTH_BENGAL"
@@ -1379,7 +1379,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_SOUTH_BENGAL"
@@ -1394,7 +1394,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_SOUTH_BENGAL"
@@ -1409,7 +1409,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_SOUTH_BENGAL"
@@ -1427,7 +1427,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_coffee_plantation""
+						type = "building_coffee_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_SOUTH_BENGAL"
@@ -1445,7 +1445,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_SOUTH_BENGAL"
@@ -1463,7 +1463,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_SOUTH_BENGAL"
@@ -1485,7 +1485,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 20
 						region = "STATE_SINDH"
@@ -1503,7 +1503,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_opium_plantation""
+						type = "building_opium_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_SINDH"
@@ -1521,7 +1521,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_sugar_plantation""
+						type = "building_sugar_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_SINDH"
@@ -1539,7 +1539,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_SINDH"
@@ -1557,7 +1557,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_SINDH"
@@ -1574,7 +1574,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_SINDH"
@@ -1589,7 +1589,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:HND"
 						levels = 5
 						region = "STATE_SINDH"
@@ -1604,7 +1604,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 3
 						region = "STATE_SINDH"
@@ -1622,7 +1622,7 @@
 				building = "building_phosphorus_mine"
 				add_ownership = {
 					building = {
-						type = ""building_phosphorus_mine""
+						type = "building_phosphorus_mine"
 						country = "c:HND"
 						levels = 30
 						region = "STATE_SINDH"
@@ -1644,7 +1644,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_RAJASTHAN"
@@ -1662,7 +1662,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_opium_plantation""
+						type = "building_opium_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_RAJASTHAN"
@@ -1680,7 +1680,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_RAJASTHAN"
@@ -1698,7 +1698,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_RAJASTHAN"
@@ -1715,7 +1715,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 3
 						region = "STATE_RAJASTHAN"
@@ -1733,7 +1733,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 5
 						region = "STATE_RAJASTHAN"
@@ -1748,7 +1748,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_RAJASTHAN"
@@ -1767,7 +1767,7 @@
 				building = "building_phosphorus_mine"
 				add_ownership = {
 					building = {
-						type = ""building_phosphorus_mine""
+						type = "building_phosphorus_mine"
 						country = "c:HND"
 						levels = 30
 						region = "STATE_RAJASTHAN"
@@ -1789,7 +1789,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:SRI"
 						levels = 2
 						region = "STATE_CEYLON"
@@ -1806,7 +1806,7 @@
 				building = "building_drydocks"
 				add_ownership = {
 					building = {
-						type = ""building_drydocks""
+						type = "building_drydocks"
 						country = "c:SRI"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -1826,7 +1826,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -1844,7 +1844,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -1862,7 +1862,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:SRI"
 						levels = 2
 						region = "STATE_CEYLON"
@@ -1882,7 +1882,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -1904,7 +1904,7 @@
 				building = "building_media_industry"
 				add_ownership = {
 					building = {
-						type = ""building_media_industry""
+						type = "building_media_industry"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -1922,7 +1922,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -1941,7 +1941,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:SRI"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -1958,7 +1958,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:SRI"
 						levels = 2
 						region = "STATE_CEYLON"
@@ -1975,7 +1975,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -1993,7 +1993,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:SRI"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2012,7 +2012,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = ""building_pharmaceutical_industry""
+						type = "building_pharmaceutical_industry"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -2032,7 +2032,7 @@
 				building = "building_automobile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_automobile_manufactories""
+						type = "building_automobile_manufactories"
 						country = "c:SRI"
 						levels = 2
 						region = "STATE_CEYLON"
@@ -2053,7 +2053,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -2072,7 +2072,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_banana_plantation""
+						type = "building_banana_plantation"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -2090,7 +2090,7 @@
 				building = "building_distilleries"
 				add_ownership = {
 					building = {
-						type = ""building_distilleries""
+						type = "building_distilleries"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -2110,7 +2110,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -2129,7 +2129,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:SRI"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2149,7 +2149,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = ""building_motor_industry""
+						type = "building_motor_industry"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -2169,7 +2169,7 @@
 				building = "building_fuel_refineries"
 				add_ownership = {
 					building = {
-						type = ""building_fuel_refineries""
+						type = "building_fuel_refineries"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -2189,7 +2189,7 @@
 				building = "building_aluminum_refinery"
 				add_ownership = {
 					building = {
-						type = ""building_aluminum_refinery""
+						type = "building_aluminum_refinery"
 						country = "c:SRI"
 						levels = 2
 						region = "STATE_CEYLON"
@@ -2208,7 +2208,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:SRI"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2226,7 +2226,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = ""building_steelworks""
+						type = "building_steelworks"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -2245,7 +2245,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_sugar_plantation""
+						type = "building_sugar_plantation"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -2263,7 +2263,7 @@
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
-						type = ""building_shipyards""
+						type = "building_shipyards"
 						country = "c:SRI"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2282,7 +2282,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = ""building_chemical_plants""
+						type = "building_chemical_plants"
 						country = "c:SRI"
 						levels = 2
 						region = "STATE_CEYLON"
@@ -2301,7 +2301,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:SRI"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2319,7 +2319,7 @@
 				building = "building_aircraft_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_aircraft_manufactories""
+						type = "building_aircraft_manufactories"
 						country = "c:SRI"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2340,7 +2340,7 @@
 				building = "building_rubber_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_rubber_plantation""
+						type = "building_rubber_plantation"
 						country = "c:SRI"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2358,7 +2358,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_coffee_plantation""
+						type = "building_coffee_plantation"
 						country = "c:SRI"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2376,7 +2376,7 @@
 				building = "building_synthetics_plant"
 				add_ownership = {
 					building = {
-						type = ""building_synthetics_plant""
+						type = "building_synthetics_plant"
 						country = "c:SRI"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2396,7 +2396,7 @@
 				building = "building_small_arms_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_small_arms_manufactories""
+						type = "building_small_arms_manufactories"
 						country = "c:SRI"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2415,7 +2415,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = ""building_glassworks""
+						type = "building_glassworks"
 						country = "c:SRI"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2434,7 +2434,7 @@
 				building = "building_advanced_military_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_advanced_military_manufactories""
+						type = "building_advanced_military_manufactories"
 						country = "c:SRI"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2454,7 +2454,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:SRI"
 						levels = 3
 						region = "STATE_CEYLON"
@@ -2474,7 +2474,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2492,7 +2492,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2509,7 +2509,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2528,7 +2528,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2546,7 +2546,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2565,7 +2565,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2585,7 +2585,7 @@
 				building = "building_distilleries"
 				add_ownership = {
 					building = {
-						type = ""building_distilleries""
+						type = "building_distilleries"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2605,7 +2605,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2623,7 +2623,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2641,7 +2641,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2659,7 +2659,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2678,7 +2678,7 @@
 				building = "building_fuel_refineries"
 				add_ownership = {
 					building = {
-						type = ""building_fuel_refineries""
+						type = "building_fuel_refineries"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2698,7 +2698,7 @@
 				building = "building_small_arms_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_small_arms_manufactories""
+						type = "building_small_arms_manufactories"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2717,7 +2717,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2737,7 +2737,7 @@
 				building = "building_drydocks"
 				add_ownership = {
 					building = {
-						type = ""building_drydocks""
+						type = "building_drydocks"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2757,7 +2757,7 @@
 				building = "building_media_industry"
 				add_ownership = {
 					building = {
-						type = ""building_media_industry""
+						type = "building_media_industry"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2775,7 +2775,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = ""building_pharmaceutical_industry""
+						type = "building_pharmaceutical_industry"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2795,7 +2795,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2814,7 +2814,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = ""building_motor_industry""
+						type = "building_motor_industry"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2834,7 +2834,7 @@
 				building = "building_automobile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_automobile_manufactories""
+						type = "building_automobile_manufactories"
 						country = "c:MLD"
 						levels = 1
 						region = "STATE_CEYLON"
@@ -2859,7 +2859,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_sugar_plantation""
+						type = "building_sugar_plantation"
 						country = "c:FRA"
 						levels = 2
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -2877,7 +2877,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:FRA"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -2892,7 +2892,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:FRA"
 						levels = 2
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -2910,7 +2910,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:FRA"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -2925,7 +2925,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:FRA"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -2942,7 +2942,7 @@
 				building = "building_distilleries"
 				add_ownership = {
 					building = {
-						type = ""building_distilleries""
+						type = "building_distilleries"
 						country = "c:FRA"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -2962,7 +2962,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:FRA"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -2979,7 +2979,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_banana_plantation""
+						type = "building_banana_plantation"
 						country = "c:FRA"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -2999,7 +2999,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:GBR"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -3014,7 +3014,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:GBR"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -3029,7 +3029,7 @@
 				building = "building_financial_services"
 				add_ownership = {
 					building = {
-						type = ""building_financial_services""
+						type = "building_financial_services"
 						country = "c:GBR"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -3048,7 +3048,7 @@
 				building = "building_electronics_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_electronics_manufactories""
+						type = "building_electronics_manufactories"
 						country = "c:GBR"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -3068,7 +3068,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:GBR"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -3085,7 +3085,7 @@
 				building = "building_media_industry"
 				add_ownership = {
 					building = {
-						type = ""building_media_industry""
+						type = "building_media_industry"
 						country = "c:GBR"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -3103,7 +3103,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:GBR"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -3120,7 +3120,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:GBR"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -3138,7 +3138,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:GBR"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -3157,7 +3157,7 @@
 				building = "building_drydocks"
 				add_ownership = {
 					building = {
-						type = ""building_drydocks""
+						type = "building_drydocks"
 						country = "c:GBR"
 						levels = 1
 						region = "STATE_INDIAN_OCEAN_TERRITORY"
@@ -3181,7 +3181,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_ODISHA"
@@ -3198,7 +3198,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_ODISHA"
@@ -3216,7 +3216,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_ODISHA"
@@ -3233,7 +3233,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:HND"
 						levels = 3
 						region = "STATE_ODISHA"
@@ -3248,7 +3248,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 5
 						region = "STATE_ODISHA"
@@ -3263,7 +3263,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:HND"
 						levels = 25
 						region = "STATE_ODISHA"
@@ -3281,7 +3281,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 2
 						region = "STATE_ODISHA"
@@ -3303,7 +3303,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 30
 						region = "STATE_ANDHRA_PRADESH"
@@ -3321,7 +3321,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_ANDHRA_PRADESH"
@@ -3338,7 +3338,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_ANDHRA_PRADESH"
@@ -3357,7 +3357,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 16
 						region = "STATE_ANDHRA_PRADESH"
@@ -3374,7 +3374,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:HND"
 						levels = 5
 						region = "STATE_ANDHRA_PRADESH"
@@ -3389,7 +3389,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 2
 						region = "STATE_ANDHRA_PRADESH"
@@ -3407,7 +3407,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 11
 						region = "STATE_ANDHRA_PRADESH"
@@ -3425,7 +3425,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_ANDHRA_PRADESH"
@@ -3440,7 +3440,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:HND"
 						levels = 21
 						region = "STATE_ANDHRA_PRADESH"
@@ -3458,7 +3458,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_ANDHRA_PRADESH"
@@ -3480,7 +3480,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 30
 						region = "STATE_KARNATAKA"
@@ -3498,7 +3498,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 16
 						region = "STATE_KARNATAKA"
@@ -3515,7 +3515,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 14
 						region = "STATE_KARNATAKA"
@@ -3533,7 +3533,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_KARNATAKA"
@@ -3548,7 +3548,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 2
 						region = "STATE_KARNATAKA"
@@ -3566,7 +3566,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:HND"
 						levels = 23
 						region = "STATE_KARNATAKA"
@@ -3584,7 +3584,7 @@
 				building = "building_gold_mine"
 				add_ownership = {
 					building = {
-						type = ""building_gold_mine""
+						type = "building_gold_mine"
 						country = "c:HND"
 						levels = 4
 						region = "STATE_KARNATAKA"
@@ -3602,7 +3602,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_KARNATAKA"
@@ -3624,7 +3624,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:POR"
 						levels = 5
 						region = "STATE_KARNATAKA"
@@ -3643,7 +3643,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_KERALA"
@@ -3661,7 +3661,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_KERALA"
@@ -3678,7 +3678,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_KERALA"
@@ -3695,7 +3695,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:HND"
 						levels = 3
 						region = "STATE_KERALA"
@@ -3710,7 +3710,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_KERALA"
@@ -3728,7 +3728,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_KERALA"
@@ -3750,7 +3750,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 20
 						region = "STATE_TAMIL_NADU"
@@ -3768,7 +3768,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_TAMIL_NADU"
@@ -3785,7 +3785,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 18
 						region = "STATE_TAMIL_NADU"
@@ -3802,7 +3802,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_TAMIL_NADU"
@@ -3817,7 +3817,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_TAMIL_NADU"
@@ -3835,7 +3835,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 2
 						region = "STATE_TAMIL_NADU"
@@ -3853,7 +3853,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:HND"
 						levels = 25
 						region = "STATE_TAMIL_NADU"
@@ -3875,7 +3875,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 20
 						region = "STATE_TELANGANA"
@@ -3893,7 +3893,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_TELANGANA"
@@ -3910,7 +3910,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 18
 						region = "STATE_TELANGANA"
@@ -3927,7 +3927,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_TELANGANA"
@@ -3949,7 +3949,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 16
 						region = "STATE_MAHARASHTRA"
@@ -3967,7 +3967,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 5
 						region = "STATE_MAHARASHTRA"
@@ -3982,7 +3982,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:HND"
 						levels = 15
 						region = "STATE_MAHARASHTRA"
@@ -4001,7 +4001,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 5
 						region = "STATE_MAHARASHTRA"
@@ -4019,7 +4019,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_MAHARASHTRA"
@@ -4039,7 +4039,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 30
 						region = "STATE_MAHARASHTRA"
@@ -4057,7 +4057,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_MAHARASHTRA"
@@ -4074,7 +4074,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_banana_plantation""
+						type = "building_banana_plantation"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_MAHARASHTRA"
@@ -4092,7 +4092,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_coffee_plantation""
+						type = "building_coffee_plantation"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_MAHARASHTRA"
@@ -4110,7 +4110,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:HND"
 						levels = 4
 						region = "STATE_MAHARASHTRA"
@@ -4129,7 +4129,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_WEST_BENGAL"
@@ -4147,7 +4147,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 20
 						region = "STATE_WEST_BENGAL"
@@ -4164,7 +4164,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:HND"
 						levels = 3
 						region = "STATE_WEST_BENGAL"
@@ -4179,7 +4179,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_WEST_BENGAL"
@@ -4197,7 +4197,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 25
 						region = "STATE_WEST_BENGAL"
@@ -4215,7 +4215,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_WEST_BENGAL"
@@ -4230,7 +4230,7 @@
 				building = "building_bauxite_mine"
 				add_ownership = {
 					building = {
-						type = ""building_bauxite_mine""
+						type = "building_bauxite_mine"
 						country = "c:HND"
 						levels = 5
 						region = "STATE_WEST_BENGAL"
@@ -4248,7 +4248,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_WEST_BENGAL"
@@ -4266,7 +4266,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_WEST_BENGAL"
@@ -4288,7 +4288,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_ARUNACHAL_PRADESH"
@@ -4305,7 +4305,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 15
 						region = "STATE_ARUNACHAL_PRADESH"
@@ -4323,7 +4323,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_ARUNACHAL_PRADESH"
@@ -4341,7 +4341,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:HND"
 						levels = 3
 						region = "STATE_ARUNACHAL_PRADESH"
@@ -4363,7 +4363,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = ""building_rice_farm""
+						type = "building_rice_farm"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_PURVACHAL_PRADESH"
@@ -4380,7 +4380,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_PURVACHAL_PRADESH"
@@ -4397,7 +4397,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 2
 						region = "STATE_PURVACHAL_PRADESH"
@@ -4415,7 +4415,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 20
 						region = "STATE_PURVACHAL_PRADESH"
@@ -4433,7 +4433,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_PURVACHAL_PRADESH"
@@ -4451,7 +4451,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tea_plantation""
+						type = "building_tea_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_PURVACHAL_PRADESH"
@@ -4473,7 +4473,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_HIMACHAL_PRADESH"
@@ -4488,7 +4488,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_HIMACHAL_PRADESH"
@@ -4506,7 +4506,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_HIMACHAL_PRADESH"
@@ -4523,7 +4523,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_HIMACHAL_PRADESH"
@@ -4541,7 +4541,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 5
 						region = "STATE_HIMACHAL_PRADESH"
@@ -4559,7 +4559,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:HND"
 						levels = 20
 						region = "STATE_HIMACHAL_PRADESH"
@@ -4581,7 +4581,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_PUNJAB_E"
@@ -4596,7 +4596,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_PUNJAB_E"
@@ -4614,7 +4614,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:HND"
 						levels = 10
 						region = "STATE_PUNJAB_E"
@@ -4631,7 +4631,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:HND"
 						levels = 1
 						region = "STATE_PUNJAB_E"
@@ -4649,7 +4649,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:HND"
 						levels = 7
 						region = "STATE_PUNJAB_E"
@@ -4667,7 +4667,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:HND"
 						levels = 7
 						region = "STATE_PUNJAB_E"

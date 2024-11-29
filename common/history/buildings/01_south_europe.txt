@@ -5,7 +5,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_LOMBARDY"
@@ -22,7 +22,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ITA"
 						levels = 12
 						region = "STATE_LOMBARDY"
@@ -39,7 +39,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_LOMBARDY"
@@ -58,7 +58,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_LOMBARDY"
@@ -76,7 +76,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:ITA"
 						levels = 6
 						region = "STATE_LOMBARDY"
@@ -94,7 +94,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_LOMBARDY"
@@ -113,7 +113,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = ""building_steelworks""
+						type = "building_steelworks"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_LOMBARDY"
@@ -132,7 +132,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_LOMBARDY"
@@ -150,7 +150,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = ""building_chemical_plants""
+						type = "building_chemical_plants"
 						country = "c:ITA"
 						levels = 6
 						region = "STATE_LOMBARDY"
@@ -169,7 +169,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = ""building_motor_industry""
+						type = "building_motor_industry"
 						country = "c:ITA"
 						levels = 6
 						region = "STATE_LOMBARDY"
@@ -189,7 +189,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_LOMBARDY"
@@ -206,7 +206,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_LOMBARDY"
@@ -223,7 +223,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_LOMBARDY"
@@ -245,7 +245,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_LOMBARDY"
@@ -263,7 +263,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_LOMBARDY"
@@ -278,7 +278,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_LOMBARDY"
@@ -297,7 +297,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_LOMBARDY"
@@ -317,7 +317,7 @@
 				building = "building_automobile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_automobile_manufactories""
+						type = "building_automobile_manufactories"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_LOMBARDY"
@@ -338,7 +338,7 @@
 				building = "building_oil_rig"
 				add_ownership = {
 					building = {
-						type = ""building_oil_rig""
+						type = "building_oil_rig"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_LOMBARDY"
@@ -355,7 +355,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:ITA"
 						levels = 15
 						region = "STATE_LOMBARDY"
@@ -379,7 +379,7 @@
 				building = "building_lead_mine"
 				add_ownership = {
 					building = {
-						type = ""building_lead_mine""
+						type = "building_lead_mine"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_PIEDMONT"
@@ -397,7 +397,7 @@
 				building = "building_airport"
 				add_ownership = {
 					building = {
-						type = ""building_airport""
+						type = "building_airport"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_PIEDMONT"
@@ -413,7 +413,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_PIEDMONT"
@@ -430,7 +430,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_PIEDMONT"
@@ -449,7 +449,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_PIEDMONT"
@@ -467,7 +467,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_PIEDMONT"
@@ -485,7 +485,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = ""building_coal_mine""
+						type = "building_coal_mine"
 						country = "c:ITA"
 						levels = 18
 						region = "STATE_PIEDMONT"
@@ -503,7 +503,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = ""building_chemical_plants""
+						type = "building_chemical_plants"
 						country = "c:ITA"
 						levels = 7
 						region = "STATE_PIEDMONT"
@@ -522,7 +522,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:ITA"
 						levels = 22
 						region = "STATE_PIEDMONT"
@@ -540,7 +540,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:ITA"
 						levels = 10
 						region = "STATE_PIEDMONT"
@@ -557,7 +557,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:ITA"
 						levels = 12
 						region = "STATE_PIEDMONT"
@@ -576,7 +576,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = ""building_steelworks""
+						type = "building_steelworks"
 						country = "c:ITA"
 						levels = 11
 						region = "STATE_PIEDMONT"
@@ -595,7 +595,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = ""building_motor_industry""
+						type = "building_motor_industry"
 						country = "c:ITA"
 						levels = 9
 						region = "STATE_PIEDMONT"
@@ -615,7 +615,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ITA"
 						levels = 10
 						region = "STATE_PIEDMONT"
@@ -633,7 +633,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_PIEDMONT"
@@ -648,7 +648,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_PIEDMONT"
@@ -665,7 +665,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ITA"
 						levels = 9
 						region = "STATE_PIEDMONT"
@@ -687,7 +687,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = ""building_glassworks""
+						type = "building_glassworks"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_PIEDMONT"
@@ -706,7 +706,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = ""building_pharmaceutical_industry""
+						type = "building_pharmaceutical_industry"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_PIEDMONT"
@@ -726,7 +726,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_PIEDMONT"
@@ -744,7 +744,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_PIEDMONT"
@@ -761,7 +761,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_PIEDMONT"
@@ -780,7 +780,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_PIEDMONT"
@@ -800,7 +800,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:ITA"
 						levels = 7
 						region = "STATE_PIEDMONT"
@@ -815,7 +815,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:ITA"
 						levels = 6
 						region = "STATE_PIEDMONT"
@@ -834,7 +834,7 @@
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
-						type = ""building_shipyards""
+						type = "building_shipyards"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_PIEDMONT"
@@ -853,7 +853,7 @@
 				building = "building_small_arms_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_small_arms_manufactories""
+						type = "building_small_arms_manufactories"
 						country = "c:ITA"
 						levels = 6
 						region = "STATE_PIEDMONT"
@@ -872,7 +872,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:ITA"
 						levels = 12
 						region = "STATE_PIEDMONT"
@@ -892,7 +892,7 @@
 				building = "building_automobile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_automobile_manufactories""
+						type = "building_automobile_manufactories"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_PIEDMONT"
@@ -913,7 +913,7 @@
 				building = "building_fuel_refineries"
 				add_ownership = {
 					building = {
-						type = ""building_fuel_refineries""
+						type = "building_fuel_refineries"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_PIEDMONT"
@@ -933,7 +933,7 @@
 				building = "building_financial_services"
 				add_ownership = {
 					building = {
-						type = ""building_financial_services""
+						type = "building_financial_services"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_PIEDMONT"
@@ -956,7 +956,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_SARDINIA"
@@ -973,7 +973,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_SARDINIA"
@@ -991,7 +991,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_SARDINIA"
@@ -1009,7 +1009,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_SARDINIA"
@@ -1027,7 +1027,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_SARDINIA"
@@ -1042,7 +1042,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_SARDINIA"
@@ -1059,7 +1059,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_SARDINIA"
@@ -1077,7 +1077,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_SARDINIA"
@@ -1094,7 +1094,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_SARDINIA"
@@ -1109,7 +1109,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_SARDINIA"
@@ -1128,7 +1128,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_SARDINIA"
@@ -1150,7 +1150,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_SARDINIA"
@@ -1169,7 +1169,7 @@
 				building = "building_electronics_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_electronics_manufactories""
+						type = "building_electronics_manufactories"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_SARDINIA"
@@ -1189,7 +1189,7 @@
 				building = "building_phosphorus_mine"
 				add_ownership = {
 					building = {
-						type = ""building_phosphorus_mine""
+						type = "building_phosphorus_mine"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_SARDINIA"
@@ -1207,7 +1207,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_SARDINIA"
@@ -1225,7 +1225,7 @@
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
-						type = ""building_shipyards""
+						type = "building_shipyards"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_SARDINIA"
@@ -1248,7 +1248,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:MLT"
 						levels = 2
 						region = "STATE_MALTA"
@@ -1263,7 +1263,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:MLT"
 						levels = 2
 						region = "STATE_MALTA"
@@ -1281,7 +1281,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:MLT"
 						levels = 1
 						region = "STATE_MALTA"
@@ -1300,7 +1300,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:MLT"
 						levels = 1
 						region = "STATE_MALTA"
@@ -1317,7 +1317,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:MLT"
 						levels = 1
 						region = "STATE_MALTA"
@@ -1336,7 +1336,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_UMBRIA"
@@ -1353,7 +1353,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_UMBRIA"
@@ -1371,7 +1371,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_UMBRIA"
@@ -1386,7 +1386,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_UMBRIA"
@@ -1403,7 +1403,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_UMBRIA"
@@ -1425,7 +1425,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_UMBRIA"
@@ -1443,7 +1443,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_UMBRIA"
@@ -1458,7 +1458,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_UMBRIA"
@@ -1476,7 +1476,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_UMBRIA"
@@ -1495,7 +1495,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_UMBRIA"
@@ -1513,7 +1513,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:ITA"
 						levels = 8
 						region = "STATE_UMBRIA"
@@ -1533,7 +1533,7 @@
 				building = "building_distilleries"
 				add_ownership = {
 					building = {
-						type = ""building_distilleries""
+						type = "building_distilleries"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_UMBRIA"
@@ -1553,7 +1553,7 @@
 				building = "building_media_industry"
 				add_ownership = {
 					building = {
-						type = ""building_media_industry""
+						type = "building_media_industry"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_UMBRIA"
@@ -1571,7 +1571,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = ""building_pharmaceutical_industry""
+						type = "building_pharmaceutical_industry"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_UMBRIA"
@@ -1595,7 +1595,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:FRA"
 						levels = 1
 						region = "STATE_CORSICA"
@@ -1610,7 +1610,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:FRA"
 						levels = 2
 						region = "STATE_CORSICA"
@@ -1632,7 +1632,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_sugar_plantation""
+						type = "building_sugar_plantation"
 						country = "c:ITA"
 						levels = 14
 						region = "STATE_CAMPANIA"
@@ -1650,7 +1650,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ITA"
 						levels = 12
 						region = "STATE_CAMPANIA"
@@ -1667,7 +1667,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:ITA"
 						levels = 6
 						region = "STATE_CAMPANIA"
@@ -1686,7 +1686,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:ITA"
 						levels = 15
 						region = "STATE_CAMPANIA"
@@ -1704,7 +1704,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:ITA"
 						levels = 8
 						region = "STATE_CAMPANIA"
@@ -1722,7 +1722,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_CAMPANIA"
@@ -1740,7 +1740,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_CAMPANIA"
@@ -1758,7 +1758,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_CAMPANIA"
@@ -1773,7 +1773,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_CAMPANIA"
@@ -1790,7 +1790,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_CAMPANIA"
@@ -1812,7 +1812,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_CAMPANIA"
@@ -1831,7 +1831,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_CAMPANIA"
@@ -1849,7 +1849,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_CAMPANIA"
@@ -1866,7 +1866,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_CAMPANIA"
@@ -1883,7 +1883,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_CAMPANIA"
@@ -1902,7 +1902,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_CAMPANIA"
@@ -1922,7 +1922,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_CAMPANIA"
@@ -1937,7 +1937,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:ITA"
 						levels = 7
 						region = "STATE_CAMPANIA"
@@ -1955,7 +1955,7 @@
 				building = "building_bauxite_mine"
 				add_ownership = {
 					building = {
-						type = ""building_bauxite_mine""
+						type = "building_bauxite_mine"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_CAMPANIA"
@@ -1977,7 +1977,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_sugar_plantation""
+						type = "building_sugar_plantation"
 						country = "c:ITA"
 						levels = 6
 						region = "STATE_CALABRIA"
@@ -1995,7 +1995,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_CALABRIA"
@@ -2013,7 +2013,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ITA"
 						levels = 13
 						region = "STATE_CALABRIA"
@@ -2030,7 +2030,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_CALABRIA"
@@ -2049,7 +2049,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_CALABRIA"
@@ -2067,7 +2067,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = ""building_coal_mine""
+						type = "building_coal_mine"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_CALABRIA"
@@ -2085,7 +2085,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_CALABRIA"
@@ -2100,7 +2100,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_CALABRIA"
@@ -2117,7 +2117,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_CALABRIA"
@@ -2139,7 +2139,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_CALABRIA"
@@ -2158,7 +2158,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_CALABRIA"
@@ -2176,7 +2176,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_CALABRIA"
@@ -2191,7 +2191,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_CALABRIA"
@@ -2209,7 +2209,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_CALABRIA"
@@ -2228,7 +2228,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_CALABRIA"
@@ -2246,7 +2246,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_CALABRIA"
@@ -2266,7 +2266,7 @@
 				building = "building_distilleries"
 				add_ownership = {
 					building = {
-						type = ""building_distilleries""
+						type = "building_distilleries"
 						country = "c:ITA"
 						levels = 6
 						region = "STATE_CALABRIA"
@@ -2286,7 +2286,7 @@
 				building = "building_drydocks"
 				add_ownership = {
 					building = {
-						type = ""building_drydocks""
+						type = "building_drydocks"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_CALABRIA"
@@ -2310,7 +2310,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_APULIA"
@@ -2330,7 +2330,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ITA"
 						levels = 16
 						region = "STATE_APULIA"
@@ -2347,7 +2347,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_APULIA"
@@ -2366,7 +2366,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:ITA"
 						levels = 6
 						region = "STATE_APULIA"
@@ -2384,7 +2384,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_APULIA"
@@ -2402,7 +2402,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_APULIA"
@@ -2420,7 +2420,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_APULIA"
@@ -2435,7 +2435,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_APULIA"
@@ -2452,7 +2452,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_APULIA"
@@ -2474,7 +2474,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_APULIA"
@@ -2493,7 +2493,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_APULIA"
@@ -2511,7 +2511,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_APULIA"
@@ -2530,7 +2530,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_APULIA"
@@ -2545,7 +2545,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_sugar_plantation""
+						type = "building_sugar_plantation"
 						country = "c:ITA"
 						levels = 15
 						region = "STATE_APULIA"
@@ -2563,7 +2563,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_APULIA"
@@ -2581,7 +2581,7 @@
 				building = "building_aluminum_refinery"
 				add_ownership = {
 					building = {
-						type = ""building_aluminum_refinery""
+						type = "building_aluminum_refinery"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_APULIA"
@@ -2604,7 +2604,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ITA"
 						levels = 13
 						region = "STATE_ABRUZZO"
@@ -2621,7 +2621,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_ABRUZZO"
@@ -2639,7 +2639,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_ABRUZZO"
@@ -2654,7 +2654,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_ABRUZZO"
@@ -2671,7 +2671,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_ABRUZZO"
@@ -2693,7 +2693,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_ABRUZZO"
@@ -2711,7 +2711,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_ABRUZZO"
@@ -2726,7 +2726,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_ABRUZZO"
@@ -2746,7 +2746,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_sugar_plantation""
+						type = "building_sugar_plantation"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_ABRUZZO"
@@ -2764,7 +2764,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_ABRUZZO"
@@ -2782,7 +2782,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_ABRUZZO"
@@ -2801,7 +2801,7 @@
 				building = "building_aircraft_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_aircraft_manufactories""
+						type = "building_aircraft_manufactories"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_ABRUZZO"
@@ -2826,7 +2826,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:FRA"
 						levels = 2
 						region = "STATE_SAVOY"
@@ -2841,7 +2841,7 @@
 				building = "building_small_arms_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_small_arms_manufactories""
+						type = "building_small_arms_manufactories"
 						country = "c:FRA"
 						levels = 1
 						region = "STATE_SAVOY"
@@ -2860,7 +2860,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:FRA"
 						levels = 1
 						region = "STATE_SAVOY"
@@ -2882,7 +2882,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_EMILIA"
@@ -2901,7 +2901,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ITA"
 						levels = 9
 						region = "STATE_EMILIA"
@@ -2918,7 +2918,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_EMILIA"
@@ -2936,7 +2936,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:ITA"
 						levels = 6
 						region = "STATE_EMILIA"
@@ -2954,7 +2954,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = ""building_motor_industry""
+						type = "building_motor_industry"
 						country = "c:ITA"
 						levels = 8
 						region = "STATE_EMILIA"
@@ -2974,7 +2974,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_EMILIA"
@@ -2992,7 +2992,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_EMILIA"
@@ -3007,7 +3007,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = ""building_chemical_plants""
+						type = "building_chemical_plants"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_EMILIA"
@@ -3026,7 +3026,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = ""building_steelworks""
+						type = "building_steelworks"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_EMILIA"
@@ -3045,7 +3045,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_EMILIA"
@@ -3062,7 +3062,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_EMILIA"
@@ -3079,7 +3079,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_EMILIA"
@@ -3101,7 +3101,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_EMILIA"
@@ -3119,7 +3119,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_EMILIA"
@@ -3136,7 +3136,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_EMILIA"
@@ -3151,7 +3151,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_EMILIA"
@@ -3169,7 +3169,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_EMILIA"
@@ -3188,7 +3188,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_EMILIA"
@@ -3208,7 +3208,7 @@
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
-						type = ""building_shipyards""
+						type = "building_shipyards"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_EMILIA"
@@ -3227,7 +3227,7 @@
 				building = "building_automobile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_automobile_manufactories""
+						type = "building_automobile_manufactories"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_EMILIA"
@@ -3252,7 +3252,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_TUSCANY"
@@ -3267,7 +3267,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ITA"
 						levels = 10
 						region = "STATE_TUSCANY"
@@ -3284,7 +3284,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = ""building_motor_industry""
+						type = "building_motor_industry"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_TUSCANY"
@@ -3304,7 +3304,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_TUSCANY"
@@ -3322,7 +3322,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_TUSCANY"
@@ -3337,7 +3337,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_TUSCANY"
@@ -3354,7 +3354,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ITA"
 						levels = 6
 						region = "STATE_TUSCANY"
@@ -3376,7 +3376,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_TUSCANY"
@@ -3394,7 +3394,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_TUSCANY"
@@ -3411,7 +3411,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:ITA"
 						levels = 6
 						region = "STATE_TUSCANY"
@@ -3429,7 +3429,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_TUSCANY"
@@ -3449,7 +3449,7 @@
 				building = "building_automobile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_automobile_manufactories""
+						type = "building_automobile_manufactories"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_TUSCANY"
@@ -3470,7 +3470,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_TUSCANY"
@@ -3489,7 +3489,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_TUSCANY"
@@ -3508,7 +3508,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_TUSCANY"
@@ -3526,7 +3526,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_TUSCANY"
@@ -3545,7 +3545,7 @@
 				building = "building_distilleries"
 				add_ownership = {
 					building = {
-						type = ""building_distilleries""
+						type = "building_distilleries"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_TUSCANY"
@@ -3565,7 +3565,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_TUSCANY"
@@ -3589,7 +3589,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_ROMAGNA"
@@ -3606,7 +3606,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = ""building_motor_industry""
+						type = "building_motor_industry"
 						country = "c:ITA"
 						levels = 6
 						region = "STATE_ROMAGNA"
@@ -3626,7 +3626,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_ROMAGNA"
@@ -3644,7 +3644,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_ROMAGNA"
@@ -3659,7 +3659,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = ""building_steelworks""
+						type = "building_steelworks"
 						country = "c:ITA"
 						levels = 7
 						region = "STATE_ROMAGNA"
@@ -3678,7 +3678,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_ROMAGNA"
@@ -3695,7 +3695,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_ROMAGNA"
@@ -3717,7 +3717,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_ROMAGNA"
@@ -3735,7 +3735,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_ROMAGNA"
@@ -3752,7 +3752,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_ROMAGNA"
@@ -3767,7 +3767,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_ROMAGNA"
@@ -3786,7 +3786,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_ROMAGNA"
@@ -3806,7 +3806,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_ROMAGNA"
@@ -3824,7 +3824,7 @@
 				building = "building_automobile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_automobile_manufactories""
+						type = "building_automobile_manufactories"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_ROMAGNA"
@@ -3845,7 +3845,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_ROMAGNA"
@@ -3864,7 +3864,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_ROMAGNA"
@@ -3886,7 +3886,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:ITA"
 						levels = 8
 						region = "STATE_LAZIO"
@@ -3901,7 +3901,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:ITA"
 						levels = 8
 						region = "STATE_LAZIO"
@@ -3920,7 +3920,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_LAZIO"
@@ -3937,7 +3937,7 @@
 				building = "building_airport"
 				add_ownership = {
 					building = {
-						type = ""building_airport""
+						type = "building_airport"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_LAZIO"
@@ -3953,7 +3953,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ITA"
 						levels = 10
 						region = "STATE_LAZIO"
@@ -3970,7 +3970,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_LAZIO"
@@ -3988,7 +3988,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:ITA"
 						levels = 8
 						region = "STATE_LAZIO"
@@ -4005,7 +4005,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_LAZIO"
@@ -4020,7 +4020,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_LAZIO"
@@ -4038,7 +4038,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ITA"
 						levels = 10
 						region = "STATE_LAZIO"
@@ -4060,7 +4060,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = ""building_glassworks""
+						type = "building_glassworks"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_LAZIO"
@@ -4079,7 +4079,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_LAZIO"
@@ -4099,7 +4099,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ITA"
 						levels = 8
 						region = "STATE_LAZIO"
@@ -4118,7 +4118,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ITA"
 						levels = 32
 						region = "STATE_LAZIO"
@@ -4135,7 +4135,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:ITA"
 						levels = 9
 						region = "STATE_LAZIO"
@@ -4154,7 +4154,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = ""building_pharmaceutical_industry""
+						type = "building_pharmaceutical_industry"
 						country = "c:ITA"
 						levels = 8
 						region = "STATE_LAZIO"
@@ -4174,7 +4174,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_LAZIO"
@@ -4192,7 +4192,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:ITA"
 						levels = 7
 						region = "STATE_LAZIO"
@@ -4210,7 +4210,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_LAZIO"
@@ -4228,7 +4228,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_LAZIO"
@@ -4248,7 +4248,7 @@
 				building = "building_financial_services"
 				add_ownership = {
 					building = {
-						type = ""building_financial_services""
+						type = "building_financial_services"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_LAZIO"
@@ -4271,7 +4271,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ITA"
 						levels = 10
 						region = "STATE_VENETIA"
@@ -4288,7 +4288,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_VENETIA"
@@ -4306,7 +4306,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = ""building_coal_mine""
+						type = "building_coal_mine"
 						country = "c:ITA"
 						levels = 22
 						region = "STATE_VENETIA"
@@ -4324,7 +4324,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = ""building_chemical_plants""
+						type = "building_chemical_plants"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_VENETIA"
@@ -4343,7 +4343,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:ITA"
 						levels = 12
 						region = "STATE_VENETIA"
@@ -4362,7 +4362,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:ITA"
 						levels = 7
 						region = "STATE_VENETIA"
@@ -4379,7 +4379,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = ""building_steelworks""
+						type = "building_steelworks"
 						country = "c:ITA"
 						levels = 7
 						region = "STATE_VENETIA"
@@ -4398,7 +4398,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ITA"
 						levels = 8
 						region = "STATE_VENETIA"
@@ -4416,7 +4416,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_VENETIA"
@@ -4431,7 +4431,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = ""building_motor_industry""
+						type = "building_motor_industry"
 						country = "c:ITA"
 						levels = 10
 						region = "STATE_VENETIA"
@@ -4451,7 +4451,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_VENETIA"
@@ -4468,7 +4468,7 @@
 				building = "building_phosphorus_mine"
 				add_ownership = {
 					building = {
-						type = ""building_phosphorus_mine""
+						type = "building_phosphorus_mine"
 						country = "c:ITA"
 						levels = 7
 						region = "STATE_VENETIA"
@@ -4486,7 +4486,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ITA"
 						levels = 6
 						region = "STATE_VENETIA"
@@ -4508,7 +4508,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_VENETIA"
@@ -4527,7 +4527,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = ""building_glassworks""
+						type = "building_glassworks"
 						country = "c:ITA"
 						levels = 12
 						region = "STATE_VENETIA"
@@ -4546,7 +4546,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = ""building_pharmaceutical_industry""
+						type = "building_pharmaceutical_industry"
 						country = "c:ITA"
 						levels = 7
 						region = "STATE_VENETIA"
@@ -4566,7 +4566,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_VENETIA"
@@ -4584,7 +4584,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_VENETIA"
@@ -4603,7 +4603,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_VENETIA"
@@ -4623,7 +4623,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_VENETIA"
@@ -4640,7 +4640,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:ITA"
 						levels = 7
 						region = "STATE_VENETIA"
@@ -4655,7 +4655,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_VENETIA"
@@ -4673,7 +4673,7 @@
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
-						type = ""building_shipyards""
+						type = "building_shipyards"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_VENETIA"
@@ -4692,7 +4692,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_VENETIA"
@@ -4710,7 +4710,7 @@
 				building = "building_advanced_military_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_advanced_military_manufactories""
+						type = "building_advanced_military_manufactories"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_VENETIA"
@@ -4730,7 +4730,7 @@
 				building = "building_media_industry"
 				add_ownership = {
 					building = {
-						type = ""building_media_industry""
+						type = "building_media_industry"
 						country = "c:ITA"
 						levels = 11
 						region = "STATE_VENETIA"
@@ -4748,7 +4748,7 @@
 				building = "building_financial_services"
 				add_ownership = {
 					building = {
-						type = ""building_financial_services""
+						type = "building_financial_services"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_VENETIA"
@@ -4771,7 +4771,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:ITA"
 						levels = 9
 						region = "STATE_SICILY"
@@ -4790,7 +4790,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_SICILY"
@@ -4808,7 +4808,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ITA"
 						levels = 14
 						region = "STATE_SICILY"
@@ -4825,7 +4825,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_sugar_plantation""
+						type = "building_sugar_plantation"
 						country = "c:ITA"
 						levels = 19
 						region = "STATE_SICILY"
@@ -4843,7 +4843,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:ITA"
 						levels = 9
 						region = "STATE_SICILY"
@@ -4861,7 +4861,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:ITA"
 						levels = 8
 						region = "STATE_SICILY"
@@ -4879,7 +4879,7 @@
 				building = "building_phosphorus_mine"
 				add_ownership = {
 					building = {
-						type = ""building_phosphorus_mine""
+						type = "building_phosphorus_mine"
 						country = "c:ITA"
 						levels = 10
 						region = "STATE_SICILY"
@@ -4897,7 +4897,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_SICILY"
@@ -4912,7 +4912,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_SICILY"
@@ -4929,7 +4929,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ITA"
 						levels = 7
 						region = "STATE_SICILY"
@@ -4951,7 +4951,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_SICILY"
@@ -4969,7 +4969,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_SICILY"
@@ -4986,7 +4986,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ITA"
 						levels = 7
 						region = "STATE_SICILY"
@@ -5005,7 +5005,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_SICILY"
@@ -5025,7 +5025,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:ITA"
 						levels = 3
 						region = "STATE_SICILY"
@@ -5040,7 +5040,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:ITA"
 						levels = 4
 						region = "STATE_SICILY"
@@ -5058,7 +5058,7 @@
 				building = "building_fuel_refineries"
 				add_ownership = {
 					building = {
-						type = ""building_fuel_refineries""
+						type = "building_fuel_refineries"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_SICILY"
@@ -5082,7 +5082,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_SOUTH_CASTILE"
@@ -5100,7 +5100,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_SOUTH_CASTILE"
@@ -5119,7 +5119,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:SPA"
 						levels = 10
 						region = "STATE_SOUTH_CASTILE"
@@ -5134,7 +5134,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:SPA"
 						levels = 3
 						region = "STATE_SOUTH_CASTILE"
@@ -5154,7 +5154,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_SOUTH_CASTILE"
@@ -5171,7 +5171,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:SPA"
 						levels = 6
 						region = "STATE_SOUTH_CASTILE"
@@ -5190,7 +5190,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:SPA"
 						levels = 6
 						region = "STATE_SOUTH_CASTILE"
@@ -5208,7 +5208,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_SOUTH_CASTILE"
@@ -5228,7 +5228,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_SOUTH_CASTILE"
@@ -5250,7 +5250,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_SOUTH_CASTILE"
@@ -5267,7 +5267,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_SOUTH_CASTILE"
@@ -5286,7 +5286,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:SPA"
 						levels = 10
 						region = "STATE_SOUTH_CASTILE"
@@ -5303,7 +5303,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_SOUTH_CASTILE"
@@ -5320,7 +5320,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_SOUTH_CASTILE"
@@ -5338,7 +5338,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = ""building_motor_industry""
+						type = "building_motor_industry"
 						country = "c:SPA"
 						levels = 4
 						region = "STATE_SOUTH_CASTILE"
@@ -5358,7 +5358,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:SPA"
 						levels = 4
 						region = "STATE_SOUTH_CASTILE"
@@ -5377,7 +5377,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_sugar_plantation""
+						type = "building_sugar_plantation"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_SOUTH_CASTILE"
@@ -5395,7 +5395,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = ""building_pharmaceutical_industry""
+						type = "building_pharmaceutical_industry"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_SOUTH_CASTILE"
@@ -5419,7 +5419,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_GALICIA"
@@ -5434,7 +5434,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_GALICIA"
@@ -5452,7 +5452,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_GALICIA"
@@ -5472,7 +5472,7 @@
 				building = "building_distilleries"
 				add_ownership = {
 					building = {
-						type = ""building_distilleries""
+						type = "building_distilleries"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_GALICIA"
@@ -5492,7 +5492,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:SPA"
 						levels = 3
 						region = "STATE_GALICIA"
@@ -5511,7 +5511,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_GALICIA"
@@ -5529,7 +5529,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_GALICIA"
@@ -5551,7 +5551,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = ""building_pharmaceutical_industry""
+						type = "building_pharmaceutical_industry"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_GALICIA"
@@ -5571,7 +5571,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_GALICIA"
@@ -5590,7 +5590,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_ASTURIAS"
@@ -5608,7 +5608,7 @@
 				building = "building_bauxite_mine"
 				add_ownership = {
 					building = {
-						type = ""building_bauxite_mine""
+						type = "building_bauxite_mine"
 						country = "c:SPA"
 						levels = 4
 						region = "STATE_ASTURIAS"
@@ -5626,7 +5626,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:SPA"
 						levels = 10
 						region = "STATE_ASTURIAS"
@@ -5643,7 +5643,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_ASTURIAS"
@@ -5665,7 +5665,7 @@
 				building = "building_distilleries"
 				add_ownership = {
 					building = {
-						type = ""building_distilleries""
+						type = "building_distilleries"
 						country = "c:SPA"
 						levels = 7
 						region = "STATE_ASTURIAS"
@@ -5685,7 +5685,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_ASTURIAS"
@@ -5703,7 +5703,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_ASTURIAS"
@@ -5722,7 +5722,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:SPA"
 						levels = 4
 						region = "STATE_CASTILE"
@@ -5739,7 +5739,7 @@
 				building = "building_aluminum_refinery"
 				add_ownership = {
 					building = {
-						type = ""building_aluminum_refinery""
+						type = "building_aluminum_refinery"
 						country = "c:SPA"
 						levels = 3
 						region = "STATE_CASTILE"
@@ -5758,7 +5758,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:SPA"
 						levels = 20
 						region = "STATE_CASTILE"
@@ -5775,7 +5775,7 @@
 				building = "building_oil_rig"
 				add_ownership = {
 					building = {
-						type = ""building_oil_rig""
+						type = "building_oil_rig"
 						country = "c:SPA"
 						levels = 3
 						region = "STATE_CASTILE"
@@ -5793,7 +5793,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_CASTILE"
@@ -5815,7 +5815,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:SPA"
 						levels = 11
 						region = "STATE_NAVARRA"
@@ -5833,7 +5833,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:SPA"
 						levels = 10
 						region = "STATE_NAVARRA"
@@ -5850,7 +5850,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:SPA"
 						levels = 3
 						region = "STATE_NAVARRA"
@@ -5869,7 +5869,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_NAVARRA"
@@ -5891,7 +5891,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_NAVARRA"
@@ -5909,7 +5909,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_NAVARRA"
@@ -5924,7 +5924,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_NAVARRA"
@@ -5943,7 +5943,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_ARAGON"
@@ -5961,7 +5961,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_ARAGON"
@@ -5981,7 +5981,7 @@
 				building = "building_lead_mine"
 				add_ownership = {
 					building = {
-						type = ""building_lead_mine""
+						type = "building_lead_mine"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_ARAGON"
@@ -5999,7 +5999,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:SPA"
 						levels = 3
 						region = "STATE_ARAGON"
@@ -6018,7 +6018,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:SPA"
 						levels = 4
 						region = "STATE_ARAGON"
@@ -6036,7 +6036,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_ARAGON"
@@ -6053,7 +6053,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_ARAGON"
@@ -6072,7 +6072,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_ARAGON"
@@ -6091,7 +6091,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_ARAGON"
@@ -6113,7 +6113,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_ARAGON"
@@ -6128,7 +6128,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_ARAGON"
@@ -6148,7 +6148,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_ARAGON"
@@ -6166,7 +6166,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:SPA"
 						levels = 4
 						region = "STATE_ARAGON"
@@ -6183,7 +6183,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = ""building_glassworks""
+						type = "building_glassworks"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_ARAGON"
@@ -6206,7 +6206,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:SPA"
 						levels = 3
 						region = "STATE_CATALONIA"
@@ -6224,7 +6224,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:SPA"
 						levels = 4
 						region = "STATE_CATALONIA"
@@ -6243,7 +6243,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:SPA"
 						levels = 3
 						region = "STATE_CATALONIA"
@@ -6261,7 +6261,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_CATALONIA"
@@ -6279,7 +6279,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:SPA"
 						levels = 6
 						region = "STATE_CATALONIA"
@@ -6296,7 +6296,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_CATALONIA"
@@ -6315,7 +6315,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:SPA"
 						levels = 6
 						region = "STATE_CATALONIA"
@@ -6335,7 +6335,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_CATALONIA"
@@ -6354,7 +6354,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:SPA"
 						levels = 3
 						region = "STATE_CATALONIA"
@@ -6376,7 +6376,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_CATALONIA"
@@ -6391,7 +6391,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_CATALONIA"
@@ -6406,7 +6406,7 @@
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
-						type = ""building_shipyards""
+						type = "building_shipyards"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_CATALONIA"
@@ -6425,7 +6425,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = ""building_motor_industry""
+						type = "building_motor_industry"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_CATALONIA"
@@ -6445,7 +6445,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:SPA"
 						levels = 4
 						region = "STATE_CATALONIA"
@@ -6464,7 +6464,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_CATALONIA"
@@ -6484,7 +6484,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_CATALONIA"
@@ -6502,7 +6502,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = ""building_chemical_plants""
+						type = "building_chemical_plants"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_CATALONIA"
@@ -6521,7 +6521,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_CATALONIA"
@@ -6538,7 +6538,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_CATALONIA"
@@ -6556,7 +6556,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_CATALONIA"
@@ -6573,7 +6573,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:SPA"
 						levels = 10
 						region = "STATE_CATALONIA"
@@ -6590,7 +6590,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = ""building_glassworks""
+						type = "building_glassworks"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_CATALONIA"
@@ -6609,7 +6609,7 @@
 				building = "building_fuel_refineries"
 				add_ownership = {
 					building = {
-						type = ""building_fuel_refineries""
+						type = "building_fuel_refineries"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_CATALONIA"
@@ -6633,7 +6633,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_BALEARES"
@@ -6651,7 +6651,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_BALEARES"
@@ -6670,7 +6670,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:SPA"
 						levels = 4
 						region = "STATE_ANDALUSIA"
@@ -6688,7 +6688,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:SPA"
 						levels = 6
 						region = "STATE_ANDALUSIA"
@@ -6707,7 +6707,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:SPA"
 						levels = 3
 						region = "STATE_ANDALUSIA"
@@ -6727,7 +6727,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_ANDALUSIA"
@@ -6745,7 +6745,7 @@
 				building = "building_phosphorus_mine"
 				add_ownership = {
 					building = {
-						type = ""building_phosphorus_mine""
+						type = "building_phosphorus_mine"
 						country = "c:SPA"
 						levels = 11
 						region = "STATE_ANDALUSIA"
@@ -6763,7 +6763,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:SPA"
 						levels = 8
 						region = "STATE_ANDALUSIA"
@@ -6781,7 +6781,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_ANDALUSIA"
@@ -6799,7 +6799,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:SPA"
 						levels = 16
 						region = "STATE_ANDALUSIA"
@@ -6816,7 +6816,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_ANDALUSIA"
@@ -6833,7 +6833,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_ANDALUSIA"
@@ -6852,7 +6852,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_ANDALUSIA"
@@ -6870,7 +6870,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = ""building_chemical_plants""
+						type = "building_chemical_plants"
 						country = "c:SPA"
 						levels = 4
 						region = "STATE_ANDALUSIA"
@@ -6889,7 +6889,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:SPA"
 						levels = 3
 						region = "STATE_ANDALUSIA"
@@ -6908,7 +6908,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_ANDALUSIA"
@@ -6930,7 +6930,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:SPA"
 						levels = 4
 						region = "STATE_ANDALUSIA"
@@ -6945,7 +6945,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_ANDALUSIA"
@@ -6960,7 +6960,7 @@
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
-						type = ""building_shipyards""
+						type = "building_shipyards"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_ANDALUSIA"
@@ -6979,7 +6979,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = ""building_motor_industry""
+						type = "building_motor_industry"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_ANDALUSIA"
@@ -6999,7 +6999,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:SPA"
 						levels = 3
 						region = "STATE_ANDALUSIA"
@@ -7018,7 +7018,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_ANDALUSIA"
@@ -7038,7 +7038,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_sugar_plantation""
+						type = "building_sugar_plantation"
 						country = "c:SPA"
 						levels = 6
 						region = "STATE_ANDALUSIA"
@@ -7056,7 +7056,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_ANDALUSIA"
@@ -7074,7 +7074,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_ANDALUSIA"
@@ -7091,7 +7091,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:SPA"
 						levels = 3
 						region = "STATE_ANDALUSIA"
@@ -7110,7 +7110,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:GBR"
 						levels = 1
 						region = "STATE_ANDALUSIA"
@@ -7125,7 +7125,7 @@
 				building = "building_airport"
 				add_ownership = {
 					building = {
-						type = ""building_airport""
+						type = "building_airport"
 						country = "c:GBR"
 						levels = 1
 						region = "STATE_ANDALUSIA"
@@ -7145,7 +7145,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:SPA"
 						levels = 3
 						region = "STATE_VALENCIA"
@@ -7163,7 +7163,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = ""building_coal_mine""
+						type = "building_coal_mine"
 						country = "c:SPA"
 						levels = 15
 						region = "STATE_VALENCIA"
@@ -7181,7 +7181,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:SPA"
 						levels = 15
 						region = "STATE_VALENCIA"
@@ -7200,7 +7200,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_VALENCIA"
@@ -7218,7 +7218,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:SPA"
 						levels = 6
 						region = "STATE_VALENCIA"
@@ -7236,7 +7236,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:SPA"
 						levels = 15
 						region = "STATE_VALENCIA"
@@ -7254,7 +7254,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_VALENCIA"
@@ -7273,7 +7273,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_VALENCIA"
@@ -7291,7 +7291,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_VALENCIA"
@@ -7310,7 +7310,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_VALENCIA"
@@ -7332,7 +7332,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_VALENCIA"
@@ -7347,7 +7347,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_VALENCIA"
@@ -7362,7 +7362,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_VALENCIA"
@@ -7382,7 +7382,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:SPA"
 						levels = 4
 						region = "STATE_VALENCIA"
@@ -7400,7 +7400,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = ""building_steelworks""
+						type = "building_steelworks"
 						country = "c:SPA"
 						levels = 5
 						region = "STATE_VALENCIA"
@@ -7419,7 +7419,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:SPA"
 						levels = 3
 						region = "STATE_VALENCIA"
@@ -7437,7 +7437,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_VALENCIA"
@@ -7454,7 +7454,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:SPA"
 						levels = 8
 						region = "STATE_VALENCIA"
@@ -7471,7 +7471,7 @@
 				building = "building_lead_mine"
 				add_ownership = {
 					building = {
-						type = ""building_lead_mine""
+						type = "building_lead_mine"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_VALENCIA"
@@ -7489,7 +7489,7 @@
 				building = "building_fuel_refineries"
 				add_ownership = {
 					building = {
-						type = ""building_fuel_refineries""
+						type = "building_fuel_refineries"
 						country = "c:SPA"
 						levels = 2
 						region = "STATE_VALENCIA"
@@ -7513,7 +7513,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:POR"
 						levels = 2
 						region = "STATE_BEIRA"
@@ -7531,7 +7531,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:POR"
 						levels = 1
 						region = "STATE_BEIRA"
@@ -7546,7 +7546,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:POR"
 						levels = 4
 						region = "STATE_BEIRA"
@@ -7561,7 +7561,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:POR"
 						levels = 5
 						region = "STATE_BEIRA"
@@ -7578,7 +7578,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:POR"
 						levels = 22
 						region = "STATE_BEIRA"
@@ -7595,7 +7595,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:POR"
 						levels = 12
 						region = "STATE_BEIRA"
@@ -7613,7 +7613,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:POR"
 						levels = 2
 						region = "STATE_BEIRA"
@@ -7631,7 +7631,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:POR"
 						levels = 2
 						region = "STATE_BEIRA"
@@ -7649,7 +7649,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:POR"
 						levels = 3
 						region = "STATE_BEIRA"
@@ -7668,7 +7668,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:POR"
 						levels = 5
 						region = "STATE_BEIRA"
@@ -7690,7 +7690,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:POR"
 						levels = 1
 						region = "STATE_BEIRA"
@@ -7708,7 +7708,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:POR"
 						levels = 10
 						region = "STATE_BEIRA"
@@ -7726,7 +7726,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = ""building_chemical_plants""
+						type = "building_chemical_plants"
 						country = "c:POR"
 						levels = 3
 						region = "STATE_BEIRA"
@@ -7745,7 +7745,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:POR"
 						levels = 2
 						region = "STATE_BEIRA"
@@ -7762,7 +7762,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:POR"
 						levels = 4
 						region = "STATE_BEIRA"
@@ -7781,7 +7781,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:POR"
 						levels = 3
 						region = "STATE_BEIRA"
@@ -7805,7 +7805,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:POR"
 						levels = 5
 						region = "STATE_ESTREMADURA"
@@ -7823,7 +7823,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:POR"
 						levels = 1
 						region = "STATE_ESTREMADURA"
@@ -7838,7 +7838,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:POR"
 						levels = 5
 						region = "STATE_ESTREMADURA"
@@ -7853,7 +7853,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:POR"
 						levels = 17
 						region = "STATE_ESTREMADURA"
@@ -7870,7 +7870,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:POR"
 						levels = 15
 						region = "STATE_ESTREMADURA"
@@ -7887,7 +7887,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = ""building_motor_industry""
+						type = "building_motor_industry"
 						country = "c:POR"
 						levels = 5
 						region = "STATE_ESTREMADURA"
@@ -7907,7 +7907,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = ""building_steelworks""
+						type = "building_steelworks"
 						country = "c:POR"
 						levels = 5
 						region = "STATE_ESTREMADURA"
@@ -7926,7 +7926,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:POR"
 						levels = 5
 						region = "STATE_ESTREMADURA"
@@ -7943,7 +7943,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = ""building_chemical_plants""
+						type = "building_chemical_plants"
 						country = "c:POR"
 						levels = 10
 						region = "STATE_ESTREMADURA"
@@ -7962,7 +7962,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:POR"
 						levels = 1
 						region = "STATE_ESTREMADURA"
@@ -7980,7 +7980,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:POR"
 						levels = 4
 						region = "STATE_ESTREMADURA"
@@ -7998,7 +7998,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:POR"
 						levels = 5
 						region = "STATE_ESTREMADURA"
@@ -8017,7 +8017,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:POR"
 						levels = 8
 						region = "STATE_ESTREMADURA"
@@ -8036,7 +8036,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:POR"
 						levels = 6
 						region = "STATE_ESTREMADURA"
@@ -8056,7 +8056,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:POR"
 						levels = 8
 						region = "STATE_ESTREMADURA"
@@ -8078,7 +8078,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = ""building_pharmaceutical_industry""
+						type = "building_pharmaceutical_industry"
 						country = "c:POR"
 						levels = 5
 						region = "STATE_ESTREMADURA"
@@ -8098,7 +8098,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:POR"
 						levels = 2
 						region = "STATE_ESTREMADURA"
@@ -8116,7 +8116,7 @@
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
-						type = ""building_shipyards""
+						type = "building_shipyards"
 						country = "c:POR"
 						levels = 4
 						region = "STATE_ESTREMADURA"
@@ -8135,7 +8135,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:POR"
 						levels = 7
 						region = "STATE_ESTREMADURA"
@@ -8153,7 +8153,7 @@
 				building = "building_small_arms_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_small_arms_manufactories""
+						type = "building_small_arms_manufactories"
 						country = "c:POR"
 						levels = 3
 						region = "STATE_ESTREMADURA"
@@ -8172,7 +8172,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = ""building_explosives_industry""
+						type = "building_explosives_industry"
 						country = "c:POR"
 						levels = 2
 						region = "STATE_ESTREMADURA"
@@ -8192,7 +8192,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:POR"
 						levels = 8
 						region = "STATE_ESTREMADURA"
@@ -8213,7 +8213,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:POR"
 						levels = 3
 						region = "STATE_ALENTEJO"
@@ -8231,7 +8231,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:POR"
 						levels = 1
 						region = "STATE_ALENTEJO"
@@ -8246,7 +8246,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:POR"
 						levels = 5
 						region = "STATE_ALENTEJO"
@@ -8261,7 +8261,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:POR"
 						levels = 8
 						region = "STATE_ALENTEJO"
@@ -8278,7 +8278,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:POR"
 						levels = 5
 						region = "STATE_ALENTEJO"
@@ -8296,7 +8296,7 @@
 				building = "building_phosphorus_mine"
 				add_ownership = {
 					building = {
-						type = ""building_phosphorus_mine""
+						type = "building_phosphorus_mine"
 						country = "c:POR"
 						levels = 7
 						region = "STATE_ALENTEJO"
@@ -8314,7 +8314,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:POR"
 						levels = 2
 						region = "STATE_ALENTEJO"
@@ -8332,7 +8332,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:POR"
 						levels = 5
 						region = "STATE_ALENTEJO"
@@ -8349,7 +8349,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:POR"
 						levels = 1
 						region = "STATE_ALENTEJO"
@@ -8367,7 +8367,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:POR"
 						levels = 2
 						region = "STATE_ALENTEJO"
@@ -8386,7 +8386,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:POR"
 						levels = 8
 						region = "STATE_ALENTEJO"
@@ -8405,7 +8405,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:POR"
 						levels = 4
 						region = "STATE_ALENTEJO"
@@ -8425,7 +8425,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:POR"
 						levels = 4
 						region = "STATE_ALENTEJO"
@@ -8447,7 +8447,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = ""building_hospitals""
+						type = "building_hospitals"
 						country = "c:POR"
 						levels = 1
 						region = "STATE_ALENTEJO"
@@ -8465,7 +8465,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = ""building_coal_mine""
+						type = "building_coal_mine"
 						country = "c:POR"
 						levels = 2
 						region = "STATE_ALENTEJO"
@@ -8483,7 +8483,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = ""building_chemical_plants""
+						type = "building_chemical_plants"
 						country = "c:POR"
 						levels = 3
 						region = "STATE_ALENTEJO"
@@ -8502,7 +8502,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:POR"
 						levels = 4
 						region = "STATE_ALENTEJO"
@@ -8521,7 +8521,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:POR"
 						levels = 2
 						region = "STATE_ALENTEJO"
@@ -8542,7 +8542,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:POR"
 						levels = 1
 						region = "STATE_CAPE_VERDE"
@@ -8561,7 +8561,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:SPA"
 						levels = 4
 						region = "STATE_CANARY_ISLANDS"
@@ -8579,7 +8579,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_CANARY_ISLANDS"
@@ -8597,7 +8597,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:SPA"
 						levels = 1
 						region = "STATE_CANARY_ISLANDS"
@@ -8616,7 +8616,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_coffee_plantation""
+						type = "building_coffee_plantation"
 						country = "c:POR"
 						levels = 1
 						region = "STATE_AZORES"
@@ -8634,7 +8634,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_banana_plantation""
+						type = "building_banana_plantation"
 						country = "c:POR"
 						levels = 3
 						region = "STATE_AZORES"
@@ -8652,7 +8652,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:POR"
 						levels = 1
 						region = "STATE_AZORES"
@@ -8671,7 +8671,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_coffee_plantation""
+						type = "building_coffee_plantation"
 						country = "c:POR"
 						levels = 3
 						region = "STATE_MADEIRA"
@@ -8689,7 +8689,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_sugar_plantation""
+						type = "building_sugar_plantation"
 						country = "c:POR"
 						levels = 3
 						region = "STATE_MADEIRA"
@@ -8707,7 +8707,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:POR"
 						levels = 1
 						region = "STATE_MADEIRA"
@@ -8726,7 +8726,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:TUR"
 						levels = 10
 						region = "STATE_EASTERN_THRACE"
@@ -8743,7 +8743,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_EASTERN_THRACE"
@@ -8761,7 +8761,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:TUR"
 						levels = 11
 						region = "STATE_EASTERN_THRACE"
@@ -8776,7 +8776,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:TUR"
 						levels = 5
 						region = "STATE_EASTERN_THRACE"
@@ -8794,7 +8794,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = ""building_chemical_plants""
+						type = "building_chemical_plants"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_EASTERN_THRACE"
@@ -8813,7 +8813,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:TUR"
 						levels = 6
 						region = "STATE_EASTERN_THRACE"
@@ -8832,7 +8832,7 @@
 				building = "building_airport"
 				add_ownership = {
 					building = {
-						type = ""building_airport""
+						type = "building_airport"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_EASTERN_THRACE"
@@ -8848,7 +8848,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_EASTERN_THRACE"
@@ -8863,7 +8863,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:TUR"
 						levels = 3
 						region = "STATE_EASTERN_THRACE"
@@ -8883,7 +8883,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_silk_plantation""
+						type = "building_silk_plantation"
 						country = "c:TUR"
 						levels = 5
 						region = "STATE_EASTERN_THRACE"
@@ -8901,7 +8901,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_EASTERN_THRACE"
@@ -8920,7 +8920,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_EASTERN_THRACE"
@@ -8939,7 +8939,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:TUR"
 						levels = 2
 						region = "STATE_EASTERN_THRACE"
@@ -8957,7 +8957,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = ""building_motor_industry""
+						type = "building_motor_industry"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_EASTERN_THRACE"
@@ -8977,7 +8977,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:TUR"
 						levels = 1
 						region = "STATE_EASTERN_THRACE"
@@ -8999,7 +8999,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:ROM"
 						levels = 4
 						region = "STATE_DOBRUDJA"
@@ -9018,7 +9018,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ROM"
 						levels = 3
 						region = "STATE_DOBRUDJA"
@@ -9040,7 +9040,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ROM"
 						levels = 2
 						region = "STATE_DOBRUDJA"
@@ -9059,7 +9059,7 @@
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
-						type = ""building_shipyards""
+						type = "building_shipyards"
 						country = "c:ROM"
 						levels = 3
 						region = "STATE_DOBRUDJA"
@@ -9078,7 +9078,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:ROM"
 						levels = 1
 						region = "STATE_DOBRUDJA"
@@ -9098,7 +9098,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = ""building_fishing_wharf""
+						type = "building_fishing_wharf"
 						country = "c:ROM"
 						levels = 2
 						region = "STATE_DOBRUDJA"
@@ -9116,7 +9116,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ROM"
 						levels = 2
 						region = "STATE_DOBRUDJA"
@@ -9137,7 +9137,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:ALB"
 						levels = 6
 						region = "STATE_ALBANIA"
@@ -9156,7 +9156,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ALB"
 						levels = 3
 						region = "STATE_ALBANIA"
@@ -9174,7 +9174,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:ALB"
 						levels = 13
 						region = "STATE_ALBANIA"
@@ -9194,7 +9194,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:ALB"
 						levels = 4
 						region = "STATE_ALBANIA"
@@ -9213,7 +9213,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:ALB"
 						levels = 3
 						region = "STATE_ALBANIA"
@@ -9232,7 +9232,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ALB"
 						levels = 2
 						region = "STATE_ALBANIA"
@@ -9247,7 +9247,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:ALB"
 						levels = 1
 						region = "STATE_ALBANIA"
@@ -9267,7 +9267,7 @@
 				building = "building_oil_rig"
 				add_ownership = {
 					building = {
-						type = ""building_oil_rig""
+						type = "building_oil_rig"
 						country = "c:ALB"
 						levels = 3
 						region = "STATE_ALBANIA"
@@ -9285,7 +9285,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:ALB"
 						levels = 3
 						region = "STATE_ALBANIA"
@@ -9308,7 +9308,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:ALB"
 						levels = 5
 						region = "STATE_ALBANIA"
@@ -9328,7 +9328,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:ALB"
 						levels = 1
 						region = "STATE_ALBANIA"
@@ -9349,7 +9349,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ALB"
 						levels = 1
 						region = "STATE_ALBANIA"
@@ -9366,7 +9366,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ALB"
 						levels = 1
 						region = "STATE_ALBANIA"
@@ -9388,7 +9388,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:YUG"
 						levels = 4
 						region = "STATE_BOSNIA"
@@ -9405,7 +9405,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:YUG"
 						levels = 9
 						region = "STATE_BOSNIA"
@@ -9422,7 +9422,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_BOSNIA"
@@ -9440,7 +9440,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:YUG"
 						levels = 2
 						region = "STATE_BOSNIA"
@@ -9458,7 +9458,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:YUG"
 						levels = 2
 						region = "STATE_BOSNIA"
@@ -9477,7 +9477,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:YUG"
 						levels = 4
 						region = "STATE_BOSNIA"
@@ -9492,7 +9492,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:YUG"
 						levels = 7
 						region = "STATE_BOSNIA"
@@ -9511,7 +9511,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:YUG"
 						levels = 2
 						region = "STATE_BOSNIA"
@@ -9533,7 +9533,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = ""building_glassworks""
+						type = "building_glassworks"
 						country = "c:YUG"
 						levels = 3
 						region = "STATE_BOSNIA"
@@ -9552,7 +9552,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:YUG"
 						levels = 9
 						region = "STATE_BOSNIA"
@@ -9574,7 +9574,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:BUL"
 						levels = 3
 						region = "STATE_NORTHERN_THRACE"
@@ -9593,7 +9593,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:BUL"
 						levels = 3
 						region = "STATE_NORTHERN_THRACE"
@@ -9610,7 +9610,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:BUL"
 						levels = 12
 						region = "STATE_NORTHERN_THRACE"
@@ -9628,7 +9628,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:BUL"
 						levels = 3
 						region = "STATE_NORTHERN_THRACE"
@@ -9643,7 +9643,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:BUL"
 						levels = 2
 						region = "STATE_NORTHERN_THRACE"
@@ -9661,7 +9661,7 @@
 				building = "building_copper_mine"
 				add_ownership = {
 					building = {
-						type = ""building_copper_mine""
+						type = "building_copper_mine"
 						country = "c:BUL"
 						levels = 1
 						region = "STATE_NORTHERN_THRACE"
@@ -9679,7 +9679,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:BUL"
 						levels = 2
 						region = "STATE_NORTHERN_THRACE"
@@ -9697,7 +9697,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:BUL"
 						levels = 4
 						region = "STATE_NORTHERN_THRACE"
@@ -9715,7 +9715,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:BUL"
 						levels = 6
 						region = "STATE_NORTHERN_THRACE"
@@ -9734,7 +9734,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_tobacco_plantation""
+						type = "building_tobacco_plantation"
 						country = "c:BUL"
 						levels = 4
 						region = "STATE_NORTHERN_THRACE"
@@ -9753,7 +9753,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:BUL"
 						levels = 1
 						region = "STATE_NORTHERN_THRACE"
@@ -9768,7 +9768,7 @@
 				building = "building_airport"
 				add_ownership = {
 					building = {
-						type = ""building_airport""
+						type = "building_airport"
 						country = "c:BUL"
 						levels = 1
 						region = "STATE_NORTHERN_THRACE"
@@ -9788,7 +9788,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:BUL"
 						levels = 1
 						region = "STATE_BULGARIA"
@@ -9807,7 +9807,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:BUL"
 						levels = 5
 						region = "STATE_BULGARIA"
@@ -9824,7 +9824,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:BUL"
 						levels = 15
 						region = "STATE_BULGARIA"
@@ -9842,7 +9842,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:BUL"
 						levels = 4
 						region = "STATE_BULGARIA"
@@ -9857,7 +9857,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:BUL"
 						levels = 1
 						region = "STATE_BULGARIA"
@@ -9874,7 +9874,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:BUL"
 						levels = 2
 						region = "STATE_BULGARIA"
@@ -9894,7 +9894,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:BUL"
 						levels = 2
 						region = "STATE_BULGARIA"
@@ -9913,7 +9913,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:BUL"
 						levels = 2
 						region = "STATE_BULGARIA"
@@ -9935,7 +9935,7 @@
 				building = "building_small_arms_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_small_arms_manufactories""
+						type = "building_small_arms_manufactories"
 						country = "c:BUL"
 						levels = 1
 						region = "STATE_BULGARIA"
@@ -9954,7 +9954,7 @@
 				building = "building_copper_mine"
 				add_ownership = {
 					building = {
-						type = ""building_copper_mine""
+						type = "building_copper_mine"
 						country = "c:BUL"
 						levels = 2
 						region = "STATE_BULGARIA"
@@ -9972,7 +9972,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:BUL"
 						levels = 2
 						region = "STATE_BULGARIA"
@@ -9990,7 +9990,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = ""building_cotton_plantation""
+						type = "building_cotton_plantation"
 						country = "c:BUL"
 						levels = 7
 						region = "STATE_BULGARIA"
@@ -10009,7 +10009,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:BUL"
 						levels = 1
 						region = "STATE_BULGARIA"
@@ -10031,7 +10031,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_SLOVENIA"
@@ -10048,7 +10048,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = ""building_coal_mine""
+						type = "building_coal_mine"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_SLOVENIA"
@@ -10066,7 +10066,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:YUG"
 						levels = 5
 						region = "STATE_SLOVENIA"
@@ -10085,7 +10085,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:YUG"
 						levels = 6
 						region = "STATE_SLOVENIA"
@@ -10106,7 +10106,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:YUG"
 						levels = 2
 						region = "STATE_DALMATIA"
@@ -10123,7 +10123,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:YUG"
 						levels = 3
 						region = "STATE_DALMATIA"
@@ -10141,7 +10141,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:YUG"
 						levels = 2
 						region = "STATE_DALMATIA"
@@ -10160,7 +10160,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_DALMATIA"
@@ -10178,7 +10178,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:YUG"
 						levels = 6
 						region = "STATE_DALMATIA"
@@ -10195,7 +10195,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:YUG"
 						levels = 3
 						region = "STATE_DALMATIA"
@@ -10214,7 +10214,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:YUG"
 						levels = 3
 						region = "STATE_DALMATIA"
@@ -10233,7 +10233,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:YUG"
 						levels = 3
 						region = "STATE_CROATIA"
@@ -10250,7 +10250,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:YUG"
 						levels = 4
 						region = "STATE_CROATIA"
@@ -10268,7 +10268,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = ""building_coal_mine""
+						type = "building_coal_mine"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_CROATIA"
@@ -10286,7 +10286,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:YUG"
 						levels = 5
 						region = "STATE_CROATIA"
@@ -10305,7 +10305,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_CROATIA"
@@ -10323,7 +10323,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:YUG"
 						levels = 7
 						region = "STATE_CROATIA"
@@ -10340,7 +10340,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:YUG"
 						levels = 2
 						region = "STATE_CROATIA"
@@ -10359,7 +10359,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_SLAVONIA"
@@ -10376,7 +10376,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:YUG"
 						levels = 9
 						region = "STATE_SLAVONIA"
@@ -10393,7 +10393,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:YUG"
 						levels = 6
 						region = "STATE_SLAVONIA"
@@ -10411,7 +10411,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:YUG"
 						levels = 6
 						region = "STATE_SLAVONIA"
@@ -10434,7 +10434,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_ISTRIA"
@@ -10452,7 +10452,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_ISTRIA"
@@ -10469,7 +10469,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:ITA"
 						levels = 2
 						region = "STATE_ISTRIA"
@@ -10488,7 +10488,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:ITA"
 						levels = 5
 						region = "STATE_ISTRIA"
@@ -10505,7 +10505,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:ITA"
 						levels = 1
 						region = "STATE_ISTRIA"
@@ -10524,7 +10524,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_MONTENEGRO"
@@ -10541,7 +10541,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:YUG"
 						levels = 7
 						region = "STATE_MONTENEGRO"
@@ -10558,7 +10558,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:YUG"
 						levels = 4
 						region = "STATE_MONTENEGRO"
@@ -10576,7 +10576,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_MONTENEGRO"
@@ -10594,7 +10594,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_MONTENEGRO"
@@ -10613,7 +10613,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:YUG"
 						levels = 8
 						region = "STATE_SOUTHERN_SERBIA"
@@ -10630,7 +10630,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:YUG"
 						levels = 3
 						region = "STATE_SOUTHERN_SERBIA"
@@ -10649,7 +10649,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:YUG"
 						levels = 5
 						region = "STATE_SOUTHERN_SERBIA"
@@ -10666,7 +10666,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:YUG"
 						levels = 3
 						region = "STATE_SOUTHERN_SERBIA"
@@ -10685,7 +10685,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:YUG"
 						levels = 4
 						region = "STATE_SOUTHERN_SERBIA"
@@ -10703,7 +10703,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = ""building_motor_industry""
+						type = "building_motor_industry"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_SOUTHERN_SERBIA"
@@ -10723,7 +10723,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_SOUTHERN_SERBIA"
@@ -10741,7 +10741,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = ""building_steelworks""
+						type = "building_steelworks"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_SOUTHERN_SERBIA"
@@ -10760,7 +10760,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_SOUTHERN_SERBIA"
@@ -10778,7 +10778,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_SOUTHERN_SERBIA"
@@ -10795,7 +10795,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:YUG"
 						levels = 6
 						region = "STATE_SOUTHERN_SERBIA"
@@ -10810,7 +10810,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = ""building_university""
+						type = "building_university"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_SOUTHERN_SERBIA"
@@ -10827,7 +10827,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:YUG"
 						levels = 7
 						region = "STATE_SOUTHERN_SERBIA"
@@ -10846,7 +10846,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:YUG"
 						levels = 3
 						region = "STATE_SOUTHERN_SERBIA"
@@ -10868,7 +10868,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:YUG"
 						levels = 4
 						region = "STATE_SOUTHERN_SERBIA"
@@ -10892,7 +10892,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_KOSOVO"
@@ -10911,7 +10911,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:YUG"
 						levels = 3
 						region = "STATE_KOSOVO"
@@ -10928,7 +10928,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:YUG"
 						levels = 9
 						region = "STATE_KOSOVO"
@@ -10945,7 +10945,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:YUG"
 						levels = 4
 						region = "STATE_KOSOVO"
@@ -10963,7 +10963,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = ""building_coal_mine""
+						type = "building_coal_mine"
 						country = "c:YUG"
 						levels = 2
 						region = "STATE_KOSOVO"
@@ -10981,7 +10981,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_KOSOVO"
@@ -10999,7 +10999,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = ""building_combustion_plant""
+						type = "building_combustion_plant"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_KOSOVO"
@@ -11016,7 +11016,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:YUG"
 						levels = 3
 						region = "STATE_KOSOVO"
@@ -11035,7 +11035,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_KOSOVO"
@@ -11054,7 +11054,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:YUG"
 						levels = 2
 						region = "STATE_KOSOVO"
@@ -11069,7 +11069,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:YUG"
 						levels = 8
 						region = "STATE_KOSOVO"
@@ -11091,7 +11091,7 @@
 				building = "building_lead_mine"
 				add_ownership = {
 					building = {
-						type = ""building_lead_mine""
+						type = "building_lead_mine"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_KOSOVO"
@@ -11122,7 +11122,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:GRE"
 						levels = 7
 						region = "STATE_ATTICA"
@@ -11139,7 +11139,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_paper_manufactories""
+						type = "building_paper_manufactories"
 						country = "c:GRE"
 						levels = 3
 						region = "STATE_ATTICA"
@@ -11158,7 +11158,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:GRE"
 						levels = 6
 						region = "STATE_ATTICA"
@@ -11175,7 +11175,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:GRE"
 						levels = 2
 						region = "STATE_ATTICA"
@@ -11190,7 +11190,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:GRE"
 						levels = 5
 						region = "STATE_ATTICA"
@@ -11205,7 +11205,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:GRE"
 						levels = 1
 						region = "STATE_ATTICA"
@@ -11223,7 +11223,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:GRE"
 						levels = 2
 						region = "STATE_ATTICA"
@@ -11242,7 +11242,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_textile_manufactories""
+						type = "building_textile_manufactories"
 						country = "c:GRE"
 						levels = 2
 						region = "STATE_ATTICA"
@@ -11261,7 +11261,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:GRE"
 						levels = 1
 						region = "STATE_ATTICA"
@@ -11281,7 +11281,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = ""building_food_industry""
+						type = "building_food_industry"
 						country = "c:GRE"
 						levels = 3
 						region = "STATE_ATTICA"
@@ -11303,7 +11303,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:GRE"
 						levels = 1
 						region = "STATE_ATTICA"
@@ -11321,7 +11321,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_tool_manufactories""
+						type = "building_tool_manufactories"
 						country = "c:GRE"
 						levels = 1
 						region = "STATE_ATTICA"
@@ -11340,7 +11340,7 @@
 				building = "building_small_arms_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_small_arms_manufactories""
+						type = "building_small_arms_manufactories"
 						country = "c:GRE"
 						levels = 1
 						region = "STATE_ATTICA"
@@ -11363,7 +11363,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:GRE"
 						levels = 2
 						region = "STATE_THESSALIA"
@@ -11380,7 +11380,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:GRE"
 						levels = 6
 						region = "STATE_THESSALIA"
@@ -11397,7 +11397,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:GRE"
 						levels = 1
 						region = "STATE_THESSALIA"
@@ -11412,7 +11412,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:GRE"
 						levels = 1
 						region = "STATE_THESSALIA"
@@ -11430,7 +11430,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:GRE"
 						levels = 4
 						region = "STATE_THESSALIA"
@@ -11449,7 +11449,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:GRE"
 						levels = 1
 						region = "STATE_THESSALIA"
@@ -11471,7 +11471,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:YUG"
 						levels = 3
 						region = "STATE_SKOPIA"
@@ -11488,7 +11488,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:YUG"
 						levels = 8
 						region = "STATE_SKOPIA"
@@ -11506,7 +11506,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = ""building_iron_mine""
+						type = "building_iron_mine"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_SKOPIA"
@@ -11524,7 +11524,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:YUG"
 						levels = 2
 						region = "STATE_SKOPIA"
@@ -11542,7 +11542,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = ""building_construction_sector""
+						type = "building_construction_sector"
 						country = "c:YUG"
 						levels = 1
 						region = "STATE_SKOPIA"
@@ -11557,7 +11557,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = ""building_furniture_manufactories""
+						type = "building_furniture_manufactories"
 						country = "c:YUG"
 						levels = 5
 						region = "STATE_SKOPIA"
@@ -11581,7 +11581,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = ""building_government_administration""
+						type = "building_government_administration"
 						country = "c:GRE"
 						levels = 3
 						region = "STATE_MACEDONIA"
@@ -11598,7 +11598,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:GRE"
 						levels = 6
 						region = "STATE_MACEDONIA"
@@ -11615,7 +11615,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = ""building_port""
+						type = "building_port"
 						country = "c:GRE"
 						levels = 1
 						region = "STATE_MACEDONIA"
@@ -11630,7 +11630,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:GRE"
 						levels = 1
 						region = "STATE_MACEDONIA"
@@ -11648,7 +11648,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:GRE"
 						levels = 3
 						region = "STATE_MACEDONIA"
@@ -11667,7 +11667,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:GRE"
 						levels = 4
 						region = "STATE_MACEDONIA"
@@ -11689,7 +11689,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:GRE"
 						levels = 5
 						region = "STATE_WESTERN_THRACE"
@@ -11706,7 +11706,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = ""building_livestock_ranch""
+						type = "building_livestock_ranch"
 						country = "c:GRE"
 						levels = 4
 						region = "STATE_WESTERN_THRACE"
@@ -11725,7 +11725,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = ""building_railway""
+						type = "building_railway"
 						country = "c:GRE"
 						levels = 1
 						region = "STATE_WESTERN_THRACE"
@@ -11743,7 +11743,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:GRE"
 						levels = 1
 						region = "STATE_WESTERN_THRACE"
@@ -11765,7 +11765,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:GRE"
 						levels = 3
 						region = "STATE_IONIAN_ISLANDS"
@@ -11786,7 +11786,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = ""building_wheat_farm""
+						type = "building_wheat_farm"
 						country = "c:GRE"
 						levels = 6
 						region = "STATE_PELOPONNESE"
@@ -11803,7 +11803,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = ""building_logging_camp""
+						type = "building_logging_camp"
 						country = "c:GRE"
 						levels = 3
 						region = "STATE_PELOPONNESE"
