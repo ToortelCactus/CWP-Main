@@ -38,7 +38,7 @@ def updateBuilding(node: Node):
             # workers only for now
             b = child.addChild("building")
             b.singleChild = False
-            b.addChild("type").addChild('"' + node.getChild("building").getSingleChildVal() + '"')
+            b.addChild("type").addChild(node.getChild("building").getSingleChildVal())
             b.addChild("country").addChild(thisCountry(node))
             b.addChild("levels").addChild(str(levels))
             b.addChild("region").addChild(thisRegion(node))
