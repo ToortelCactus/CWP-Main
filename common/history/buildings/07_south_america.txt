@@ -5,7 +5,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ECU"
 						levels = 2
 						region = "STATE_ECUADOR"
@@ -22,7 +22,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:ECU"
 						levels = 10
 						region = "STATE_ECUADOR"
@@ -41,7 +41,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:ECU"
 						levels = 10
 						region = "STATE_ECUADOR"
@@ -58,7 +58,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:ECU"
 						levels = 15
 						region = "STATE_ECUADOR"
@@ -76,7 +76,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = "building_coffee_plantation"
+						type = ""building_coffee_plantation""
 						country = "c:ECU"
 						levels = 10
 						region = "STATE_ECUADOR"
@@ -94,7 +94,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:ECU"
 						levels = 10
 						region = "STATE_ECUADOR"
@@ -112,7 +112,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:ECU"
 						levels = 10
 						region = "STATE_ECUADOR"
@@ -130,7 +130,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:ECU"
 						levels = 3
 						region = "STATE_ECUADOR"
@@ -148,7 +148,7 @@
 				building = "building_distilleries"
 				add_ownership = {
 					building = {
-						type = "building_distilleries"
+						type = ""building_distilleries""
 						country = "c:ECU"
 						levels = 1
 						region = "STATE_ECUADOR"
@@ -168,7 +168,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ECU"
 						levels = 5
 						region = "STATE_ECUADOR"
@@ -186,7 +186,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = "building_motor_industry"
+						type = ""building_motor_industry""
 						country = "c:ECU"
 						levels = 2
 						region = "STATE_ECUADOR"
@@ -206,7 +206,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:ECU"
 						levels = 4
 						region = "STATE_ECUADOR"
@@ -226,7 +226,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:ECU"
 						levels = 3
 						region = "STATE_ECUADOR"
@@ -245,7 +245,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:ECU"
 						levels = 1
 						region = "STATE_ECUADOR"
@@ -263,7 +263,7 @@
 				building = "building_media_industry"
 				add_ownership = {
 					building = {
-						type = "building_media_industry"
+						type = ""building_media_industry""
 						country = "c:ECU"
 						levels = 1
 						region = "STATE_ECUADOR"
@@ -281,7 +281,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:ECU"
 						levels = 1
 						region = "STATE_ECUADOR"
@@ -300,7 +300,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:ECU"
 						levels = 1
 						region = "STATE_ECUADOR"
@@ -319,7 +319,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:ECU"
 						levels = 1
 						region = "STATE_ECUADOR"
@@ -336,7 +336,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:ECU"
 						levels = 1
 						region = "STATE_ECUADOR"
@@ -354,7 +354,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ECU"
 						levels = 9
 						region = "STATE_ECUADOR"
@@ -369,7 +369,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:ECU"
 						levels = 2
 						region = "STATE_ECUADOR"
@@ -392,7 +392,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:NET"
 						levels = 1
 						region = "STATE_GUAYANA"
@@ -409,7 +409,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:FRA"
 						levels = 5
 						region = "STATE_GUAYANA"
@@ -427,7 +427,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:FRA"
 						levels = 1
 						region = "STATE_GUAYANA"
@@ -442,7 +442,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:FRA"
 						levels = 1
 						region = "STATE_GUAYANA"
@@ -460,7 +460,7 @@
 				building = "building_bauxite_mine"
 				add_ownership = {
 					building = {
-						type = "building_bauxite_mine"
+						type = ""building_bauxite_mine""
 						country = "c:FRA"
 						levels = 2
 						region = "STATE_GUAYANA"
@@ -478,7 +478,7 @@
 				building = "building_gold_mine"
 				add_ownership = {
 					building = {
-						type = "building_gold_mine"
+						type = ""building_gold_mine""
 						country = "c:FRA"
 						levels = 2
 						region = "STATE_GUAYANA"
@@ -498,7 +498,7 @@
 				building = "building_bauxite_mine"
 				add_ownership = {
 					building = {
-						type = "building_bauxite_mine"
+						type = ""building_bauxite_mine""
 						country = "c:GBR"
 						levels = 5
 						region = "STATE_GUAYANA"
@@ -516,7 +516,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:GBR"
 						levels = 3
 						region = "STATE_GUAYANA"
@@ -535,7 +535,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:VNZ"
 						levels = 1
 						region = "STATE_ZULIA"
@@ -552,7 +552,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:VNZ"
 						levels = 2
 						region = "STATE_ZULIA"
@@ -570,7 +570,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:VNZ"
 						levels = 5
 						region = "STATE_ZULIA"
@@ -588,7 +588,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:VNZ"
 						levels = 5
 						region = "STATE_ZULIA"
@@ -607,7 +607,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:VNZ"
 						levels = 5
 						region = "STATE_ZULIA"
@@ -624,7 +624,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = "building_motor_industry"
+						type = ""building_motor_industry""
 						country = "c:VNZ"
 						levels = 2
 						region = "STATE_ZULIA"
@@ -644,7 +644,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:VNZ"
 						levels = 6
 						region = "STATE_ZULIA"
@@ -662,7 +662,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:VNZ"
 						levels = 2
 						region = "STATE_ZULIA"
@@ -681,7 +681,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:VNZ"
 						levels = 2
 						region = "STATE_ZULIA"
@@ -699,7 +699,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:VNZ"
 						levels = 1
 						region = "STATE_ZULIA"
@@ -714,7 +714,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:VNZ"
 						levels = 1
 						region = "STATE_ZULIA"
@@ -732,7 +732,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = "building_coffee_plantation"
+						type = ""building_coffee_plantation""
 						country = "c:VNZ"
 						levels = 1
 						region = "STATE_ZULIA"
@@ -750,7 +750,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:VNZ"
 						levels = 2
 						region = "STATE_ZULIA"
@@ -765,7 +765,7 @@
 				building = "building_rubber_plantation"
 				add_ownership = {
 					building = {
-						type = "building_rubber_plantation"
+						type = ""building_rubber_plantation""
 						country = "c:VNZ"
 						levels = 2
 						region = "STATE_ZULIA"
@@ -783,7 +783,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:VNZ"
 						levels = 1
 						region = "STATE_ZULIA"
@@ -804,7 +804,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:NET"
 						levels = 1
 						region = "STATE_ZULIA"
@@ -823,7 +823,7 @@
 				building = "building_oil_rig"
 				add_ownership = {
 					building = {
-						type = "building_oil_rig"
+						type = ""building_oil_rig""
 						country = "c:VNZ"
 						levels = 13
 						region = "STATE_MIRANDA"
@@ -840,7 +840,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:VNZ"
 						levels = 1
 						region = "STATE_MIRANDA"
@@ -858,7 +858,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:VNZ"
 						levels = 7
 						region = "STATE_MIRANDA"
@@ -876,7 +876,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:VNZ"
 						levels = 5
 						region = "STATE_MIRANDA"
@@ -894,7 +894,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:VNZ"
 						levels = 5
 						region = "STATE_MIRANDA"
@@ -913,7 +913,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:VNZ"
 						levels = 10
 						region = "STATE_MIRANDA"
@@ -930,7 +930,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:VNZ"
 						levels = 5
 						region = "STATE_MIRANDA"
@@ -949,7 +949,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = "building_motor_industry"
+						type = ""building_motor_industry""
 						country = "c:VNZ"
 						levels = 4
 						region = "STATE_MIRANDA"
@@ -969,7 +969,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:VNZ"
 						levels = 3
 						region = "STATE_MIRANDA"
@@ -988,7 +988,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:VNZ"
 						levels = 1
 						region = "STATE_MIRANDA"
@@ -1005,7 +1005,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:VNZ"
 						levels = 2
 						region = "STATE_MIRANDA"
@@ -1023,7 +1023,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:VNZ"
 						levels = 4
 						region = "STATE_MIRANDA"
@@ -1038,7 +1038,7 @@
 				building = "building_distilleries"
 				add_ownership = {
 					building = {
-						type = "building_distilleries"
+						type = ""building_distilleries""
 						country = "c:VNZ"
 						levels = 1
 						region = "STATE_MIRANDA"
@@ -1058,7 +1058,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:VNZ"
 						levels = 3
 						region = "STATE_MIRANDA"
@@ -1078,7 +1078,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:VNZ"
 						levels = 2
 						region = "STATE_MIRANDA"
@@ -1096,7 +1096,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:VNZ"
 						levels = 4
 						region = "STATE_MIRANDA"
@@ -1115,7 +1115,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:VNZ"
 						levels = 4
 						region = "STATE_MIRANDA"
@@ -1130,7 +1130,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:VNZ"
 						levels = 3
 						region = "STATE_MIRANDA"
@@ -1147,7 +1147,7 @@
 				building = "building_media_industry"
 				add_ownership = {
 					building = {
-						type = "building_media_industry"
+						type = ""building_media_industry""
 						country = "c:VNZ"
 						levels = 1
 						region = "STATE_MIRANDA"
@@ -1169,7 +1169,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:VNZ"
 						levels = 2
 						region = "STATE_BOLIVAR"
@@ -1188,7 +1188,7 @@
 				building = "building_oil_rig"
 				add_ownership = {
 					building = {
-						type = "building_oil_rig"
+						type = ""building_oil_rig""
 						country = "c:VNZ"
 						levels = 2
 						region = "STATE_BOLIVAR"
@@ -1205,7 +1205,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:VNZ"
 						levels = 3
 						region = "STATE_BOLIVAR"
@@ -1223,7 +1223,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:VNZ"
 						levels = 5
 						region = "STATE_BOLIVAR"
@@ -1241,7 +1241,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:VNZ"
 						levels = 5
 						region = "STATE_BOLIVAR"
@@ -1259,7 +1259,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:VNZ"
 						levels = 3
 						region = "STATE_BOLIVAR"
@@ -1277,7 +1277,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:VNZ"
 						levels = 4
 						region = "STATE_BOLIVAR"
@@ -1292,7 +1292,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:VNZ"
 						levels = 1
 						region = "STATE_BOLIVAR"
@@ -1313,7 +1313,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:CLM"
 						levels = 2
 						region = "STATE_ANTIOQUIA"
@@ -1332,7 +1332,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:CLM"
 						levels = 2
 						region = "STATE_ANTIOQUIA"
@@ -1350,7 +1350,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = "building_coffee_plantation"
+						type = ""building_coffee_plantation""
 						country = "c:CLM"
 						levels = 21
 						region = "STATE_ANTIOQUIA"
@@ -1368,7 +1368,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:CLM"
 						levels = 15
 						region = "STATE_ANTIOQUIA"
@@ -1386,7 +1386,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:CLM"
 						levels = 22
 						region = "STATE_ANTIOQUIA"
@@ -1404,7 +1404,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:CLM"
 						levels = 5
 						region = "STATE_ANTIOQUIA"
@@ -1422,7 +1422,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:CLM"
 						levels = 11
 						region = "STATE_ANTIOQUIA"
@@ -1439,7 +1439,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:CLM"
 						levels = 5
 						region = "STATE_ANTIOQUIA"
@@ -1459,7 +1459,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:CLM"
 						levels = 15
 						region = "STATE_ANTIOQUIA"
@@ -1477,7 +1477,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:CLM"
 						levels = 6
 						region = "STATE_ANTIOQUIA"
@@ -1495,7 +1495,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:CLM"
 						levels = 2
 						region = "STATE_ANTIOQUIA"
@@ -1513,7 +1513,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = "building_motor_industry"
+						type = ""building_motor_industry""
 						country = "c:CLM"
 						levels = 2
 						region = "STATE_ANTIOQUIA"
@@ -1533,7 +1533,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:CLM"
 						levels = 1
 						region = "STATE_ANTIOQUIA"
@@ -1552,7 +1552,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:CLM"
 						levels = 1
 						region = "STATE_ANTIOQUIA"
@@ -1570,7 +1570,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:CLM"
 						levels = 1
 						region = "STATE_ANTIOQUIA"
@@ -1587,7 +1587,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:CLM"
 						levels = 3
 						region = "STATE_ANTIOQUIA"
@@ -1606,7 +1606,7 @@
 				building = "building_oil_rig"
 				add_ownership = {
 					building = {
-						type = "building_oil_rig"
+						type = ""building_oil_rig""
 						country = "c:CLM"
 						levels = 1
 						region = "STATE_ANTIOQUIA"
@@ -1623,7 +1623,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:CLM"
 						levels = 5
 						region = "STATE_ANTIOQUIA"
@@ -1640,7 +1640,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:CLM"
 						levels = 4
 						region = "STATE_ANTIOQUIA"
@@ -1659,7 +1659,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = "building_coffee_plantation"
+						type = ""building_coffee_plantation""
 						country = "c:CLM"
 						levels = 15
 						region = "STATE_GUAVIARE"
@@ -1677,7 +1677,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:CLM"
 						levels = 15
 						region = "STATE_GUAVIARE"
@@ -1695,7 +1695,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:CLM"
 						levels = 1
 						region = "STATE_GUAVIARE"
@@ -1714,7 +1714,7 @@
 				building = "building_oil_rig"
 				add_ownership = {
 					building = {
-						type = "building_oil_rig"
+						type = ""building_oil_rig""
 						country = "c:CLM"
 						levels = 2
 						region = "STATE_GUAVIARE"
@@ -1731,7 +1731,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = "building_glassworks"
+						type = ""building_glassworks""
 						country = "c:CLM"
 						levels = 1
 						region = "STATE_GUAVIARE"
@@ -1750,7 +1750,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:CLM"
 						levels = 6
 						region = "STATE_GUAVIARE"
@@ -1768,7 +1768,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:CLM"
 						levels = 2
 						region = "STATE_GUAVIARE"
@@ -1786,7 +1786,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:CLM"
 						levels = 3
 						region = "STATE_GUAVIARE"
@@ -1801,7 +1801,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:CLM"
 						levels = 2
 						region = "STATE_GUAVIARE"
@@ -1823,7 +1823,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:CLM"
 						levels = 17
 						region = "STATE_CUNDINAMARCA"
@@ -1841,7 +1841,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:CLM"
 						levels = 17
 						region = "STATE_CUNDINAMARCA"
@@ -1859,7 +1859,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:CLM"
 						levels = 11
 						region = "STATE_CUNDINAMARCA"
@@ -1876,7 +1876,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:CLM"
 						levels = 2
 						region = "STATE_CUNDINAMARCA"
@@ -1894,7 +1894,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:CLM"
 						levels = 5
 						region = "STATE_CUNDINAMARCA"
@@ -1911,7 +1911,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:CLM"
 						levels = 3
 						region = "STATE_CUNDINAMARCA"
@@ -1930,7 +1930,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:CLM"
 						levels = 1
 						region = "STATE_CUNDINAMARCA"
@@ -1948,7 +1948,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:CLM"
 						levels = 2
 						region = "STATE_CUNDINAMARCA"
@@ -1963,7 +1963,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:CLM"
 						levels = 2
 						region = "STATE_CUNDINAMARCA"
@@ -1983,7 +1983,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:CLM"
 						levels = 2
 						region = "STATE_CUNDINAMARCA"
@@ -2002,7 +2002,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:CLM"
 						levels = 2
 						region = "STATE_CUNDINAMARCA"
@@ -2020,7 +2020,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:CLM"
 						levels = 8
 						region = "STATE_CUNDINAMARCA"
@@ -2039,7 +2039,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:CLM"
 						levels = 7
 						region = "STATE_CUNDINAMARCA"
@@ -2061,7 +2061,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:CLM"
 						levels = 17
 						region = "STATE_CAUCA"
@@ -2079,7 +2079,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:CLM"
 						levels = 10
 						region = "STATE_CAUCA"
@@ -2097,7 +2097,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:CLM"
 						levels = 16
 						region = "STATE_CAUCA"
@@ -2114,7 +2114,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:CLM"
 						levels = 1
 						region = "STATE_CAUCA"
@@ -2129,7 +2129,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:CLM"
 						levels = 1
 						region = "STATE_CAUCA"
@@ -2147,7 +2147,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:CLM"
 						levels = 1
 						region = "STATE_CAUCA"
@@ -2166,7 +2166,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:PEU"
 						levels = 5
 						region = "STATE_PASTAZA"
@@ -2185,7 +2185,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:PEU"
 						levels = 5
 						region = "STATE_PASTAZA"
@@ -2202,7 +2202,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = "building_coffee_plantation"
+						type = ""building_coffee_plantation""
 						country = "c:PEU"
 						levels = 5
 						region = "STATE_PASTAZA"
@@ -2220,7 +2220,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:PEU"
 						levels = 1
 						region = "STATE_PASTAZA"
@@ -2238,7 +2238,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:PEU"
 						levels = 1
 						region = "STATE_PASTAZA"
@@ -2272,7 +2272,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:PEU"
 						levels = 5
 						region = "STATE_CAJAMARCA"
@@ -2291,7 +2291,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:PEU"
 						levels = 5
 						region = "STATE_CAJAMARCA"
@@ -2308,7 +2308,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:PEU"
 						levels = 5
 						region = "STATE_CAJAMARCA"
@@ -2326,7 +2326,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = "building_coffee_plantation"
+						type = ""building_coffee_plantation""
 						country = "c:PEU"
 						levels = 5
 						region = "STATE_CAJAMARCA"
@@ -2344,7 +2344,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:PEU"
 						levels = 5
 						region = "STATE_CAJAMARCA"
@@ -2362,7 +2362,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:PEU"
 						levels = 5
 						region = "STATE_CAJAMARCA"
@@ -2380,7 +2380,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:PEU"
 						levels = 1
 						region = "STATE_CAJAMARCA"
@@ -2398,7 +2398,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:PEU"
 						levels = 4
 						region = "STATE_CAJAMARCA"
@@ -2416,7 +2416,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:PEU"
 						levels = 1
 						region = "STATE_CAJAMARCA"
@@ -2435,7 +2435,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:PEU"
 						levels = 1
 						region = "STATE_CAJAMARCA"
@@ -2453,7 +2453,7 @@
 				building = "building_distilleries"
 				add_ownership = {
 					building = {
-						type = "building_distilleries"
+						type = ""building_distilleries""
 						country = "c:PEU"
 						levels = 2
 						region = "STATE_CAJAMARCA"
@@ -2473,7 +2473,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:PEU"
 						levels = 6
 						region = "STATE_CAJAMARCA"
@@ -2492,7 +2492,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:PEU"
 						levels = 5
 						region = "STATE_LIMA"
@@ -2511,7 +2511,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:PEU"
 						levels = 5
 						region = "STATE_LIMA"
@@ -2528,7 +2528,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:PEU"
 						levels = 5
 						region = "STATE_LIMA"
@@ -2546,7 +2546,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = "building_coffee_plantation"
+						type = ""building_coffee_plantation""
 						country = "c:PEU"
 						levels = 2
 						region = "STATE_LIMA"
@@ -2564,7 +2564,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:PEU"
 						levels = 5
 						region = "STATE_LIMA"
@@ -2582,7 +2582,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:PEU"
 						levels = 5
 						region = "STATE_LIMA"
@@ -2600,7 +2600,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:PEU"
 						levels = 1
 						region = "STATE_LIMA"
@@ -2618,7 +2618,7 @@
 				building = "building_distilleries"
 				add_ownership = {
 					building = {
-						type = "building_distilleries"
+						type = ""building_distilleries""
 						country = "c:PEU"
 						levels = 5
 						region = "STATE_LIMA"
@@ -2638,7 +2638,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:PEU"
 						levels = 7
 						region = "STATE_LIMA"
@@ -2656,7 +2656,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = "building_motor_industry"
+						type = ""building_motor_industry""
 						country = "c:PEU"
 						levels = 2
 						region = "STATE_LIMA"
@@ -2676,7 +2676,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:PEU"
 						levels = 2
 						region = "STATE_LIMA"
@@ -2696,7 +2696,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:PEU"
 						levels = 4
 						region = "STATE_LIMA"
@@ -2715,7 +2715,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:PEU"
 						levels = 3
 						region = "STATE_LIMA"
@@ -2734,7 +2734,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:PEU"
 						levels = 2
 						region = "STATE_LIMA"
@@ -2753,7 +2753,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:PEU"
 						levels = 1
 						region = "STATE_LIMA"
@@ -2771,7 +2771,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:PEU"
 						levels = 8
 						region = "STATE_LIMA"
@@ -2786,7 +2786,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:PEU"
 						levels = 1
 						region = "STATE_LIMA"
@@ -2807,7 +2807,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:PEU"
 						levels = 10
 						region = "STATE_ICA"
@@ -2826,7 +2826,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:PEU"
 						levels = 10
 						region = "STATE_ICA"
@@ -2843,7 +2843,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:PEU"
 						levels = 10
 						region = "STATE_ICA"
@@ -2861,7 +2861,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = "building_coffee_plantation"
+						type = ""building_coffee_plantation""
 						country = "c:PEU"
 						levels = 10
 						region = "STATE_ICA"
@@ -2879,7 +2879,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:PEU"
 						levels = 10
 						region = "STATE_ICA"
@@ -2897,7 +2897,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:PEU"
 						levels = 10
 						region = "STATE_ICA"
@@ -2915,7 +2915,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:PEU"
 						levels = 2
 						region = "STATE_ICA"
@@ -2937,7 +2937,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:URU"
 						levels = 2
 						region = "STATE_URUGUAY"
@@ -2954,7 +2954,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:URU"
 						levels = 1
 						region = "STATE_URUGUAY"
@@ -2973,7 +2973,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:URU"
 						levels = 1
 						region = "STATE_URUGUAY"
@@ -2992,7 +2992,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:URU"
 						levels = 1
 						region = "STATE_URUGUAY"
@@ -3014,7 +3014,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:URU"
 						levels = 1
 						region = "STATE_URUGUAY"
@@ -3034,7 +3034,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:URU"
 						levels = 2
 						region = "STATE_URUGUAY"
@@ -3053,7 +3053,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:URU"
 						levels = 2
 						region = "STATE_URUGUAY"
@@ -3072,7 +3072,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:URU"
 						levels = 5
 						region = "STATE_URUGUAY"
@@ -3090,7 +3090,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:URU"
 						levels = 10
 						region = "STATE_URUGUAY"
@@ -3107,7 +3107,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:URU"
 						levels = 10
 						region = "STATE_URUGUAY"
@@ -3126,7 +3126,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:URU"
 						levels = 1
 						region = "STATE_URUGUAY"
@@ -3141,7 +3141,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:URU"
 						levels = 1
 						region = "STATE_URUGUAY"
@@ -3160,7 +3160,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:URU"
 						levels = 1
 						region = "STATE_URUGUAY"
@@ -3175,7 +3175,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = "building_pharmaceutical_industry"
+						type = ""building_pharmaceutical_industry""
 						country = "c:URU"
 						levels = 1
 						region = "STATE_URUGUAY"
@@ -3195,7 +3195,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:URU"
 						levels = 1
 						region = "STATE_URUGUAY"
@@ -3214,7 +3214,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:URU"
 						levels = 1
 						region = "STATE_URUGUAY"
@@ -3232,7 +3232,7 @@
 				building = "building_airport"
 				add_ownership = {
 					building = {
-						type = "building_airport"
+						type = ""building_airport""
 						country = "c:URU"
 						levels = 1
 						region = "STATE_URUGUAY"
@@ -3248,7 +3248,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:URU"
 						levels = 1
 						region = "STATE_URUGUAY"
@@ -3265,7 +3265,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = "building_university"
+						type = ""building_university""
 						country = "c:URU"
 						levels = 1
 						region = "STATE_URUGUAY"
@@ -3286,7 +3286,7 @@
 				building = "building_lead_mine"
 				add_ownership = {
 					building = {
-						type = "building_lead_mine"
+						type = ""building_lead_mine""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_JUJUY"
@@ -3304,7 +3304,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_JUJUY"
@@ -3319,7 +3319,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_JUJUY"
@@ -3337,7 +3337,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = "building_coffee_plantation"
+						type = ""building_coffee_plantation""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_JUJUY"
@@ -3355,7 +3355,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:ARG"
 						levels = 28
 						region = "STATE_JUJUY"
@@ -3373,7 +3373,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_JUJUY"
@@ -3399,7 +3399,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:PRG"
 						levels = 2
 						region = "STATE_PARAGUAY"
@@ -3418,7 +3418,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:PRG"
 						levels = 2
 						region = "STATE_PARAGUAY"
@@ -3435,7 +3435,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:PRG"
 						levels = 6
 						region = "STATE_PARAGUAY"
@@ -3453,7 +3453,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:PRG"
 						levels = 1
 						region = "STATE_PARAGUAY"
@@ -3471,7 +3471,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:PRG"
 						levels = 2
 						region = "STATE_PARAGUAY"
@@ -3489,7 +3489,7 @@
 				building = "building_media_industry"
 				add_ownership = {
 					building = {
-						type = "building_media_industry"
+						type = ""building_media_industry""
 						country = "c:PRG"
 						levels = 2
 						region = "STATE_PARAGUAY"
@@ -3507,7 +3507,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = "building_university"
+						type = ""building_university""
 						country = "c:PRG"
 						levels = 1
 						region = "STATE_PARAGUAY"
@@ -3524,7 +3524,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:PRG"
 						levels = 6
 						region = "STATE_PARAGUAY"
@@ -3541,7 +3541,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:PRG"
 						levels = 4
 						region = "STATE_PARAGUAY"
@@ -3559,7 +3559,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:PRG"
 						levels = 2
 						region = "STATE_PARAGUAY"
@@ -3577,7 +3577,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:PRG"
 						levels = 1
 						region = "STATE_PARAGUAY"
@@ -3599,7 +3599,7 @@
 				building = "building_distilleries"
 				add_ownership = {
 					building = {
-						type = "building_distilleries"
+						type = ""building_distilleries""
 						country = "c:PRG"
 						levels = 1
 						region = "STATE_PARAGUAY"
@@ -3619,7 +3619,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:PRG"
 						levels = 1
 						region = "STATE_PARAGUAY"
@@ -3638,7 +3638,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:PRG"
 						levels = 1
 						region = "STATE_PARAGUAY"
@@ -3653,7 +3653,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:PRG"
 						levels = 1
 						region = "STATE_PARAGUAY"
@@ -3675,7 +3675,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ARG"
 						levels = 22
 						region = "STATE_BUENOS_AIRES"
@@ -3692,7 +3692,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:ARG"
 						levels = 13
 						region = "STATE_BUENOS_AIRES"
@@ -3711,7 +3711,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:ARG"
 						levels = 29
 						region = "STATE_BUENOS_AIRES"
@@ -3730,7 +3730,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = "building_wheat_farm"
+						type = ""building_wheat_farm""
 						country = "c:ARG"
 						levels = 17
 						region = "STATE_BUENOS_AIRES"
@@ -3747,7 +3747,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:ARG"
 						levels = 7
 						region = "STATE_BUENOS_AIRES"
@@ -3765,7 +3765,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:ARG"
 						levels = 4
 						region = "STATE_BUENOS_AIRES"
@@ -3780,7 +3780,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:ARG"
 						levels = 3
 						region = "STATE_BUENOS_AIRES"
@@ -3799,7 +3799,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:ARG"
 						levels = 7
 						region = "STATE_BUENOS_AIRES"
@@ -3816,7 +3816,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:ARG"
 						levels = 5
 						region = "STATE_BUENOS_AIRES"
@@ -3835,7 +3835,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = "building_motor_industry"
+						type = ""building_motor_industry""
 						country = "c:ARG"
 						levels = 6
 						region = "STATE_BUENOS_AIRES"
@@ -3855,7 +3855,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ARG"
 						levels = 6
 						region = "STATE_BUENOS_AIRES"
@@ -3870,7 +3870,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:ARG"
 						levels = 11
 						region = "STATE_BUENOS_AIRES"
@@ -3890,7 +3890,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:ARG"
 						levels = 15
 						region = "STATE_BUENOS_AIRES"
@@ -3909,7 +3909,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_BUENOS_AIRES"
@@ -3927,7 +3927,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:ARG"
 						levels = 12
 						region = "STATE_BUENOS_AIRES"
@@ -3949,7 +3949,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_BUENOS_AIRES"
@@ -3967,7 +3967,7 @@
 				building = "building_media_industry"
 				add_ownership = {
 					building = {
-						type = "building_media_industry"
+						type = ""building_media_industry""
 						country = "c:ARG"
 						levels = 7
 						region = "STATE_BUENOS_AIRES"
@@ -3985,7 +3985,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = "building_glassworks"
+						type = ""building_glassworks""
 						country = "c:ARG"
 						levels = 12
 						region = "STATE_BUENOS_AIRES"
@@ -4004,7 +4004,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:ARG"
 						levels = 11
 						region = "STATE_BUENOS_AIRES"
@@ -4023,7 +4023,7 @@
 				building = "building_fuel_refineries"
 				add_ownership = {
 					building = {
-						type = "building_fuel_refineries"
+						type = ""building_fuel_refineries""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_BUENOS_AIRES"
@@ -4043,7 +4043,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = "building_hospitals"
+						type = ""building_hospitals""
 						country = "c:ARG"
 						levels = 6
 						region = "STATE_BUENOS_AIRES"
@@ -4061,7 +4061,7 @@
 				building = "building_financial_services"
 				add_ownership = {
 					building = {
-						type = "building_financial_services"
+						type = ""building_financial_services""
 						country = "c:ARG"
 						levels = 3
 						region = "STATE_BUENOS_AIRES"
@@ -4080,7 +4080,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = "building_pharmaceutical_industry"
+						type = ""building_pharmaceutical_industry""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_BUENOS_AIRES"
@@ -4104,7 +4104,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_PATAGONIA"
@@ -4121,7 +4121,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_PATAGONIA"
@@ -4139,7 +4139,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_PATAGONIA"
@@ -4154,7 +4154,7 @@
 				building = "building_phosphorus_mine"
 				add_ownership = {
 					building = {
-						type = "building_phosphorus_mine"
+						type = ""building_phosphorus_mine""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_PATAGONIA"
@@ -4172,7 +4172,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:ARG"
 						levels = 4
 						region = "STATE_PATAGONIA"
@@ -4190,7 +4190,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_PATAGONIA"
@@ -4205,7 +4205,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_PATAGONIA"
@@ -4223,7 +4223,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = "building_pharmaceutical_industry"
+						type = ""building_pharmaceutical_industry""
 						country = "c:ARG"
 						levels = 4
 						region = "STATE_PATAGONIA"
@@ -4243,7 +4243,7 @@
 				building = "building_oil_rig"
 				add_ownership = {
 					building = {
-						type = "building_oil_rig"
+						type = ""building_oil_rig""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_PATAGONIA"
@@ -4264,7 +4264,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_RIO_NEGRO"
@@ -4281,7 +4281,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = "building_wheat_farm"
+						type = ""building_wheat_farm""
 						country = "c:ARG"
 						levels = 6
 						region = "STATE_RIO_NEGRO"
@@ -4298,7 +4298,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_RIO_NEGRO"
@@ -4316,7 +4316,7 @@
 				building = "building_phosphorus_mine"
 				add_ownership = {
 					building = {
-						type = "building_phosphorus_mine"
+						type = ""building_phosphorus_mine""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_RIO_NEGRO"
@@ -4334,7 +4334,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:ARG"
 						levels = 11
 						region = "STATE_RIO_NEGRO"
@@ -4352,7 +4352,7 @@
 				building = "building_distilleries"
 				add_ownership = {
 					building = {
-						type = "building_distilleries"
+						type = ""building_distilleries""
 						country = "c:ARG"
 						levels = 5
 						region = "STATE_RIO_NEGRO"
@@ -4372,7 +4372,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_RIO_NEGRO"
@@ -4387,7 +4387,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_RIO_NEGRO"
@@ -4410,7 +4410,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_LA_PAMPA"
@@ -4427,7 +4427,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = "building_wheat_farm"
+						type = ""building_wheat_farm""
 						country = "c:ARG"
 						levels = 6
 						region = "STATE_LA_PAMPA"
@@ -4444,7 +4444,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_LA_PAMPA"
@@ -4462,7 +4462,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_LA_PAMPA"
@@ -4480,7 +4480,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_LA_PAMPA"
@@ -4499,7 +4499,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_LA_PAMPA"
@@ -4514,7 +4514,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_LA_PAMPA"
@@ -4534,7 +4534,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:ARG"
 						levels = 15
 						region = "STATE_LA_PAMPA"
@@ -4556,7 +4556,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = "building_pharmaceutical_industry"
+						type = ""building_pharmaceutical_industry""
 						country = "c:ARG"
 						levels = 5
 						region = "STATE_LA_PAMPA"
@@ -4580,7 +4580,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_SANTA_FE"
@@ -4597,7 +4597,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:ARG"
 						levels = 7
 						region = "STATE_SANTA_FE"
@@ -4614,7 +4614,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_SANTA_FE"
@@ -4633,7 +4633,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_SANTA_FE"
@@ -4651,7 +4651,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_SANTA_FE"
@@ -4666,7 +4666,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ARG"
 						levels = 11
 						region = "STATE_SANTA_FE"
@@ -4684,7 +4684,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_SANTA_FE"
@@ -4703,7 +4703,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_SANTA_FE"
@@ -4718,7 +4718,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_SANTA_FE"
@@ -4738,7 +4738,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:ARG"
 						levels = 6
 						region = "STATE_SANTA_FE"
@@ -4755,7 +4755,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_SANTA_FE"
@@ -4777,7 +4777,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_SANTA_FE"
@@ -4796,7 +4796,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = "building_explosives_industry"
+						type = ""building_explosives_industry""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_SANTA_FE"
@@ -4816,7 +4816,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_SANTA_FE"
@@ -4835,7 +4835,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = "building_hospitals"
+						type = ""building_hospitals""
 						country = "c:ARG"
 						levels = 5
 						region = "STATE_SANTA_FE"
@@ -4853,7 +4853,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_SANTA_FE"
@@ -4876,7 +4876,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_CORRIENTES"
@@ -4893,7 +4893,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:ARG"
 						levels = 6
 						region = "STATE_CORRIENTES"
@@ -4910,7 +4910,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ARG"
 						levels = 15
 						region = "STATE_CORRIENTES"
@@ -4928,7 +4928,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_CORRIENTES"
@@ -4946,7 +4946,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_CORRIENTES"
@@ -4961,7 +4961,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_CORRIENTES"
@@ -4979,7 +4979,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_CORRIENTES"
@@ -4997,7 +4997,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:ARG"
 						levels = 7
 						region = "STATE_CORRIENTES"
@@ -5019,7 +5019,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_TUCUMAN"
@@ -5036,7 +5036,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_TUCUMAN"
@@ -5054,7 +5054,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:ARG"
 						levels = 3
 						region = "STATE_TUCUMAN"
@@ -5071,7 +5071,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_TUCUMAN"
@@ -5089,7 +5089,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:ARG"
 						levels = 7
 						region = "STATE_TUCUMAN"
@@ -5107,7 +5107,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_TUCUMAN"
@@ -5122,7 +5122,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_TUCUMAN"
@@ -5139,7 +5139,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_TUCUMAN"
@@ -5158,7 +5158,7 @@
 				building = "building_gold_mine"
 				add_ownership = {
 					building = {
-						type = "building_gold_mine"
+						type = ""building_gold_mine""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_TUCUMAN"
@@ -5176,7 +5176,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_TUCUMAN"
@@ -5194,7 +5194,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_TUCUMAN"
@@ -5212,7 +5212,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_TUCUMAN"
@@ -5231,7 +5231,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_TUCUMAN"
@@ -5250,7 +5250,7 @@
 				building = "building_synthetics_plant"
 				add_ownership = {
 					building = {
-						type = "building_synthetics_plant"
+						type = ""building_synthetics_plant""
 						country = "c:ARG"
 						levels = 5
 						region = "STATE_TUCUMAN"
@@ -5274,7 +5274,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ARG"
 						levels = 2
 						region = "STATE_CHACO"
@@ -5291,7 +5291,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ARG"
 						levels = 13
 						region = "STATE_CHACO"
@@ -5309,7 +5309,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:ARG"
 						levels = 7
 						region = "STATE_CHACO"
@@ -5326,7 +5326,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_CHACO"
@@ -5344,7 +5344,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_CHACO"
@@ -5359,7 +5359,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_CHACO"
@@ -5377,7 +5377,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:ARG"
 						levels = 4
 						region = "STATE_CHACO"
@@ -5395,7 +5395,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_CHACO"
@@ -5418,7 +5418,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:CHL"
 						levels = 1
 						region = "STATE_SANTIAGO"
@@ -5441,7 +5441,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_ARAUCANIA"
@@ -5458,7 +5458,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_ARAUCANIA"
@@ -5473,7 +5473,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:ARG"
 						levels = 1
 						region = "STATE_ARAUCANIA"
@@ -5495,7 +5495,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:GBR"
 						levels = 1
 						region = "STATE_SOUTH_ATLANTIC_ISLANDS"
@@ -5510,7 +5510,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:GBR"
 						levels = 2
 						region = "STATE_SOUTH_ATLANTIC_ISLANDS"
@@ -5532,7 +5532,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:BRZ"
 						levels = 4
 						region = "STATE_PARA"
@@ -5549,7 +5549,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_PARA"
@@ -5567,7 +5567,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PARA"
@@ -5586,7 +5586,7 @@
 				building = "building_rubber_plantation"
 				add_ownership = {
 					building = {
-						type = "building_rubber_plantation"
+						type = ""building_rubber_plantation""
 						country = "c:BRZ"
 						levels = 4
 						region = "STATE_PARA"
@@ -5604,7 +5604,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_PARA"
@@ -5622,7 +5622,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PARA"
@@ -5640,7 +5640,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_PARA"
@@ -5657,7 +5657,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PARA"
@@ -5677,7 +5677,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PARA"
@@ -5696,7 +5696,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:BRZ"
 						levels = 8
 						region = "STATE_MARANHAO"
@@ -5713,7 +5713,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_MARANHAO"
@@ -5732,7 +5732,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_MARANHAO"
@@ -5750,7 +5750,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_MARANHAO"
@@ -5768,7 +5768,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_MARANHAO"
@@ -5785,7 +5785,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_MARANHAO"
@@ -5807,7 +5807,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:BRZ"
 						levels = 3
 						region = "STATE_AMAZONAS"
@@ -5824,7 +5824,7 @@
 				building = "building_rubber_plantation"
 				add_ownership = {
 					building = {
-						type = "building_rubber_plantation"
+						type = ""building_rubber_plantation""
 						country = "c:BRZ"
 						levels = 7
 						region = "STATE_AMAZONAS"
@@ -5842,7 +5842,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:BRZ"
 						levels = 7
 						region = "STATE_AMAZONAS"
@@ -5860,7 +5860,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_AMAZONAS"
@@ -5877,7 +5877,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_AMAZONAS"
@@ -5899,7 +5899,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_GOIAS"
@@ -5916,7 +5916,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:BRZ"
 						levels = 3
 						region = "STATE_GOIAS"
@@ -5935,7 +5935,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_GOIAS"
@@ -5953,7 +5953,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_GOIAS"
@@ -5971,7 +5971,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_GOIAS"
@@ -5992,7 +5992,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_MATO_GROSSO"
@@ -6009,7 +6009,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_MATO_GROSSO"
@@ -6026,7 +6026,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_MATO_GROSSO"
@@ -6045,7 +6045,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_MATO_GROSSO"
@@ -6067,7 +6067,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:BRZ"
 						levels = 30
 						region = "STATE_RIO_GRANDE_DO_SUL"
@@ -6084,7 +6084,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_RIO_GRANDE_DO_SUL"
@@ -6103,7 +6103,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:BRZ"
 						levels = 3
 						region = "STATE_RIO_GRANDE_DO_SUL"
@@ -6121,7 +6121,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:BRZ"
 						levels = 7
 						region = "STATE_RIO_GRANDE_DO_SUL"
@@ -6139,7 +6139,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 3
 						region = "STATE_RIO_GRANDE_DO_SUL"
@@ -6156,7 +6156,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_RIO_GRANDE_DO_SUL"
@@ -6176,7 +6176,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_RIO_GRANDE_DO_SUL"
@@ -6195,7 +6195,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_RIO_GRANDE_DO_SUL"
@@ -6217,7 +6217,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_RIO_GRANDE_DO_SUL"
@@ -6236,7 +6236,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = "building_glassworks"
+						type = ""building_glassworks""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_RIO_GRANDE_DO_SUL"
@@ -6255,7 +6255,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_RIO_GRANDE_DO_SUL"
@@ -6270,7 +6270,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_RIO_GRANDE_DO_SUL"
@@ -6288,7 +6288,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_RIO_GRANDE_DO_SUL"
@@ -6303,7 +6303,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_RIO_GRANDE_DO_SUL"
@@ -6325,7 +6325,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_PARANA"
@@ -6343,7 +6343,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:BRZ"
 						levels = 10
 						region = "STATE_PARANA"
@@ -6360,7 +6360,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = "building_coffee_plantation"
+						type = ""building_coffee_plantation""
 						country = "c:BRZ"
 						levels = 20
 						region = "STATE_PARANA"
@@ -6378,7 +6378,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_PARANA"
@@ -6396,7 +6396,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_PARANA"
@@ -6413,7 +6413,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = "building_glassworks"
+						type = ""building_glassworks""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PARANA"
@@ -6432,7 +6432,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PARANA"
@@ -6447,7 +6447,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PARANA"
@@ -6466,7 +6466,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PARANA"
@@ -6488,7 +6488,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:BRZ"
 						levels = 10
 						region = "STATE_SANTA_CATARINA"
@@ -6505,7 +6505,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_SANTA_CATARINA"
@@ -6523,7 +6523,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_SANTA_CATARINA"
@@ -6541,7 +6541,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_SANTA_CATARINA"
@@ -6559,7 +6559,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_SANTA_CATARINA"
@@ -6576,7 +6576,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_SANTA_CATARINA"
@@ -6595,7 +6595,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_SANTA_CATARINA"
@@ -6610,7 +6610,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_SANTA_CATARINA"
@@ -6632,7 +6632,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:BRZ"
 						levels = 25
 						region = "STATE_SAO_PAULO"
@@ -6649,7 +6649,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:BRZ"
 						levels = 10
 						region = "STATE_SAO_PAULO"
@@ -6667,7 +6667,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_SAO_PAULO"
@@ -6686,7 +6686,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = "building_coffee_plantation"
+						type = ""building_coffee_plantation""
 						country = "c:BRZ"
 						levels = 50
 						region = "STATE_SAO_PAULO"
@@ -6704,7 +6704,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:BRZ"
 						levels = 30
 						region = "STATE_SAO_PAULO"
@@ -6722,7 +6722,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_SAO_PAULO"
@@ -6740,7 +6740,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_SAO_PAULO"
@@ -6758,7 +6758,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 15
 						region = "STATE_SAO_PAULO"
@@ -6775,7 +6775,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = "building_motor_industry"
+						type = ""building_motor_industry""
 						country = "c:BRZ"
 						levels = 10
 						region = "STATE_SAO_PAULO"
@@ -6795,7 +6795,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_SAO_PAULO"
@@ -6814,7 +6814,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_SAO_PAULO"
@@ -6833,7 +6833,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:BRZ"
 						levels = 10
 						region = "STATE_SAO_PAULO"
@@ -6853,7 +6853,7 @@
 				building = "building_synthetics_plant"
 				add_ownership = {
 					building = {
-						type = "building_synthetics_plant"
+						type = ""building_synthetics_plant""
 						country = "c:BRZ"
 						levels = 3
 						region = "STATE_SAO_PAULO"
@@ -6873,7 +6873,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_SAO_PAULO"
@@ -6892,7 +6892,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_SAO_PAULO"
@@ -6909,7 +6909,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = "building_university"
+						type = ""building_university""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_SAO_PAULO"
@@ -6926,7 +6926,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 6
 						region = "STATE_SAO_PAULO"
@@ -6944,7 +6944,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_SAO_PAULO"
@@ -6959,7 +6959,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_SAO_PAULO"
@@ -6974,7 +6974,7 @@
 				building = "building_skyscraper"
 				add_ownership = {
 					building = {
-						type = "building_skyscraper"
+						type = ""building_skyscraper""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_SAO_PAULO"
@@ -6991,7 +6991,7 @@
 				building = "building_financial_services"
 				add_ownership = {
 					building = {
-						type = "building_financial_services"
+						type = ""building_financial_services""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_SAO_PAULO"
@@ -7014,7 +7014,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:BRZ"
 						levels = 50
 						region = "STATE_MINAS_GERAIS"
@@ -7031,7 +7031,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_MINAS_GERAIS"
@@ -7049,7 +7049,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_MINAS_GERAIS"
@@ -7068,7 +7068,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = "building_coffee_plantation"
+						type = ""building_coffee_plantation""
 						country = "c:BRZ"
 						levels = 12
 						region = "STATE_MINAS_GERAIS"
@@ -7086,7 +7086,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:BRZ"
 						levels = 10
 						region = "STATE_MINAS_GERAIS"
@@ -7104,7 +7104,7 @@
 				building = "building_gold_mine"
 				add_ownership = {
 					building = {
-						type = "building_gold_mine"
+						type = ""building_gold_mine""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_MINAS_GERAIS"
@@ -7122,7 +7122,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_MINAS_GERAIS"
@@ -7139,7 +7139,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_MINAS_GERAIS"
@@ -7158,7 +7158,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 6
 						region = "STATE_MINAS_GERAIS"
@@ -7175,7 +7175,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_MINAS_GERAIS"
@@ -7194,7 +7194,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_MINAS_GERAIS"
@@ -7213,7 +7213,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_MINAS_GERAIS"
@@ -7233,7 +7233,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:BRZ"
 						levels = 4
 						region = "STATE_MINAS_GERAIS"
@@ -7252,7 +7252,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_MINAS_GERAIS"
@@ -7274,7 +7274,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = "building_glassworks"
+						type = ""building_glassworks""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_MINAS_GERAIS"
@@ -7293,7 +7293,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_MINAS_GERAIS"
@@ -7312,7 +7312,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = "building_university"
+						type = ""building_university""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_MINAS_GERAIS"
@@ -7329,7 +7329,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_MINAS_GERAIS"
@@ -7344,7 +7344,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 3
 						region = "STATE_MINAS_GERAIS"
@@ -7366,7 +7366,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:BRZ"
 						levels = 10
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7383,7 +7383,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:BRZ"
 						levels = 7
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7401,7 +7401,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7420,7 +7420,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = "building_coffee_plantation"
+						type = ""building_coffee_plantation""
 						country = "c:BRZ"
 						levels = 30
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7438,7 +7438,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:BRZ"
 						levels = 7
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7456,7 +7456,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 26
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7473,7 +7473,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:BRZ"
 						levels = 10
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7492,7 +7492,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = "building_glassworks"
+						type = ""building_glassworks""
 						country = "c:BRZ"
 						levels = 3
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7511,7 +7511,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:BRZ"
 						levels = 3
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7531,7 +7531,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7553,7 +7553,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7570,7 +7570,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7589,7 +7589,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7608,7 +7608,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = "building_pharmaceutical_industry"
+						type = ""building_pharmaceutical_industry""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7628,7 +7628,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:BRZ"
 						levels = 3
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7643,7 +7643,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7661,7 +7661,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = "building_university"
+						type = ""building_university""
 						country = "c:BRZ"
 						levels = 3
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7678,7 +7678,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7693,7 +7693,7 @@
 				building = "building_financial_services"
 				add_ownership = {
 					building = {
-						type = "building_financial_services"
+						type = ""building_financial_services""
 						country = "c:BRZ"
 						levels = 3
 						region = "STATE_RIO_DE_JANEIRO"
@@ -7716,7 +7716,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:BRZ"
 						levels = 35
 						region = "STATE_BAHIA"
@@ -7733,7 +7733,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:BRZ"
 						levels = 7
 						region = "STATE_BAHIA"
@@ -7751,7 +7751,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:BRZ"
 						levels = 4
 						region = "STATE_BAHIA"
@@ -7770,7 +7770,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = "building_coffee_plantation"
+						type = ""building_coffee_plantation""
 						country = "c:BRZ"
 						levels = 8
 						region = "STATE_BAHIA"
@@ -7788,7 +7788,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_BAHIA"
@@ -7806,7 +7806,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:BRZ"
 						levels = 20
 						region = "STATE_BAHIA"
@@ -7824,7 +7824,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_BAHIA"
@@ -7842,7 +7842,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_BAHIA"
@@ -7860,7 +7860,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_BAHIA"
@@ -7880,7 +7880,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_BAHIA"
@@ -7899,7 +7899,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_BAHIA"
@@ -7916,7 +7916,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = "building_university"
+						type = ""building_university""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_BAHIA"
@@ -7933,7 +7933,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_BAHIA"
@@ -7948,7 +7948,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_BAHIA"
@@ -7966,7 +7966,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_BAHIA"
@@ -7985,7 +7985,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_RIO_GRANDE_DO_NORTE"
@@ -8002,7 +8002,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_RIO_GRANDE_DO_NORTE"
@@ -8019,7 +8019,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_RIO_GRANDE_DO_NORTE"
@@ -8038,7 +8038,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:BRZ"
 						levels = 20
 						region = "STATE_CEARA"
@@ -8055,7 +8055,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:BRZ"
 						levels = 6
 						region = "STATE_CEARA"
@@ -8073,7 +8073,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:BRZ"
 						levels = 4
 						region = "STATE_CEARA"
@@ -8091,7 +8091,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_CEARA"
@@ -8108,7 +8108,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_CEARA"
@@ -8123,7 +8123,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_CEARA"
@@ -8145,7 +8145,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:BRZ"
 						levels = 12
 						region = "STATE_PIAUI"
@@ -8162,7 +8162,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PIAUI"
@@ -8181,7 +8181,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PIAUI"
@@ -8198,7 +8198,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PIAUI"
@@ -8220,7 +8220,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PARAIBA"
@@ -8237,7 +8237,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PARAIBA"
@@ -8256,7 +8256,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PARAIBA"
@@ -8271,7 +8271,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:BRZ"
 						levels = 8
 						region = "STATE_PARAIBA"
@@ -8288,7 +8288,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PARAIBA"
@@ -8310,7 +8310,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PERNAMBUCO"
@@ -8325,7 +8325,7 @@
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
-						type = "building_maize_farm"
+						type = ""building_maize_farm""
 						country = "c:BRZ"
 						levels = 35
 						region = "STATE_PERNAMBUCO"
@@ -8342,7 +8342,7 @@
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
-						type = "building_sugar_plantation"
+						type = ""building_sugar_plantation""
 						country = "c:BRZ"
 						levels = 42
 						region = "STATE_PERNAMBUCO"
@@ -8360,7 +8360,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_PERNAMBUCO"
@@ -8379,7 +8379,7 @@
 				building = "building_coffee_plantation"
 				add_ownership = {
 					building = {
-						type = "building_coffee_plantation"
+						type = ""building_coffee_plantation""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_PERNAMBUCO"
@@ -8397,7 +8397,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_PERNAMBUCO"
@@ -8415,7 +8415,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:BRZ"
 						levels = 2
 						region = "STATE_PERNAMBUCO"
@@ -8433,7 +8433,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_PERNAMBUCO"
@@ -8450,7 +8450,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PERNAMBUCO"
@@ -8470,7 +8470,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:BRZ"
 						levels = 4
 						region = "STATE_PERNAMBUCO"
@@ -8489,7 +8489,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = "building_university"
+						type = ""building_university""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PERNAMBUCO"
@@ -8506,7 +8506,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:BRZ"
 						levels = 5
 						region = "STATE_PERNAMBUCO"
@@ -8524,7 +8524,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:BRZ"
 						levels = 1
 						region = "STATE_PERNAMBUCO"

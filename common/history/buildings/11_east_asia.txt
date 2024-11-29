@@ -5,7 +5,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_DZUNGARIA"
@@ -25,7 +25,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_DZUNGARIA"
@@ -40,7 +40,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 6
 						region = "STATE_DZUNGARIA"
@@ -57,7 +57,7 @@
 				building = "building_lead_mine"
 				add_ownership = {
 					building = {
-						type = "building_lead_mine"
+						type = ""building_lead_mine""
 						country = "c:ROC"
 						levels = 15
 						region = "STATE_DZUNGARIA"
@@ -77,7 +77,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:XIN"
 						levels = 3
 						region = "STATE_DZUNGARIA"
@@ -100,7 +100,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 12
 						region = "STATE_TIANSHAN"
@@ -121,7 +121,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = "building_opium_plantation"
+						type = ""building_opium_plantation""
 						country = "c:ROC"
 						levels = 6
 						region = "STATE_SICHUAN"
@@ -139,7 +139,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_SICHUAN"
@@ -157,7 +157,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_SICHUAN"
@@ -175,7 +175,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:ROC"
 						levels = 6
 						region = "STATE_SICHUAN"
@@ -195,7 +195,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_SICHUAN"
@@ -214,7 +214,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = "building_explosives_industry"
+						type = ""building_explosives_industry""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_SICHUAN"
@@ -234,7 +234,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_SICHUAN"
@@ -252,7 +252,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_SICHUAN"
@@ -270,7 +270,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_SICHUAN"
@@ -289,7 +289,7 @@
 				building = "building_phosphorus_mine"
 				add_ownership = {
 					building = {
-						type = "building_phosphorus_mine"
+						type = ""building_phosphorus_mine""
 						country = "c:ROC"
 						levels = 10
 						region = "STATE_SICHUAN"
@@ -307,7 +307,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_SICHUAN"
@@ -328,7 +328,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = "building_opium_plantation"
+						type = ""building_opium_plantation""
 						country = "c:ROC"
 						levels = 16
 						region = "STATE_YUNNAN"
@@ -346,7 +346,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_YUNNAN"
@@ -364,7 +364,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_YUNNAN"
@@ -382,7 +382,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_YUNNAN"
@@ -402,7 +402,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:ROC"
 						levels = 8
 						region = "STATE_YUNNAN"
@@ -421,7 +421,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_YUNNAN"
@@ -439,7 +439,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_YUNNAN"
@@ -457,7 +457,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_YUNNAN"
@@ -474,7 +474,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_YUNNAN"
@@ -497,7 +497,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = "building_opium_plantation"
+						type = ""building_opium_plantation""
 						country = "c:ROC"
 						levels = 7
 						region = "STATE_GUIZHOU"
@@ -515,7 +515,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_GUIZHOU"
@@ -533,7 +533,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_GUIZHOU"
@@ -551,7 +551,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_GUIZHOU"
@@ -571,7 +571,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:ROC"
 						levels = 8
 						region = "STATE_GUIZHOU"
@@ -590,7 +590,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = "building_explosives_industry"
+						type = ""building_explosives_industry""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_GUIZHOU"
@@ -610,7 +610,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_GUIZHOU"
@@ -629,7 +629,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_GUIZHOU"
@@ -647,7 +647,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_GUIZHOU"
@@ -668,7 +668,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_SHAOZHOU"
@@ -686,7 +686,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_SHAOZHOU"
@@ -704,7 +704,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_SHAOZHOU"
@@ -722,7 +722,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_SHAOZHOU"
@@ -740,7 +740,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_SHAOZHOU"
@@ -759,7 +759,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_SHAOZHOU"
@@ -778,7 +778,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:ROC"
 						levels = 6
 						region = "STATE_SHAOZHOU"
@@ -793,7 +793,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 15
 						region = "STATE_SHAOZHOU"
@@ -810,7 +810,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = "building_explosives_industry"
+						type = ""building_explosives_industry""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_SHAOZHOU"
@@ -830,7 +830,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_SHAOZHOU"
@@ -848,7 +848,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_SHAOZHOU"
@@ -867,7 +867,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_SHAOZHOU"
@@ -885,7 +885,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_SHAOZHOU"
@@ -902,7 +902,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_SHAOZHOU"
@@ -923,7 +923,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:HKN"
 						levels = 1
 						region = "STATE_SHAOZHOU"
@@ -942,7 +942,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_ALXA"
@@ -965,7 +965,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:PRC"
 						levels = 5
 						region = "STATE_HINGGAN"
@@ -982,7 +982,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:PRC"
 						levels = 4
 						region = "STATE_HINGGAN"
@@ -1001,7 +1001,7 @@
 				building = "building_lead_mine"
 				add_ownership = {
 					building = {
-						type = "building_lead_mine"
+						type = ""building_lead_mine""
 						country = "c:PRC"
 						levels = 5
 						region = "STATE_HINGGAN"
@@ -1020,7 +1020,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:PRC"
 						levels = 5
 						region = "STATE_HINGGAN"
@@ -1039,7 +1039,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:PRC"
 						levels = 1
 						region = "STATE_HINGGAN"
@@ -1061,7 +1061,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = "building_explosives_industry"
+						type = ""building_explosives_industry""
 						country = "c:RUS"
 						levels = 8
 						region = "STATE_HINGGAN"
@@ -1082,7 +1082,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:RUS"
 						levels = 1
 						region = "STATE_HINGGAN"
@@ -1100,7 +1100,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:RUS"
 						levels = 1
 						region = "STATE_HINGGAN"
@@ -1127,7 +1127,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 10
 						region = "STATE_GUANGXI"
@@ -1144,7 +1144,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_GUANGXI"
@@ -1162,7 +1162,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:ROC"
 						levels = 9
 						region = "STATE_GUANGXI"
@@ -1180,7 +1180,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_GUANGXI"
@@ -1198,7 +1198,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:ROC"
 						levels = 7
 						region = "STATE_GUANGXI"
@@ -1217,7 +1217,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:ROC"
 						levels = 6
 						region = "STATE_GUANGXI"
@@ -1236,7 +1236,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_GUANGXI"
@@ -1254,7 +1254,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_GUANGXI"
@@ -1271,7 +1271,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_GUANGXI"
@@ -1294,7 +1294,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:PRC"
 						levels = 2
 						region = "STATE_BEIJING"
@@ -1312,7 +1312,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:PRC"
 						levels = 5
 						region = "STATE_BEIJING"
@@ -1331,7 +1331,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:PRC"
 						levels = 5
 						region = "STATE_BEIJING"
@@ -1350,7 +1350,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:PRC"
 						levels = 1
 						region = "STATE_BEIJING"
@@ -1369,7 +1369,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:PRC"
 						levels = 5
 						region = "STATE_BEIJING"
@@ -1390,7 +1390,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:PRC"
 						levels = 2
 						region = "STATE_BEIJING"
@@ -1410,7 +1410,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:PRC"
 						levels = 4
 						region = "STATE_BEIJING"
@@ -1425,7 +1425,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:PRC"
 						levels = 2
 						region = "STATE_BEIJING"
@@ -1444,7 +1444,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:PRC"
 						levels = 4
 						region = "STATE_BEIJING"
@@ -1459,7 +1459,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:PRC"
 						levels = 25
 						region = "STATE_BEIJING"
@@ -1476,7 +1476,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:PRC"
 						levels = 10
 						region = "STATE_BEIJING"
@@ -1496,7 +1496,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:PRC"
 						levels = 1
 						region = "STATE_BEIJING"
@@ -1516,7 +1516,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = "building_explosives_industry"
+						type = ""building_explosives_industry""
 						country = "c:PRC"
 						levels = 4
 						region = "STATE_BEIJING"
@@ -1537,7 +1537,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = "building_wheat_farm"
+						type = ""building_wheat_farm""
 						country = "c:PRC"
 						levels = 2
 						region = "STATE_BEIJING"
@@ -1555,7 +1555,7 @@
 				building = "building_lead_mine"
 				add_ownership = {
 					building = {
-						type = "building_lead_mine"
+						type = ""building_lead_mine""
 						country = "c:PRC"
 						levels = 3
 						region = "STATE_BEIJING"
@@ -1574,7 +1574,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:PRC"
 						levels = 4
 						region = "STATE_BEIJING"
@@ -1594,7 +1594,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:PRC"
 						levels = 5
 						region = "STATE_BEIJING"
@@ -1614,7 +1614,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:PRC"
 						levels = 1
 						region = "STATE_BEIJING"
@@ -1638,7 +1638,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = "building_explosives_industry"
+						type = ""building_explosives_industry""
 						country = "c:RUS"
 						levels = 2
 						region = "STATE_SHENGJING"
@@ -1659,7 +1659,7 @@
 				building = "building_small_arms_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_small_arms_manufactories"
+						type = ""building_small_arms_manufactories""
 						country = "c:RUS"
 						levels = 3
 						region = "STATE_SHENGJING"
@@ -1679,7 +1679,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:RUS"
 						levels = 1
 						region = "STATE_SHENGJING"
@@ -1706,7 +1706,7 @@
 				building = "building_fuel_refineries"
 				add_ownership = {
 					building = {
-						type = "building_fuel_refineries"
+						type = ""building_fuel_refineries""
 						country = "c:RUS"
 						levels = 6
 						region = "STATE_OUTER_MANCHURIA"
@@ -1727,7 +1727,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:RUS"
 						levels = 12
 						region = "STATE_OUTER_MANCHURIA"
@@ -1744,7 +1744,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:RUS"
 						levels = 3
 						region = "STATE_OUTER_MANCHURIA"
@@ -1762,7 +1762,7 @@
 				building = "building_gold_mine"
 				add_ownership = {
 					building = {
-						type = "building_gold_mine"
+						type = ""building_gold_mine""
 						country = "c:RUS"
 						levels = 5
 						region = "STATE_OUTER_MANCHURIA"
@@ -1781,7 +1781,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:RUS"
 						levels = 1
 						region = "STATE_OUTER_MANCHURIA"
@@ -1804,7 +1804,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:RUS"
 						levels = 10
 						region = "STATE_OUTER_MANCHURIA"
@@ -1823,7 +1823,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:RUS"
 						levels = 5
 						region = "STATE_OUTER_MANCHURIA"
@@ -1842,7 +1842,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = "building_glassworks"
+						type = ""building_glassworks""
 						country = "c:RUS"
 						levels = 10
 						region = "STATE_OUTER_MANCHURIA"
@@ -1862,7 +1862,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:RUS"
 						levels = 5
 						region = "STATE_OUTER_MANCHURIA"
@@ -1880,7 +1880,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:RUS"
 						levels = 5
 						region = "STATE_OUTER_MANCHURIA"
@@ -1903,7 +1903,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = "building_explosives_industry"
+						type = ""building_explosives_industry""
 						country = "c:RUS"
 						levels = 2
 						region = "STATE_SOUTHERN_MANCHURIA"
@@ -1924,7 +1924,7 @@
 				building = "building_small_arms_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_small_arms_manufactories"
+						type = ""building_small_arms_manufactories""
 						country = "c:RUS"
 						levels = 5
 						region = "STATE_SOUTHERN_MANCHURIA"
@@ -1944,7 +1944,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:RUS"
 						levels = 1
 						region = "STATE_SOUTHERN_MANCHURIA"
@@ -1971,7 +1971,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = "building_explosives_industry"
+						type = ""building_explosives_industry""
 						country = "c:RUS"
 						levels = 5
 						region = "STATE_NORTHERN_MANCHURIA"
@@ -1992,7 +1992,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:RUS"
 						levels = 1
 						region = "STATE_NORTHERN_MANCHURIA"
@@ -2010,7 +2010,7 @@
 				building = "building_small_arms_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_small_arms_manufactories"
+						type = ""building_small_arms_manufactories""
 						country = "c:RUS"
 						levels = 4
 						region = "STATE_NORTHERN_MANCHURIA"
@@ -2030,7 +2030,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:RUS"
 						levels = 1
 						region = "STATE_NORTHERN_MANCHURIA"
@@ -2057,7 +2057,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:PRC"
 						levels = 10
 						region = "STATE_SHANXI"
@@ -2074,7 +2074,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:PRC"
 						levels = 8
 						region = "STATE_SHANXI"
@@ -2093,7 +2093,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:PRC"
 						levels = 5
 						region = "STATE_SHANXI"
@@ -2112,7 +2112,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:PRC"
 						levels = 10
 						region = "STATE_SHANXI"
@@ -2127,7 +2127,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:PRC"
 						levels = 5
 						region = "STATE_SHANXI"
@@ -2146,7 +2146,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = "building_wheat_farm"
+						type = ""building_wheat_farm""
 						country = "c:PRC"
 						levels = 1
 						region = "STATE_SHANXI"
@@ -2164,7 +2164,7 @@
 				building = "building_phosphorus_mine"
 				add_ownership = {
 					building = {
-						type = "building_phosphorus_mine"
+						type = ""building_phosphorus_mine""
 						country = "c:PRC"
 						levels = 5
 						region = "STATE_SHANXI"
@@ -2183,7 +2183,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:PRC"
 						levels = 7
 						region = "STATE_SHANXI"
@@ -2206,7 +2206,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_NINGXIA"
@@ -2224,7 +2224,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:ROC"
 						levels = 12
 						region = "STATE_NINGXIA"
@@ -2242,7 +2242,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_NINGXIA"
@@ -2257,7 +2257,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 7
 						region = "STATE_NINGXIA"
@@ -2274,7 +2274,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_NINGXIA"
@@ -2292,7 +2292,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_NINGXIA"
@@ -2313,7 +2313,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_GANSU"
@@ -2328,7 +2328,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 8
 						region = "STATE_GANSU"
@@ -2345,7 +2345,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_GANSU"
@@ -2367,7 +2367,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:PRC"
 						levels = 6
 						region = "STATE_XIAN"
@@ -2386,7 +2386,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:PRC"
 						levels = 10
 						region = "STATE_XIAN"
@@ -2403,7 +2403,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:PRC"
 						levels = 2
 						region = "STATE_XIAN"
@@ -2421,7 +2421,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:PRC"
 						levels = 2
 						region = "STATE_XIAN"
@@ -2442,7 +2442,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_XIAN"
@@ -2460,7 +2460,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_XIAN"
@@ -2478,7 +2478,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_XIAN"
@@ -2496,7 +2496,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_XIAN"
@@ -2517,7 +2517,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_QINGHAI"
@@ -2536,7 +2536,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_QINGHAI"
@@ -2554,7 +2554,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 16
 						region = "STATE_QINGHAI"
@@ -2575,7 +2575,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_CHONGQING"
@@ -2593,7 +2593,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_CHONGQING"
@@ -2611,7 +2611,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_CHONGQING"
@@ -2630,7 +2630,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_CHONGQING"
@@ -2645,7 +2645,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 9
 						region = "STATE_CHONGQING"
@@ -2663,7 +2663,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_CHONGQING"
@@ -2682,7 +2682,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_CHONGQING"
@@ -2699,7 +2699,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_CHONGQING"
@@ -2722,7 +2722,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_GUANGDONG"
@@ -2740,7 +2740,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_GUANGDONG"
@@ -2758,7 +2758,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_GUANGDONG"
@@ -2776,7 +2776,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_GUANGDONG"
@@ -2794,7 +2794,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_GUANGDONG"
@@ -2809,7 +2809,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 9
 						region = "STATE_GUANGDONG"
@@ -2826,7 +2826,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:ROC"
 						levels = 6
 						region = "STATE_GUANGDONG"
@@ -2845,7 +2845,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_GUANGDONG"
@@ -2862,7 +2862,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_GUANGDONG"
@@ -2883,7 +2883,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:MAO"
 						levels = 1
 						region = "STATE_GUANGDONG"
@@ -2902,7 +2902,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_FUJIAN"
@@ -2920,7 +2920,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_FUJIAN"
@@ -2938,7 +2938,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_FUJIAN"
@@ -2956,7 +2956,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_FUJIAN"
@@ -2971,7 +2971,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 21
 						region = "STATE_FUJIAN"
@@ -2988,7 +2988,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_FUJIAN"
@@ -3005,7 +3005,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_FUJIAN"
@@ -3028,7 +3028,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_ZHEJIANG"
@@ -3046,7 +3046,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_ZHEJIANG"
@@ -3061,7 +3061,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 6
 						region = "STATE_ZHEJIANG"
@@ -3079,7 +3079,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_ZHEJIANG"
@@ -3094,7 +3094,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 14
 						region = "STATE_ZHEJIANG"
@@ -3111,7 +3111,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:ROC"
 						levels = 16
 						region = "STATE_ZHEJIANG"
@@ -3130,7 +3130,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_ZHEJIANG"
@@ -3149,7 +3149,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_ZHEJIANG"
@@ -3170,7 +3170,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:PRC"
 						levels = 5
 						region = "STATE_JIANGSU"
@@ -3189,7 +3189,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:PRC"
 						levels = 5
 						region = "STATE_JIANGSU"
@@ -3208,7 +3208,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:PRC"
 						levels = 6
 						region = "STATE_JIANGSU"
@@ -3228,7 +3228,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:PRC"
 						levels = 8
 						region = "STATE_JIANGSU"
@@ -3247,7 +3247,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:PRC"
 						levels = 4
 						region = "STATE_JIANGSU"
@@ -3262,7 +3262,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:PRC"
 						levels = 5
 						region = "STATE_JIANGSU"
@@ -3279,7 +3279,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:PRC"
 						levels = 5
 						region = "STATE_JIANGSU"
@@ -3299,7 +3299,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:PRC"
 						levels = 2
 						region = "STATE_JIANGSU"
@@ -3317,7 +3317,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:PRC"
 						levels = 1
 						region = "STATE_JIANGSU"
@@ -3341,7 +3341,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:ROC"
 						levels = 10
 						region = "STATE_NANJING"
@@ -3359,7 +3359,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_NANJING"
@@ -3377,7 +3377,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_NANJING"
@@ -3392,7 +3392,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_NANJING"
@@ -3410,7 +3410,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_NANJING"
@@ -3431,7 +3431,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_HENAN"
@@ -3449,7 +3449,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_HENAN"
@@ -3467,7 +3467,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 16
 						region = "STATE_HENAN"
@@ -3484,7 +3484,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:ROC"
 						levels = 10
 						region = "STATE_HENAN"
@@ -3503,7 +3503,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_HENAN"
@@ -3520,7 +3520,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_HENAN"
@@ -3543,7 +3543,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_ZHILI"
@@ -3561,7 +3561,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_ZHILI"
@@ -3579,7 +3579,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:ROC"
 						levels = 10
 						region = "STATE_ZHILI"
@@ -3597,7 +3597,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_ZHILI"
@@ -3615,7 +3615,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:ROC"
 						levels = 10
 						region = "STATE_ZHILI"
@@ -3634,7 +3634,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_ZHILI"
@@ -3649,7 +3649,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 43
 						region = "STATE_ZHILI"
@@ -3666,7 +3666,7 @@
 				building = "building_phosphorus_mine"
 				add_ownership = {
 					building = {
-						type = "building_phosphorus_mine"
+						type = ""building_phosphorus_mine""
 						country = "c:ROC"
 						levels = 8
 						region = "STATE_ZHILI"
@@ -3688,7 +3688,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_JIANGXI"
@@ -3706,7 +3706,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_JIANGXI"
@@ -3724,7 +3724,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = "building_glassworks"
+						type = ""building_glassworks""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_JIANGXI"
@@ -3743,7 +3743,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 13
 						region = "STATE_JIANGXI"
@@ -3760,7 +3760,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_JIANGXI"
@@ -3781,7 +3781,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_SOUTHERN_ANHUI"
@@ -3799,7 +3799,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_SOUTHERN_ANHUI"
@@ -3817,7 +3817,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_SOUTHERN_ANHUI"
@@ -3835,7 +3835,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 10
 						region = "STATE_SOUTHERN_ANHUI"
@@ -3852,7 +3852,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_SOUTHERN_ANHUI"
@@ -3873,7 +3873,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_NORTHERN_ANHUI"
@@ -3891,7 +3891,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_NORTHERN_ANHUI"
@@ -3909,7 +3909,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_NORTHERN_ANHUI"
@@ -3927,7 +3927,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 7
 						region = "STATE_NORTHERN_ANHUI"
@@ -3944,7 +3944,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_NORTHERN_ANHUI"
@@ -3965,7 +3965,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:PRC"
 						levels = 2
 						region = "STATE_NORTHERN_ANHUI"
@@ -3982,7 +3982,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:PRC"
 						levels = 1
 						region = "STATE_NORTHERN_ANHUI"
@@ -4004,7 +4004,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_WESTERN_HUBEI"
@@ -4022,7 +4022,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_WESTERN_HUBEI"
@@ -4040,7 +4040,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 8
 						region = "STATE_WESTERN_HUBEI"
@@ -4061,7 +4061,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_EASTERN_HUBEI"
@@ -4079,7 +4079,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_EASTERN_HUBEI"
@@ -4097,7 +4097,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = "building_glassworks"
+						type = ""building_glassworks""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_EASTERN_HUBEI"
@@ -4116,7 +4116,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 22
 						region = "STATE_EASTERN_HUBEI"
@@ -4137,7 +4137,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:ROC"
 						levels = 10
 						region = "STATE_HUNAN"
@@ -4155,7 +4155,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = "building_glassworks"
+						type = ""building_glassworks""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_HUNAN"
@@ -4174,7 +4174,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 11
 						region = "STATE_HUNAN"
@@ -4191,7 +4191,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:ROC"
 						levels = 13
 						region = "STATE_HUNAN"
@@ -4210,7 +4210,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:ROC"
 						levels = 5
 						region = "STATE_HUNAN"
@@ -4233,7 +4233,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_FORMOSA"
@@ -4248,7 +4248,7 @@
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
-						type = "building_banana_plantation"
+						type = ""building_banana_plantation""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_FORMOSA"
@@ -4266,7 +4266,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:ROC"
 						levels = 10
 						region = "STATE_FORMOSA"
@@ -4284,7 +4284,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:ROC"
 						levels = 8
 						region = "STATE_FORMOSA"
@@ -4302,7 +4302,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_FORMOSA"
@@ -4324,7 +4324,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:PRC"
 						levels = 15
 						region = "STATE_SHANDONG"
@@ -4341,7 +4341,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:PRC"
 						levels = 10
 						region = "STATE_SHANDONG"
@@ -4360,7 +4360,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:PRC"
 						levels = 30
 						region = "STATE_SHANDONG"
@@ -4379,7 +4379,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:PRC"
 						levels = 12
 						region = "STATE_SHANDONG"
@@ -4398,7 +4398,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:PRC"
 						levels = 7
 						region = "STATE_SHANDONG"
@@ -4419,7 +4419,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:PRC"
 						levels = 6
 						region = "STATE_SHANDONG"
@@ -4438,7 +4438,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:PRC"
 						levels = 4
 						region = "STATE_SHANDONG"
@@ -4453,7 +4453,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = "building_explosives_industry"
+						type = ""building_explosives_industry""
 						country = "c:PRC"
 						levels = 4
 						region = "STATE_SHANDONG"
@@ -4474,7 +4474,7 @@
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
-						type = "building_wheat_farm"
+						type = ""building_wheat_farm""
 						country = "c:PRC"
 						levels = 2
 						region = "STATE_SHANDONG"
@@ -4492,7 +4492,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:PRC"
 						levels = 1
 						region = "STATE_SHANDONG"
@@ -4512,7 +4512,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:PRC"
 						levels = 1
 						region = "STATE_SHANDONG"
@@ -4532,7 +4532,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:PRC"
 						levels = 1
 						region = "STATE_SHANDONG"
@@ -4556,7 +4556,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:ROC"
 						levels = 8
 						region = "STATE_SUZHOU"
@@ -4574,7 +4574,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:ROC"
 						levels = 11
 						region = "STATE_SUZHOU"
@@ -4592,7 +4592,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:ROC"
 						levels = 3
 						region = "STATE_SUZHOU"
@@ -4610,7 +4610,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_SUZHOU"
@@ -4625,7 +4625,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:ROC"
 						levels = 11
 						region = "STATE_SUZHOU"
@@ -4642,7 +4642,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = "building_explosives_industry"
+						type = ""building_explosives_industry""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_SUZHOU"
@@ -4662,7 +4662,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:ROC"
 						levels = 10
 						region = "STATE_SUZHOU"
@@ -4681,7 +4681,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:ROC"
 						levels = 2
 						region = "STATE_SUZHOU"
@@ -4699,7 +4699,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:ROC"
 						levels = 4
 						region = "STATE_SUZHOU"
@@ -4718,7 +4718,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:ROC"
 						levels = 1
 						region = "STATE_SUZHOU"
@@ -4737,7 +4737,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:PRC"
 						levels = 2
 						region = "STATE_SUZHOU"
@@ -4754,7 +4754,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:PRC"
 						levels = 4
 						region = "STATE_SUZHOU"
@@ -4778,7 +4778,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:MGL"
 						levels = 3
 						region = "STATE_ULIASTAI"
@@ -4802,7 +4802,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:MGL"
 						levels = 3
 						region = "STATE_URGA"
@@ -4826,7 +4826,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:VNM"
 						levels = 4
 						region = "STATE_CAMBODIA"
@@ -4844,7 +4844,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:VNM"
 						levels = 1
 						region = "STATE_CAMBODIA"
@@ -4862,7 +4862,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:VNM"
 						levels = 1
 						region = "STATE_CAMBODIA"
@@ -4877,7 +4877,7 @@
 				building = "building_rubber_plantation"
 				add_ownership = {
 					building = {
-						type = "building_rubber_plantation"
+						type = ""building_rubber_plantation""
 						country = "c:VNM"
 						levels = 2
 						region = "STATE_CAMBODIA"
@@ -4895,7 +4895,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:VNM"
 						levels = 12
 						region = "STATE_CAMBODIA"
@@ -4912,7 +4912,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:VNM"
 						levels = 5
 						region = "STATE_CAMBODIA"
@@ -4934,7 +4934,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:THA"
 						levels = 4
 						region = "STATE_BANGKOK"
@@ -4949,7 +4949,7 @@
 				building = "building_rubber_plantation"
 				add_ownership = {
 					building = {
-						type = "building_rubber_plantation"
+						type = ""building_rubber_plantation""
 						country = "c:THA"
 						levels = 6
 						region = "STATE_BANGKOK"
@@ -4967,7 +4967,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = "building_opium_plantation"
+						type = ""building_opium_plantation""
 						country = "c:THA"
 						levels = 2
 						region = "STATE_BANGKOK"
@@ -4985,7 +4985,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:THA"
 						levels = 3
 						region = "STATE_BANGKOK"
@@ -5004,7 +5004,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:THA"
 						levels = 4
 						region = "STATE_BANGKOK"
@@ -5021,7 +5021,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:THA"
 						levels = 3
 						region = "STATE_BANGKOK"
@@ -5039,7 +5039,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:THA"
 						levels = 2
 						region = "STATE_BANGKOK"
@@ -5061,7 +5061,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:VNM"
 						levels = 3
 						region = "STATE_TONKIN"
@@ -5076,7 +5076,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = "building_opium_plantation"
+						type = ""building_opium_plantation""
 						country = "c:VNM"
 						levels = 15
 						region = "STATE_TONKIN"
@@ -5094,7 +5094,7 @@
 				building = "building_rubber_plantation"
 				add_ownership = {
 					building = {
-						type = "building_rubber_plantation"
+						type = ""building_rubber_plantation""
 						country = "c:VNM"
 						levels = 9
 						region = "STATE_TONKIN"
@@ -5112,7 +5112,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:VNM"
 						levels = 2
 						region = "STATE_TONKIN"
@@ -5129,7 +5129,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:VNM"
 						levels = 1
 						region = "STATE_TONKIN"
@@ -5151,7 +5151,7 @@
 				building = "building_rubber_plantation"
 				add_ownership = {
 					building = {
-						type = "building_rubber_plantation"
+						type = ""building_rubber_plantation""
 						country = "c:VNM"
 						levels = 3
 						region = "STATE_ANNAM"
@@ -5169,7 +5169,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:VNM"
 						levels = 1
 						region = "STATE_ANNAM"
@@ -5184,7 +5184,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:VNM"
 						levels = 1
 						region = "STATE_ANNAM"
@@ -5201,7 +5201,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:VNM"
 						levels = 2
 						region = "STATE_ANNAM"
@@ -5223,7 +5223,7 @@
 				building = "building_rubber_plantation"
 				add_ownership = {
 					building = {
-						type = "building_rubber_plantation"
+						type = ""building_rubber_plantation""
 						country = "c:VNM"
 						levels = 5
 						region = "STATE_MEKONG"
@@ -5241,7 +5241,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:VNM"
 						levels = 3
 						region = "STATE_MEKONG"
@@ -5256,7 +5256,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:VNM"
 						levels = 2
 						region = "STATE_MEKONG"
@@ -5273,7 +5273,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:VNM"
 						levels = 14
 						region = "STATE_MEKONG"
@@ -5291,7 +5291,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:VNM"
 						levels = 8
 						region = "STATE_MEKONG"
@@ -5313,7 +5313,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = "building_opium_plantation"
+						type = ""building_opium_plantation""
 						country = "c:VNM"
 						levels = 20
 						region = "STATE_LAOS"
@@ -5331,7 +5331,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:VNM"
 						levels = 1
 						region = "STATE_LAOS"
@@ -5349,7 +5349,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:VNM"
 						levels = 1
 						region = "STATE_LAOS"
@@ -5371,7 +5371,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = "building_opium_plantation"
+						type = ""building_opium_plantation""
 						country = "c:THA"
 						levels = 2
 						region = "STATE_CHIANG_MAI"
@@ -5389,7 +5389,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:THA"
 						levels = 3
 						region = "STATE_CHIANG_MAI"
@@ -5406,7 +5406,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:THA"
 						levels = 1
 						region = "STATE_CHIANG_MAI"
@@ -5429,7 +5429,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:THA"
 						levels = 3
 						region = "STATE_NAKHON_RATCHASIMA"
@@ -5444,7 +5444,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = "building_opium_plantation"
+						type = ""building_opium_plantation""
 						country = "c:THA"
 						levels = 9
 						region = "STATE_NAKHON_RATCHASIMA"
@@ -5462,7 +5462,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:THA"
 						levels = 4
 						region = "STATE_NAKHON_RATCHASIMA"
@@ -5479,7 +5479,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:THA"
 						levels = 5
 						region = "STATE_NAKHON_RATCHASIMA"
@@ -5502,7 +5502,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:MYM"
 						levels = 1
 						region = "STATE_TENASSERIM"
@@ -5519,7 +5519,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:MYM"
 						levels = 4
 						region = "STATE_TENASSERIM"
@@ -5534,7 +5534,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = "building_opium_plantation"
+						type = ""building_opium_plantation""
 						country = "c:MYM"
 						levels = 5
 						region = "STATE_TENASSERIM"
@@ -5552,7 +5552,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:MYM"
 						levels = 7
 						region = "STATE_TENASSERIM"
@@ -5569,7 +5569,7 @@
 				building = "building_rubber_plantation"
 				add_ownership = {
 					building = {
-						type = "building_rubber_plantation"
+						type = ""building_rubber_plantation""
 						country = "c:MYM"
 						levels = 7
 						region = "STATE_TENASSERIM"
@@ -5589,7 +5589,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:THA"
 						levels = 4
 						region = "STATE_TENASSERIM"
@@ -5604,7 +5604,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = "building_opium_plantation"
+						type = ""building_opium_plantation""
 						country = "c:THA"
 						levels = 7
 						region = "STATE_TENASSERIM"
@@ -5622,7 +5622,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:THA"
 						levels = 3
 						region = "STATE_TENASSERIM"
@@ -5639,7 +5639,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:THA"
 						levels = 1
 						region = "STATE_TENASSERIM"
@@ -5662,7 +5662,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:MYM"
 						levels = 2
 						region = "STATE_KACHIN"
@@ -5679,7 +5679,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = "building_opium_plantation"
+						type = ""building_opium_plantation""
 						country = "c:MYM"
 						levels = 4
 						region = "STATE_KACHIN"
@@ -5697,7 +5697,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:MYM"
 						levels = 1
 						region = "STATE_KACHIN"
@@ -5718,7 +5718,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:MYM"
 						levels = 1
 						region = "STATE_SHAN_STATES"
@@ -5735,7 +5735,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = "building_opium_plantation"
+						type = ""building_opium_plantation""
 						country = "c:MYM"
 						levels = 4
 						region = "STATE_SHAN_STATES"
@@ -5757,7 +5757,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:MYM"
 						levels = 7
 						region = "STATE_BURMA"
@@ -5774,7 +5774,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = "building_opium_plantation"
+						type = ""building_opium_plantation""
 						country = "c:MYM"
 						levels = 4
 						region = "STATE_BURMA"
@@ -5796,7 +5796,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:MYM"
 						levels = 3
 						region = "STATE_PEGU"
@@ -5813,7 +5813,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:MYM"
 						levels = 4
 						region = "STATE_PEGU"
@@ -5828,7 +5828,7 @@
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
-						type = "building_opium_plantation"
+						type = ""building_opium_plantation""
 						country = "c:MYM"
 						levels = 3
 						region = "STATE_PEGU"
@@ -5846,7 +5846,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:MYM"
 						levels = 13
 						region = "STATE_PEGU"
@@ -5863,7 +5863,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:MYM"
 						levels = 3
 						region = "STATE_PEGU"
@@ -5881,7 +5881,7 @@
 				building = "building_rubber_plantation"
 				add_ownership = {
 					building = {
-						type = "building_rubber_plantation"
+						type = ""building_rubber_plantation""
 						country = "c:MYM"
 						levels = 10
 						region = "STATE_PEGU"
@@ -5899,7 +5899,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:MYM"
 						levels = 8
 						region = "STATE_PEGU"
@@ -5921,7 +5921,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:RUS"
 						levels = 1
 						region = "STATE_SAKHALIN"
@@ -5944,7 +5944,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:RUS"
 						levels = 1
 						region = "STATE_SAKHALIN"
@@ -5962,7 +5962,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:RUS"
 						levels = 5
 						region = "STATE_SAKHALIN"
@@ -5985,7 +5985,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:JAP"
 						levels = 21
 						region = "STATE_HOKKAIDO"
@@ -6003,7 +6003,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:JAP"
 						levels = 11
 						region = "STATE_HOKKAIDO"
@@ -6021,7 +6021,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:JAP"
 						levels = 9
 						region = "STATE_HOKKAIDO"
@@ -6039,7 +6039,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:JAP"
 						levels = 11
 						region = "STATE_HOKKAIDO"
@@ -6056,7 +6056,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_HOKKAIDO"
@@ -6074,7 +6074,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_HOKKAIDO"
@@ -6091,7 +6091,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:JAP"
 						levels = 7
 						region = "STATE_HOKKAIDO"
@@ -6109,7 +6109,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_HOKKAIDO"
@@ -6126,7 +6126,7 @@
 				building = "building_phosphorus_mine"
 				add_ownership = {
 					building = {
-						type = "building_phosphorus_mine"
+						type = ""building_phosphorus_mine""
 						country = "c:JAP"
 						levels = 10
 						region = "STATE_HOKKAIDO"
@@ -6144,7 +6144,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:JAP"
 						levels = 12
 						region = "STATE_HOKKAIDO"
@@ -6166,7 +6166,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_HOKKAIDO"
@@ -6185,7 +6185,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:JAP"
 						levels = 9
 						region = "STATE_HOKKAIDO"
@@ -6204,7 +6204,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_HOKKAIDO"
@@ -6219,7 +6219,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = "building_motor_industry"
+						type = ""building_motor_industry""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_HOKKAIDO"
@@ -6239,7 +6239,7 @@
 				building = "building_gold_mine"
 				add_ownership = {
 					building = {
-						type = "building_gold_mine"
+						type = ""building_gold_mine""
 						country = "c:JAP"
 						levels = 8
 						region = "STATE_HOKKAIDO"
@@ -6257,7 +6257,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = "building_hospitals"
+						type = ""building_hospitals""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_HOKKAIDO"
@@ -6275,7 +6275,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_HOKKAIDO"
@@ -6294,7 +6294,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = "building_explosives_industry"
+						type = ""building_explosives_industry""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_HOKKAIDO"
@@ -6314,7 +6314,7 @@
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
-						type = "building_shipyards"
+						type = ""building_shipyards""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_HOKKAIDO"
@@ -6333,7 +6333,7 @@
 				building = "building_fuel_refineries"
 				add_ownership = {
 					building = {
-						type = "building_fuel_refineries"
+						type = ""building_fuel_refineries""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_HOKKAIDO"
@@ -6353,7 +6353,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_HOKKAIDO"
@@ -6372,7 +6372,7 @@
 				building = "building_lead_mine"
 				add_ownership = {
 					building = {
-						type = "building_lead_mine"
+						type = ""building_lead_mine""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_HOKKAIDO"
@@ -6392,7 +6392,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:RUS"
 						levels = 1
 						region = "STATE_HOKKAIDO"
@@ -6411,7 +6411,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:JAP"
 						levels = 37
 						region = "STATE_TOHOKU"
@@ -6428,7 +6428,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:JAP"
 						levels = 12
 						region = "STATE_TOHOKU"
@@ -6447,7 +6447,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:JAP"
 						levels = 13
 						region = "STATE_TOHOKU"
@@ -6465,7 +6465,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:JAP"
 						levels = 10
 						region = "STATE_TOHOKU"
@@ -6483,7 +6483,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_TOHOKU"
@@ -6498,7 +6498,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:JAP"
 						levels = 10
 						region = "STATE_TOHOKU"
@@ -6516,7 +6516,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_TOHOKU"
@@ -6533,7 +6533,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:JAP"
 						levels = 7
 						region = "STATE_TOHOKU"
@@ -6555,7 +6555,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_TOHOKU"
@@ -6570,7 +6570,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:JAP"
 						levels = 7
 						region = "STATE_TOHOKU"
@@ -6588,7 +6588,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:JAP"
 						levels = 6
 						region = "STATE_TOHOKU"
@@ -6606,7 +6606,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_TOHOKU"
@@ -6624,7 +6624,7 @@
 				building = "building_copper_mine"
 				add_ownership = {
 					building = {
-						type = "building_copper_mine"
+						type = ""building_copper_mine""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_TOHOKU"
@@ -6642,7 +6642,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:JAP"
 						levels = 8
 						region = "STATE_TOHOKU"
@@ -6660,7 +6660,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = "building_hospitals"
+						type = ""building_hospitals""
 						country = "c:JAP"
 						levels = 9
 						region = "STATE_TOHOKU"
@@ -6678,7 +6678,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = "building_university"
+						type = ""building_university""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_TOHOKU"
@@ -6695,7 +6695,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_TOHOKU"
@@ -6712,7 +6712,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = "building_motor_industry"
+						type = ""building_motor_industry""
 						country = "c:JAP"
 						levels = 11
 						region = "STATE_TOHOKU"
@@ -6732,7 +6732,7 @@
 				building = "building_automobile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_automobile_manufactories"
+						type = ""building_automobile_manufactories""
 						country = "c:JAP"
 						levels = 3
 						region = "STATE_TOHOKU"
@@ -6753,7 +6753,7 @@
 				building = "building_lead_mine"
 				add_ownership = {
 					building = {
-						type = "building_lead_mine"
+						type = ""building_lead_mine""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_TOHOKU"
@@ -6771,7 +6771,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:JAP"
 						levels = 3
 						region = "STATE_TOHOKU"
@@ -6789,7 +6789,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:JAP"
 						levels = 3
 						region = "STATE_TOHOKU"
@@ -6808,7 +6808,7 @@
 				building = "building_fuel_refineries"
 				add_ownership = {
 					building = {
-						type = "building_fuel_refineries"
+						type = ""building_fuel_refineries""
 						country = "c:JAP"
 						levels = 6
 						region = "STATE_TOHOKU"
@@ -6828,7 +6828,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_TOHOKU"
@@ -6848,7 +6848,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:JAP"
 						levels = 6
 						region = "STATE_TOHOKU"
@@ -6867,7 +6867,7 @@
 				building = "building_aluminum_refinery"
 				add_ownership = {
 					building = {
-						type = "building_aluminum_refinery"
+						type = ""building_aluminum_refinery""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_TOHOKU"
@@ -6886,7 +6886,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:JAP"
 						levels = 6
 						region = "STATE_TOHOKU"
@@ -6905,7 +6905,7 @@
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
-						type = "building_shipyards"
+						type = ""building_shipyards""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_TOHOKU"
@@ -6928,7 +6928,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:JAP"
 						levels = 15
 						region = "STATE_KANTO"
@@ -6945,7 +6945,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:JAP"
 						levels = 10
 						region = "STATE_KANTO"
@@ -6963,7 +6963,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:JAP"
 						levels = 10
 						region = "STATE_KANTO"
@@ -6981,7 +6981,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_KANTO"
@@ -6999,7 +6999,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_KANTO"
@@ -7014,7 +7014,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:JAP"
 						levels = 10
 						region = "STATE_KANTO"
@@ -7032,7 +7032,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:JAP"
 						levels = 14
 						region = "STATE_KANTO"
@@ -7051,7 +7051,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:JAP"
 						levels = 7
 						region = "STATE_KANTO"
@@ -7070,7 +7070,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = "building_motor_industry"
+						type = ""building_motor_industry""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_KANTO"
@@ -7090,7 +7090,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_KANTO"
@@ -7107,7 +7107,7 @@
 				building = "building_automobile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_automobile_manufactories"
+						type = ""building_automobile_manufactories""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_KANTO"
@@ -7128,7 +7128,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:JAP"
 						levels = 8
 						region = "STATE_KANTO"
@@ -7150,7 +7150,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = "building_glassworks"
+						type = ""building_glassworks""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_KANTO"
@@ -7169,7 +7169,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:JAP"
 						levels = 20
 						region = "STATE_KANTO"
@@ -7188,7 +7188,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:JAP"
 						levels = 13
 						region = "STATE_KANTO"
@@ -7207,7 +7207,7 @@
 				building = "building_airport"
 				add_ownership = {
 					building = {
-						type = "building_airport"
+						type = ""building_airport""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_KANTO"
@@ -7223,7 +7223,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_KANTO"
@@ -7238,7 +7238,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_KANTO"
@@ -7258,7 +7258,7 @@
 				building = "building_aircraft_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_aircraft_manufactories"
+						type = ""building_aircraft_manufactories""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_KANTO"
@@ -7279,7 +7279,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:JAP"
 						levels = 6
 						region = "STATE_KANTO"
@@ -7298,7 +7298,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = "building_hospitals"
+						type = ""building_hospitals""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_KANTO"
@@ -7316,7 +7316,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = "building_pharmaceutical_industry"
+						type = ""building_pharmaceutical_industry""
 						country = "c:JAP"
 						levels = 10
 						region = "STATE_KANTO"
@@ -7336,7 +7336,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:JAP"
 						levels = 6
 						region = "STATE_KANTO"
@@ -7355,7 +7355,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_KANTO"
@@ -7373,7 +7373,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = "building_university"
+						type = ""building_university""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_KANTO"
@@ -7390,7 +7390,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:JAP"
 						levels = 35
 						region = "STATE_KANTO"
@@ -7407,7 +7407,7 @@
 				building = "building_aluminum_refinery"
 				add_ownership = {
 					building = {
-						type = "building_aluminum_refinery"
+						type = ""building_aluminum_refinery""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_KANTO"
@@ -7426,7 +7426,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_KANTO"
@@ -7444,7 +7444,7 @@
 				building = "building_electronics_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_electronics_manufactories"
+						type = ""building_electronics_manufactories""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_KANTO"
@@ -7464,7 +7464,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = "building_explosives_industry"
+						type = ""building_explosives_industry""
 						country = "c:JAP"
 						levels = 12
 						region = "STATE_KANTO"
@@ -7484,7 +7484,7 @@
 				building = "building_media_industry"
 				add_ownership = {
 					building = {
-						type = "building_media_industry"
+						type = ""building_media_industry""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_KANTO"
@@ -7502,7 +7502,7 @@
 				building = "building_financial_services"
 				add_ownership = {
 					building = {
-						type = "building_financial_services"
+						type = ""building_financial_services""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_KANTO"
@@ -7525,7 +7525,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:JAP"
 						levels = 11
 						region = "STATE_CHUBU"
@@ -7542,7 +7542,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:JAP"
 						levels = 9
 						region = "STATE_CHUBU"
@@ -7561,7 +7561,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:JAP"
 						levels = 10
 						region = "STATE_CHUBU"
@@ -7579,7 +7579,7 @@
 				building = "building_oil_rig"
 				add_ownership = {
 					building = {
-						type = "building_oil_rig"
+						type = ""building_oil_rig""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_CHUBU"
@@ -7596,7 +7596,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:JAP"
 						levels = 7
 						region = "STATE_CHUBU"
@@ -7614,7 +7614,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_CHUBU"
@@ -7629,7 +7629,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:JAP"
 						levels = 13
 						region = "STATE_CHUBU"
@@ -7647,7 +7647,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:JAP"
 						levels = 11
 						region = "STATE_CHUBU"
@@ -7666,7 +7666,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = "building_motor_industry"
+						type = ""building_motor_industry""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_CHUBU"
@@ -7686,7 +7686,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_CHUBU"
@@ -7703,7 +7703,7 @@
 				building = "building_fuel_refineries"
 				add_ownership = {
 					building = {
-						type = "building_fuel_refineries"
+						type = ""building_fuel_refineries""
 						country = "c:JAP"
 						levels = 7
 						region = "STATE_CHUBU"
@@ -7723,7 +7723,7 @@
 				building = "building_automobile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_automobile_manufactories"
+						type = ""building_automobile_manufactories""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_CHUBU"
@@ -7744,7 +7744,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:JAP"
 						levels = 7
 						region = "STATE_CHUBU"
@@ -7766,7 +7766,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:JAP"
 						levels = 11
 						region = "STATE_CHUBU"
@@ -7785,7 +7785,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_CHUBU"
@@ -7800,7 +7800,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_CHUBU"
@@ -7820,7 +7820,7 @@
 				building = "building_aircraft_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_aircraft_manufactories"
+						type = ""building_aircraft_manufactories""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_CHUBU"
@@ -7841,7 +7841,7 @@
 				building = "building_aluminum_refinery"
 				add_ownership = {
 					building = {
-						type = "building_aluminum_refinery"
+						type = ""building_aluminum_refinery""
 						country = "c:JAP"
 						levels = 3
 						region = "STATE_CHUBU"
@@ -7860,7 +7860,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:JAP"
 						levels = 3
 						region = "STATE_CHUBU"
@@ -7879,7 +7879,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = "building_glassworks"
+						type = ""building_glassworks""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_CHUBU"
@@ -7898,7 +7898,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = "building_hospitals"
+						type = ""building_hospitals""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_CHUBU"
@@ -7916,7 +7916,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_CHUBU"
@@ -7934,7 +7934,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = "building_university"
+						type = ""building_university""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_CHUBU"
@@ -7951,7 +7951,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:JAP"
 						levels = 20
 						region = "STATE_CHUBU"
@@ -7968,7 +7968,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:JAP"
 						levels = 11
 						region = "STATE_CHUBU"
@@ -7991,7 +7991,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:JAP"
 						levels = 21
 						region = "STATE_KANSAI"
@@ -8008,7 +8008,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:JAP"
 						levels = 10
 						region = "STATE_KANSAI"
@@ -8026,7 +8026,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:JAP"
 						levels = 9
 						region = "STATE_KANSAI"
@@ -8044,7 +8044,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_KANSAI"
@@ -8059,7 +8059,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:JAP"
 						levels = 16
 						region = "STATE_KANSAI"
@@ -8077,7 +8077,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:JAP"
 						levels = 13
 						region = "STATE_KANSAI"
@@ -8096,7 +8096,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:JAP"
 						levels = 10
 						region = "STATE_KANSAI"
@@ -8115,7 +8115,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:JAP"
 						levels = 3
 						region = "STATE_KANSAI"
@@ -8132,7 +8132,7 @@
 				building = "building_motor_industry"
 				add_ownership = {
 					building = {
-						type = "building_motor_industry"
+						type = ""building_motor_industry""
 						country = "c:JAP"
 						levels = 11
 						region = "STATE_KANSAI"
@@ -8152,7 +8152,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:JAP"
 						levels = 9
 						region = "STATE_KANSAI"
@@ -8174,7 +8174,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = "building_glassworks"
+						type = ""building_glassworks""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_KANSAI"
@@ -8193,7 +8193,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:JAP"
 						levels = 13
 						region = "STATE_KANSAI"
@@ -8212,7 +8212,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:JAP"
 						levels = 13
 						region = "STATE_KANSAI"
@@ -8231,7 +8231,7 @@
 				building = "building_airport"
 				add_ownership = {
 					building = {
-						type = "building_airport"
+						type = ""building_airport""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_KANSAI"
@@ -8247,7 +8247,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_KANSAI"
@@ -8262,7 +8262,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:JAP"
 						levels = 6
 						region = "STATE_KANSAI"
@@ -8281,7 +8281,7 @@
 				building = "building_furniture_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_furniture_manufactories"
+						type = ""building_furniture_manufactories""
 						country = "c:JAP"
 						levels = 7
 						region = "STATE_KANSAI"
@@ -8301,7 +8301,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = "building_hospitals"
+						type = ""building_hospitals""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_KANSAI"
@@ -8319,7 +8319,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:JAP"
 						levels = 9
 						region = "STATE_KANSAI"
@@ -8337,7 +8337,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:JAP"
 						levels = 15
 						region = "STATE_KANSAI"
@@ -8355,7 +8355,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:JAP"
 						levels = 10
 						region = "STATE_KANSAI"
@@ -8373,7 +8373,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:JAP"
 						levels = 7
 						region = "STATE_KANSAI"
@@ -8392,7 +8392,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_KANSAI"
@@ -8410,7 +8410,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = "building_university"
+						type = ""building_university""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_KANSAI"
@@ -8427,7 +8427,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:JAP"
 						levels = 30
 						region = "STATE_KANSAI"
@@ -8444,7 +8444,7 @@
 				building = "building_automobile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_automobile_manufactories"
+						type = ""building_automobile_manufactories""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_KANSAI"
@@ -8465,7 +8465,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = "building_pharmaceutical_industry"
+						type = ""building_pharmaceutical_industry""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_KANSAI"
@@ -8485,7 +8485,7 @@
 				building = "building_explosives_industry"
 				add_ownership = {
 					building = {
-						type = "building_explosives_industry"
+						type = ""building_explosives_industry""
 						country = "c:JAP"
 						levels = 10
 						region = "STATE_KANSAI"
@@ -8505,7 +8505,7 @@
 				building = "building_media_industry"
 				add_ownership = {
 					building = {
-						type = "building_media_industry"
+						type = ""building_media_industry""
 						country = "c:JAP"
 						levels = 3
 						region = "STATE_KANSAI"
@@ -8523,7 +8523,7 @@
 				building = "building_financial_services"
 				add_ownership = {
 					building = {
-						type = "building_financial_services"
+						type = ""building_financial_services""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_KANSAI"
@@ -8546,7 +8546,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_KYUSHU"
@@ -8563,7 +8563,7 @@
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
-						type = "building_coal_mine"
+						type = ""building_coal_mine""
 						country = "c:JAP"
 						levels = 9
 						region = "STATE_KYUSHU"
@@ -8581,7 +8581,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_KYUSHU"
@@ -8596,7 +8596,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:JAP"
 						levels = 11
 						region = "STATE_KYUSHU"
@@ -8614,7 +8614,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:JAP"
 						levels = 7
 						region = "STATE_KYUSHU"
@@ -8633,7 +8633,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:JAP"
 						levels = 8
 						region = "STATE_KYUSHU"
@@ -8652,7 +8652,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_KYUSHU"
@@ -8669,7 +8669,7 @@
 				building = "building_phosphorus_mine"
 				add_ownership = {
 					building = {
-						type = "building_phosphorus_mine"
+						type = ""building_phosphorus_mine""
 						country = "c:JAP"
 						levels = 10
 						region = "STATE_KYUSHU"
@@ -8687,7 +8687,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:JAP"
 						levels = 3
 						region = "STATE_KYUSHU"
@@ -8709,7 +8709,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_KYUSHU"
@@ -8728,7 +8728,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_KYUSHU"
@@ -8743,7 +8743,7 @@
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
-						type = "building_shipyards"
+						type = ""building_shipyards""
 						country = "c:JAP"
 						levels = 3
 						region = "STATE_KYUSHU"
@@ -8762,7 +8762,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = "building_hospitals"
+						type = ""building_hospitals""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_KYUSHU"
@@ -8780,7 +8780,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_KYUSHU"
@@ -8798,7 +8798,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:JAP"
 						levels = 3
 						region = "STATE_KYUSHU"
@@ -8816,7 +8816,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:JAP"
 						levels = 12
 						region = "STATE_KYUSHU"
@@ -8834,7 +8834,7 @@
 				building = "building_university"
 				add_ownership = {
 					building = {
-						type = "building_university"
+						type = ""building_university""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_KYUSHU"
@@ -8851,7 +8851,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:JAP"
 						levels = 8
 						region = "STATE_KYUSHU"
@@ -8868,7 +8868,7 @@
 				building = "building_textile_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_textile_manufactories"
+						type = ""building_textile_manufactories""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_KYUSHU"
@@ -8887,7 +8887,7 @@
 				building = "building_fuel_refineries"
 				add_ownership = {
 					building = {
-						type = "building_fuel_refineries"
+						type = ""building_fuel_refineries""
 						country = "c:JAP"
 						levels = 7
 						region = "STATE_KYUSHU"
@@ -8907,7 +8907,7 @@
 				building = "building_pharmaceutical_industry"
 				add_ownership = {
 					building = {
-						type = "building_pharmaceutical_industry"
+						type = ""building_pharmaceutical_industry""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_KYUSHU"
@@ -8927,7 +8927,7 @@
 				building = "building_copper_mine"
 				add_ownership = {
 					building = {
-						type = "building_copper_mine"
+						type = ""building_copper_mine""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_KYUSHU"
@@ -8945,7 +8945,7 @@
 				building = "building_drydocks"
 				add_ownership = {
 					building = {
-						type = "building_drydocks"
+						type = ""building_drydocks""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_KYUSHU"
@@ -8969,7 +8969,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:USA"
 						levels = 2
 						region = "STATE_RYUKYU_ISLANDS"
@@ -8984,7 +8984,7 @@
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tea_plantation"
+						type = ""building_tea_plantation""
 						country = "c:USA"
 						levels = 1
 						region = "STATE_RYUKYU_ISLANDS"
@@ -9002,7 +9002,7 @@
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
-						type = "building_livestock_ranch"
+						type = ""building_livestock_ranch""
 						country = "c:USA"
 						levels = 2
 						region = "STATE_RYUKYU_ISLANDS"
@@ -9021,7 +9021,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:USA"
 						levels = 9
 						region = "STATE_RYUKYU_ISLANDS"
@@ -9039,7 +9039,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:USA"
 						levels = 4
 						region = "STATE_RYUKYU_ISLANDS"
@@ -9057,7 +9057,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:USA"
 						levels = 5
 						region = "STATE_RYUKYU_ISLANDS"
@@ -9079,7 +9079,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:JAP"
 						levels = 3
 						region = "STATE_CHUGOKU"
@@ -9096,7 +9096,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:JAP"
 						levels = 8
 						region = "STATE_CHUGOKU"
@@ -9114,7 +9114,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_CHUGOKU"
@@ -9129,7 +9129,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_CHUGOKU"
@@ -9147,7 +9147,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_CHUGOKU"
@@ -9164,7 +9164,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_CHUGOKU"
@@ -9186,7 +9186,7 @@
 				building = "building_chemical_plants"
 				add_ownership = {
 					building = {
-						type = "building_chemical_plants"
+						type = ""building_chemical_plants""
 						country = "c:JAP"
 						levels = 3
 						region = "STATE_CHUGOKU"
@@ -9205,7 +9205,7 @@
 				building = "building_tool_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_tool_manufactories"
+						type = ""building_tool_manufactories""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_CHUGOKU"
@@ -9224,7 +9224,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = "building_glassworks"
+						type = ""building_glassworks""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_CHUGOKU"
@@ -9243,7 +9243,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_CHUGOKU"
@@ -9258,7 +9258,7 @@
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
-						type = "building_shipyards"
+						type = ""building_shipyards""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_CHUGOKU"
@@ -9277,7 +9277,7 @@
 				building = "building_steelworks"
 				add_ownership = {
 					building = {
-						type = "building_steelworks"
+						type = ""building_steelworks""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_CHUGOKU"
@@ -9296,7 +9296,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = "building_hospitals"
+						type = ""building_hospitals""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_CHUGOKU"
@@ -9314,7 +9314,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_CHUGOKU"
@@ -9332,7 +9332,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_CHUGOKU"
@@ -9350,7 +9350,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_CHUGOKU"
@@ -9368,7 +9368,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_CHUGOKU"
@@ -9389,7 +9389,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_SHIKOKU"
@@ -9406,7 +9406,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:JAP"
 						levels = 6
 						region = "STATE_SHIKOKU"
@@ -9424,7 +9424,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_SHIKOKU"
@@ -9439,7 +9439,7 @@
 				building = "building_railway"
 				add_ownership = {
 					building = {
-						type = "building_railway"
+						type = ""building_railway""
 						country = "c:JAP"
 						levels = 3
 						region = "STATE_SHIKOKU"
@@ -9457,7 +9457,7 @@
 				building = "building_combustion_plant"
 				add_ownership = {
 					building = {
-						type = "building_combustion_plant"
+						type = ""building_combustion_plant""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_SHIKOKU"
@@ -9474,7 +9474,7 @@
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
-						type = "building_food_industry"
+						type = ""building_food_industry""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_SHIKOKU"
@@ -9496,7 +9496,7 @@
 				building = "building_glassworks"
 				add_ownership = {
 					building = {
-						type = "building_glassworks"
+						type = ""building_glassworks""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_SHIKOKU"
@@ -9515,7 +9515,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:JAP"
 						levels = 6
 						region = "STATE_SHIKOKU"
@@ -9530,7 +9530,7 @@
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
-						type = "building_shipyards"
+						type = ""building_shipyards""
 						country = "c:JAP"
 						levels = 3
 						region = "STATE_SHIKOKU"
@@ -9549,7 +9549,7 @@
 				building = "building_iron_mine"
 				add_ownership = {
 					building = {
-						type = "building_iron_mine"
+						type = ""building_iron_mine""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_SHIKOKU"
@@ -9567,7 +9567,7 @@
 				building = "building_phosphorus_mine"
 				add_ownership = {
 					building = {
-						type = "building_phosphorus_mine"
+						type = ""building_phosphorus_mine""
 						country = "c:JAP"
 						levels = 4
 						region = "STATE_SHIKOKU"
@@ -9585,7 +9585,7 @@
 				building = "building_hospitals"
 				add_ownership = {
 					building = {
-						type = "building_hospitals"
+						type = ""building_hospitals""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_SHIKOKU"
@@ -9603,7 +9603,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:JAP"
 						levels = 6
 						region = "STATE_SHIKOKU"
@@ -9621,7 +9621,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_SHIKOKU"
@@ -9639,7 +9639,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:JAP"
 						levels = 5
 						region = "STATE_SHIKOKU"
@@ -9656,7 +9656,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:JAP"
 						levels = 1
 						region = "STATE_SHIKOKU"
@@ -9674,7 +9674,7 @@
 				building = "building_drydocks"
 				add_ownership = {
 					building = {
-						type = "building_drydocks"
+						type = ""building_drydocks""
 						country = "c:JAP"
 						levels = 2
 						region = "STATE_SHIKOKU"
@@ -9698,7 +9698,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:STK"
 						levels = 10
 						region = "STATE_SEOUL"
@@ -9716,7 +9716,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:STK"
 						levels = 5
 						region = "STATE_SEOUL"
@@ -9734,7 +9734,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:STK"
 						levels = 1
 						region = "STATE_SEOUL"
@@ -9752,7 +9752,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:STK"
 						levels = 3
 						region = "STATE_SEOUL"
@@ -9770,7 +9770,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:STK"
 						levels = 3
 						region = "STATE_SEOUL"
@@ -9785,7 +9785,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:STK"
 						levels = 1
 						region = "STATE_SEOUL"
@@ -9800,7 +9800,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:STK"
 						levels = 4
 						region = "STATE_SEOUL"
@@ -9819,7 +9819,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:NRK"
 						levels = 1
 						region = "STATE_SEOUL"
@@ -9838,7 +9838,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:NRK"
 						levels = 2
 						region = "STATE_SEOUL"
@@ -9856,7 +9856,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:NRK"
 						levels = 1
 						region = "STATE_SEOUL"
@@ -9871,7 +9871,7 @@
 				building = "building_construction_sector"
 				add_ownership = {
 					building = {
-						type = "building_construction_sector"
+						type = ""building_construction_sector""
 						country = "c:NRK"
 						levels = 1
 						region = "STATE_SEOUL"
@@ -9886,7 +9886,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:NRK"
 						levels = 1
 						region = "STATE_SEOUL"
@@ -9907,7 +9907,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:STK"
 						levels = 6
 						region = "STATE_BUSAN"
@@ -9924,7 +9924,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:STK"
 						levels = 3
 						region = "STATE_BUSAN"
@@ -9943,7 +9943,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:STK"
 						levels = 8
 						region = "STATE_BUSAN"
@@ -9961,7 +9961,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:STK"
 						levels = 10
 						region = "STATE_BUSAN"
@@ -9979,7 +9979,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:STK"
 						levels = 1
 						region = "STATE_BUSAN"
@@ -9997,7 +9997,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:STK"
 						levels = 5
 						region = "STATE_BUSAN"
@@ -10015,7 +10015,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:STK"
 						levels = 4
 						region = "STATE_BUSAN"
@@ -10034,7 +10034,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:STK"
 						levels = 10
 						region = "STATE_YANGHO"
@@ -10052,7 +10052,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:STK"
 						levels = 1
 						region = "STATE_YANGHO"
@@ -10070,7 +10070,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:STK"
 						levels = 5
 						region = "STATE_YANGHO"
@@ -10088,7 +10088,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:STK"
 						levels = 4
 						region = "STATE_YANGHO"
@@ -10107,7 +10107,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:NRK"
 						levels = 5
 						region = "STATE_SARIWON"
@@ -10126,7 +10126,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:NRK"
 						levels = 2
 						region = "STATE_SARIWON"
@@ -10145,7 +10145,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:NRK"
 						levels = 6
 						region = "STATE_SARIWON"
@@ -10164,7 +10164,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:NRK"
 						levels = 5
 						region = "STATE_SARIWON"
@@ -10183,7 +10183,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:NRK"
 						levels = 2
 						region = "STATE_SARIWON"
@@ -10202,7 +10202,7 @@
 				building = "building_paper_manufactories"
 				add_ownership = {
 					building = {
-						type = "building_paper_manufactories"
+						type = ""building_paper_manufactories""
 						country = "c:NRK"
 						levels = 3
 						region = "STATE_PYONGYANG"
@@ -10222,7 +10222,7 @@
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
-						type = "building_cotton_plantation"
+						type = ""building_cotton_plantation""
 						country = "c:NRK"
 						levels = 8
 						region = "STATE_PYONGYANG"
@@ -10241,7 +10241,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:NRK"
 						levels = 5
 						region = "STATE_PYONGYANG"
@@ -10260,7 +10260,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:NRK"
 						levels = 6
 						region = "STATE_PYONGYANG"
@@ -10279,7 +10279,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:NRK"
 						levels = 1
 						region = "STATE_PYONGYANG"
@@ -10294,7 +10294,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:NRK"
 						levels = 8
 						region = "STATE_PYONGYANG"
@@ -10311,7 +10311,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:NRK"
 						levels = 5
 						region = "STATE_PYONGYANG"
@@ -10329,7 +10329,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:NRK"
 						levels = 1
 						region = "STATE_PYONGYANG"
@@ -10348,7 +10348,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:NRK"
 						levels = 3
 						region = "STATE_PYONGYANG"
@@ -10369,7 +10369,7 @@
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
-						type = "building_silk_plantation"
+						type = ""building_silk_plantation""
 						country = "c:STK"
 						levels = 3
 						region = "STATE_PYONGYANG"
@@ -10387,7 +10387,7 @@
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
-						type = "building_logging_camp"
+						type = ""building_logging_camp""
 						country = "c:STK"
 						levels = 2
 						region = "STATE_PYONGYANG"
@@ -10405,7 +10405,7 @@
 				building = "building_port"
 				add_ownership = {
 					building = {
-						type = "building_port"
+						type = ""building_port""
 						country = "c:STK"
 						levels = 3
 						region = "STATE_PYONGYANG"
@@ -10420,7 +10420,7 @@
 				building = "building_government_administration"
 				add_ownership = {
 					building = {
-						type = "building_government_administration"
+						type = ""building_government_administration""
 						country = "c:STK"
 						levels = 2
 						region = "STATE_PYONGYANG"
@@ -10437,7 +10437,7 @@
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
-						type = "building_rice_farm"
+						type = ""building_rice_farm""
 						country = "c:STK"
 						levels = 1
 						region = "STATE_PYONGYANG"
@@ -10454,7 +10454,7 @@
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
-						type = "building_tobacco_plantation"
+						type = ""building_tobacco_plantation""
 						country = "c:STK"
 						levels = 1
 						region = "STATE_PYONGYANG"
@@ -10472,7 +10472,7 @@
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
-						type = "building_fishing_wharf"
+						type = ""building_fishing_wharf""
 						country = "c:STK"
 						levels = 1
 						region = "STATE_PYONGYANG"
