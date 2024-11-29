@@ -3,14 +3,7 @@
 		region_state:EGY = {
 			create_building = {
 				building = "building_textile_manufactories"
-				add_ownership = {
-					building = {
-						type = ""building_textile_manufactories""
-						country = "c:EGY"
-						levels = 6
-						region = "STATE_LOWER_EGYPT"
-					}
-				}
+				level = 6
 				reserves = 1
 				activate_production_methods = {
 					"pm_fiber_production_textiles"
@@ -22,14 +15,7 @@
 			}
 			create_building = {
 				building = "building_cotton_plantation"
-				add_ownership = {
-					building = {
-						type = ""building_cotton_plantation""
-						country = "c:EGY"
-						levels = 15
-						region = "STATE_LOWER_EGYPT"
-					}
-				}
+				level = 15
 				reserves = 1
 				activate_production_methods = {
 					"pm_default_building_cotton_plantation"
@@ -40,14 +26,7 @@
 			}
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:EGY"
-						levels = 3
-						region = "STATE_LOWER_EGYPT"
-					}
-				}
+				level = 3
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -55,14 +34,7 @@
 			}
 			create_building = {
 				building = "building_shipyards"
-				add_ownership = {
-					building = {
-						type = ""building_shipyards""
-						country = "c:EGY"
-						levels = 1
-						region = "STATE_LOWER_EGYPT"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_cargo_ships"
@@ -74,14 +46,7 @@
 			}
 			create_building = {
 				building = "building_steelworks"
-				add_ownership = {
-					building = {
-						type = ""building_steelworks""
-						country = "c:EGY"
-						levels = 1
-						region = "STATE_LOWER_EGYPT"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_early_steelmaking"
@@ -93,14 +58,7 @@
 			}
 			create_building = {
 				building = "building_tool_manufactories"
-				add_ownership = {
-					building = {
-						type = ""building_tool_manufactories""
-						country = "c:EGY"
-						levels = 3
-						region = "STATE_LOWER_EGYPT"
-					}
-				}
+				level = 3
 				reserves = 1
 				activate_production_methods = {
 					"pm_rudimentary_tools"
@@ -112,14 +70,7 @@
 			}
 			create_building = {
 				building = "building_government_administration"
-				add_ownership = {
-					building = {
-						type = ""building_government_administration""
-						country = "c:EGY"
-						levels = 6
-						region = "STATE_LOWER_EGYPT"
-					}
-				}
+				level = 6
 				reserves = 1
 				activate_production_methods = {
 					"pm_professional_bureaucrats"
@@ -129,14 +80,7 @@
 			}
 			create_building = {
 				building = "building_paper_manufactories"
-				add_ownership = {
-					building = {
-						type = ""building_paper_manufactories""
-						country = "c:EGY"
-						levels = 2
-						region = "STATE_LOWER_EGYPT"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_base_paper"
@@ -148,14 +92,7 @@
 			}
 			create_building = {
 				building = "building_wheat_farm"
-				add_ownership = {
-					building = {
-						type = ""building_wheat_farm""
-						country = "c:EGY"
-						levels = 10
-						region = "STATE_LOWER_EGYPT"
-					}
-				}
+				level = 10
 				reserves = 1
 				activate_production_methods = {
 					"pm_simple_farming"
@@ -163,16 +100,10 @@
 					"pm_privately_owned_farm"
 				}
 			}
+			
 			create_building = {
 				building = "building_construction_sector"
-				add_ownership = {
-					building = {
-						type = ""building_construction_sector""
-						country = "c:EGY"
-						levels = 1
-						region = "STATE_LOWER_EGYPT"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_pre_war_buildings"
@@ -184,14 +115,7 @@
 		region_state:EGY = {
 			create_building = {
 				building = "building_logging_camp"
-				add_ownership = {
-					building = {
-						type = ""building_logging_camp""
-						country = "c:EGY"
-						levels = 2
-						region = "STATE_UPPER_EGYPT"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_simple_forestry"
@@ -202,14 +126,7 @@
 			}
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:EGY"
-						levels = 1
-						region = "STATE_UPPER_EGYPT"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -221,14 +138,7 @@
 		region_state:EGY = {
 			create_building = {
 				building = "building_wheat_farm"
-				add_ownership = {
-					building = {
-						type = ""building_wheat_farm""
-						country = "c:EGY"
-						levels = 2
-						region = "STATE_MIDDLE_EGYPT"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_simple_farming"
@@ -236,16 +146,10 @@
 					"pm_privately_owned_farm"
 				}
 			}
+			
 			create_building = {
 				building = "building_logging_camp"
-				add_ownership = {
-					building = {
-						type = ""building_logging_camp""
-						country = "c:EGY"
-						levels = 2
-						region = "STATE_MIDDLE_EGYPT"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_simple_forestry"
@@ -256,14 +160,7 @@
 			}
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:EGY"
-						levels = 2
-						region = "STATE_MIDDLE_EGYPT"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -275,14 +172,7 @@
 		region_state:EGY = {
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:EGY"
-						levels = 2
-						region = "STATE_MATRUH"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -290,14 +180,7 @@
 			}
 			create_building = {
 				building = "building_government_administration"
-				add_ownership = {
-					building = {
-						type = ""building_government_administration""
-						country = "c:EGY"
-						levels = 1
-						region = "STATE_MATRUH"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_modern_bureaucracy"
@@ -311,14 +194,7 @@
 		region_state:EGY = {
 			create_building = {
 				building = "building_iron_mine"
-				add_ownership = {
-					building = {
-						type = ""building_iron_mine""
-						country = "c:EGY"
-						levels = 1
-						region = "STATE_SINAI"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_manual_resource_extraction_iron"
@@ -329,14 +205,7 @@
 			}
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:EGY"
-						levels = 4
-						region = "STATE_SINAI"
-					}
-				}
+				level = 4
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -346,14 +215,7 @@
 		region_state:GBR = {
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:GBR"
-						levels = 1
-						region = "STATE_SINAI"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_basic_port"
@@ -365,14 +227,7 @@
 		region_state:ERI = {
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:ERI"
-						levels = 2
-						region = "STATE_ERITREA"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -382,14 +237,7 @@
 		region_state:DJI = {
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:DJI"
-						levels = 1
-						region = "STATE_ERITREA"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -401,14 +249,7 @@
 		region_state:SDN = {
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:SDN"
-						levels = 1
-						region = "STATE_DONGOLA"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -417,23 +258,18 @@
 		}
 	}
 	s:STATE_KORDOFAN = {
-		region_state:SDN
+		region_state:SDN = {
+		}
 	}
 	s:STATE_DARFUR = {
-		region_state:SDN
+		region_state:SDN = {
+		}
 	}
 	s:STATE_BLUE_NILE = {
 		region_state:SDN = {
 			create_building = {
 				building = "building_millet_farm"
-				add_ownership = {
-					building = {
-						type = ""building_millet_farm""
-						country = "c:SDN"
-						levels = 4
-						region = "STATE_BLUE_NILE"
-					}
-				}
+				level = 4
 				reserves = 1
 				activate_production_methods = {
 					"pm_simple_farming"
@@ -443,14 +279,7 @@
 			}
 			create_building = {
 				building = "building_livestock_ranch"
-				add_ownership = {
-					building = {
-						type = ""building_livestock_ranch""
-						country = "c:SDN"
-						levels = 2
-						region = "STATE_BLUE_NILE"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_butchering_tools"
@@ -462,14 +291,7 @@
 			}
 			create_building = {
 				building = "building_logging_camp"
-				add_ownership = {
-					building = {
-						type = ""building_logging_camp""
-						country = "c:SDN"
-						levels = 2
-						region = "STATE_BLUE_NILE"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_simple_forestry"
@@ -480,14 +302,7 @@
 			}
 			create_building = {
 				building = "building_food_industry"
-				add_ownership = {
-					building = {
-						type = ""building_food_industry""
-						country = "c:SDN"
-						levels = 1
-						region = "STATE_BLUE_NILE"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_improved_food_manufactories"
@@ -502,14 +317,7 @@
 			}
 			create_building = {
 				building = "building_tool_manufactories"
-				add_ownership = {
-					building = {
-						type = ""building_tool_manufactories""
-						country = "c:SDN"
-						levels = 1
-						region = "STATE_BLUE_NILE"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_rudimentary_tools"
@@ -521,14 +329,7 @@
 			}
 			create_building = {
 				building = "building_airport"
-				add_ownership = {
-					building = {
-						type = ""building_airport""
-						country = "c:SDN"
-						levels = 1
-						region = "STATE_BLUE_NILE"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_privately_owned_airport"
@@ -537,14 +338,7 @@
 			}
 			create_building = {
 				building = "building_government_administration"
-				add_ownership = {
-					building = {
-						type = ""building_government_administration""
-						country = "c:SDN"
-						levels = 8
-						region = "STATE_BLUE_NILE"
-					}
-				}
+				level = 8
 				reserves = 1
 				activate_production_methods = {
 					"pm_professional_bureaucrats"
@@ -554,14 +348,7 @@
 			}
 			create_building = {
 				building = "building_paper_manufactories"
-				add_ownership = {
-					building = {
-						type = ""building_paper_manufactories""
-						country = "c:SDN"
-						levels = 1
-						region = "STATE_BLUE_NILE"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_base_paper"
@@ -573,14 +360,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				add_ownership = {
-					building = {
-						type = ""building_railway""
-						country = "c:SDN"
-						levels = 1
-						region = "STATE_BLUE_NILE"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -595,14 +375,7 @@
 		region_state:MOR = {
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:MOR"
-						levels = 2
-						region = "STATE_MARRAKECH"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -610,14 +383,7 @@
 			}
 			create_building = {
 				building = "building_government_administration"
-				add_ownership = {
-					building = {
-						type = ""building_government_administration""
-						country = "c:MOR"
-						levels = 4
-						region = "STATE_MARRAKECH"
-					}
-				}
+				level = 4
 				reserves = 1
 				activate_production_methods = {
 					"pm_professional_bureaucrats"
@@ -627,14 +393,7 @@
 			}
 			create_building = {
 				building = "building_university"
-				add_ownership = {
-					building = {
-						type = ""building_university""
-						country = "c:MOR"
-						levels = 1
-						region = "STATE_MARRAKECH"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_higher_education"
@@ -644,14 +403,7 @@
 			}
 			create_building = {
 				building = "building_paper_manufactories"
-				add_ownership = {
-					building = {
-						type = ""building_paper_manufactories""
-						country = "c:MOR"
-						levels = 6
-						region = "STATE_MARRAKECH"
-					}
-				}
+				level = 6
 				reserves = 1
 				activate_production_methods = {
 					"pm_base_paper"
@@ -663,14 +415,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				add_ownership = {
-					building = {
-						type = ""building_railway""
-						country = "c:MOR"
-						levels = 2
-						region = "STATE_MARRAKECH"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -681,14 +426,7 @@
 			}
 			create_building = {
 				building = "building_glassworks"
-				add_ownership = {
-					building = {
-						type = ""building_glassworks""
-						country = "c:MOR"
-						levels = 8
-						region = "STATE_MARRAKECH"
-					}
-				}
+				level = 8
 				reserves = 1
 				activate_production_methods = {
 					"pm_pre_war_glassworking"
@@ -700,14 +438,7 @@
 			}
 			create_building = {
 				building = "building_steelworks"
-				add_ownership = {
-					building = {
-						type = ""building_steelworks""
-						country = "c:MOR"
-						levels = 7
-						region = "STATE_MARRAKECH"
-					}
-				}
+				level = 7
 				reserves = 1
 				activate_production_methods = {
 					"pm_early_steelmaking"
@@ -723,14 +454,7 @@
 		region_state:MOR = {
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:MOR"
-						levels = 1
-						region = "STATE_FEZ"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -738,14 +462,7 @@
 			}
 			create_building = {
 				building = "building_government_administration"
-				add_ownership = {
-					building = {
-						type = ""building_government_administration""
-						country = "c:MOR"
-						levels = 2
-						region = "STATE_FEZ"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_modern_bureaucracy"
@@ -755,14 +472,7 @@
 			}
 			create_building = {
 				building = "building_logging_camp"
-				add_ownership = {
-					building = {
-						type = ""building_logging_camp""
-						country = "c:MOR"
-						levels = 4
-						region = "STATE_FEZ"
-					}
-				}
+				level = 4
 				reserves = 1
 				activate_production_methods = {
 					"pm_simple_forestry"
@@ -773,14 +483,7 @@
 			}
 			create_building = {
 				building = "building_phosphorus_mine"
-				add_ownership = {
-					building = {
-						type = ""building_phosphorus_mine""
-						country = "c:MOR"
-						levels = 2
-						region = "STATE_FEZ"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_manual_resource_extraction_phosphorus"
@@ -791,14 +494,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				add_ownership = {
-					building = {
-						type = ""building_railway""
-						country = "c:MOR"
-						levels = 1
-						region = "STATE_FEZ"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -813,14 +509,7 @@
 		region_state:SPA = {
 			create_building = {
 				building = "building_banana_plantation"
-				add_ownership = {
-					building = {
-						type = ""building_banana_plantation""
-						country = "c:SPA"
-						levels = 1
-						region = "STATE_AL_RIF"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_default_building_banana_plantation"
@@ -831,14 +520,7 @@
 			}
 			create_building = {
 				building = "building_aircraft_manufactories"
-				add_ownership = {
-					building = {
-						type = ""building_aircraft_manufactories""
-						country = "c:SPA"
-						levels = 1
-						region = "STATE_AL_RIF"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_privately_owned_military_industry"
@@ -852,14 +534,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				add_ownership = {
-					building = {
-						type = ""building_railway""
-						country = "c:SPA"
-						levels = 1
-						region = "STATE_AL_RIF"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -870,14 +545,7 @@
 			}
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:SPA"
-						levels = 1
-						region = "STATE_AL_RIF"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -885,14 +553,7 @@
 			}
 			create_building = {
 				building = "building_wheat_farm"
-				add_ownership = {
-					building = {
-						type = ""building_wheat_farm""
-						country = "c:SPA"
-						levels = 15
-						region = "STATE_AL_RIF"
-					}
-				}
+				level = 15
 				reserves = 1
 				activate_production_methods = {
 					"pm_fertilizers"
@@ -901,20 +562,14 @@
 				}
 			}
 		}
-		region_state:MOR
+		region_state:MOR = {
+		}
 	}
 	s:STATE_INNER_MOROCCO = {
 		region_state:MOR = {
 			create_building = {
 				building = "building_government_administration"
-				add_ownership = {
-					building = {
-						type = ""building_government_administration""
-						country = "c:MOR"
-						levels = 1
-						region = "STATE_INNER_MOROCCO"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_modern_bureaucracy"
@@ -924,14 +579,7 @@
 			}
 			create_building = {
 				building = "building_gold_mine"
-				add_ownership = {
-					building = {
-						type = ""building_gold_mine""
-						country = "c:MOR"
-						levels = 7
-						region = "STATE_INNER_MOROCCO"
-					}
-				}
+				level = 7
 				reserves = 1
 				activate_production_methods = {
 					"pm_privately_owned_mine"
@@ -942,14 +590,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				add_ownership = {
-					building = {
-						type = ""building_railway""
-						country = "c:MOR"
-						levels = 1
-						region = "STATE_INNER_MOROCCO"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -962,14 +603,7 @@
 		region_state:SPA = {
 			create_building = {
 				building = "building_government_administration"
-				add_ownership = {
-					building = {
-						type = ""building_government_administration""
-						country = "c:SPA"
-						levels = 1
-						region = "STATE_INNER_MOROCCO"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_modern_bureaucracy"
@@ -979,14 +613,7 @@
 			}
 			create_building = {
 				building = "building_gold_mine"
-				add_ownership = {
-					building = {
-						type = ""building_gold_mine""
-						country = "c:SPA"
-						levels = 2
-						region = "STATE_INNER_MOROCCO"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_privately_owned_mine"
@@ -997,14 +624,7 @@
 			}
 			create_building = {
 				building = "building_copper_mine"
-				add_ownership = {
-					building = {
-						type = ""building_copper_mine""
-						country = "c:SPA"
-						levels = 3
-						region = "STATE_INNER_MOROCCO"
-					}
-				}
+				level = 3
 				reserves = 1
 				activate_production_methods = {
 					"pm_manual_resource_extraction_copper"
@@ -1015,14 +635,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				add_ownership = {
-					building = {
-						type = ""building_railway""
-						country = "c:SPA"
-						levels = 1
-						region = "STATE_INNER_MOROCCO"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -1033,14 +646,7 @@
 			}
 			create_building = {
 				building = "building_construction_sector"
-				add_ownership = {
-					building = {
-						type = ""building_construction_sector""
-						country = "c:SPA"
-						levels = 1
-						region = "STATE_INNER_MOROCCO"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_pre_war_buildings"
@@ -1052,14 +658,7 @@
 		region_state:FRA = {
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:FRA"
-						levels = 4
-						region = "STATE_ALGIERS"
-					}
-				}
+				level = 4
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -1067,14 +666,7 @@
 			}
 			create_building = {
 				building = "building_copper_mine"
-				add_ownership = {
-					building = {
-						type = ""building_copper_mine""
-						country = "c:FRA"
-						levels = 5
-						region = "STATE_ALGIERS"
-					}
-				}
+				level = 5
 				reserves = 1
 				activate_production_methods = {
 					"pm_manual_resource_extraction_copper"
@@ -1085,14 +677,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				add_ownership = {
-					building = {
-						type = ""building_railway""
-						country = "c:FRA"
-						levels = 3
-						region = "STATE_ALGIERS"
-					}
-				}
+				level = 3
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -1103,14 +688,7 @@
 			}
 			create_building = {
 				building = "building_fuel_refineries"
-				add_ownership = {
-					building = {
-						type = ""building_fuel_refineries""
-						country = "c:FRA"
-						levels = 10
-						region = "STATE_ALGIERS"
-					}
-				}
+				level = 10
 				reserves = 1
 				activate_production_methods = {
 					"pm_oil_refineries"
@@ -1123,14 +701,7 @@
 			}
 			create_building = {
 				building = "building_hospitals"
-				add_ownership = {
-					building = {
-						type = ""building_hospitals""
-						country = "c:FRA"
-						levels = 10
-						region = "STATE_ALGIERS"
-					}
-				}
+				level = 10
 				reserves = 1
 				activate_production_methods = {
 					"pm_trauma_centers"
@@ -1141,14 +712,7 @@
 			}
 			create_building = {
 				building = "building_motor_industry"
-				add_ownership = {
-					building = {
-						type = ""building_motor_industry""
-						country = "c:FRA"
-						levels = 4
-						region = "STATE_ALGIERS"
-					}
-				}
+				level = 4
 				reserves = 1
 				activate_production_methods = {
 					"pm_combustion_gas_engines_motors"
@@ -1161,14 +725,7 @@
 			}
 			create_building = {
 				building = "building_food_industry"
-				add_ownership = {
-					building = {
-						type = ""building_food_industry""
-						country = "c:FRA"
-						levels = 5
-						region = "STATE_ALGIERS"
-					}
-				}
+				level = 5
 				reserves = 1
 				activate_production_methods = {
 					"pm_improved_food_manufactories"
@@ -1187,14 +744,7 @@
 		region_state:FRA = {
 			create_building = {
 				building = "building_phosphorus_mine"
-				add_ownership = {
-					building = {
-						type = ""building_phosphorus_mine""
-						country = "c:FRA"
-						levels = 3
-						region = "STATE_CONSTANTINE"
-					}
-				}
+				level = 3
 				reserves = 1
 				activate_production_methods = {
 					"pm_manual_resource_extraction_phosphorus"
@@ -1205,14 +755,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				add_ownership = {
-					building = {
-						type = ""building_railway""
-						country = "c:FRA"
-						levels = 1
-						region = "STATE_CONSTANTINE"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -1223,14 +766,7 @@
 			}
 			create_building = {
 				building = "building_motor_industry"
-				add_ownership = {
-					building = {
-						type = ""building_motor_industry""
-						country = "c:FRA"
-						levels = 4
-						region = "STATE_CONSTANTINE"
-					}
-				}
+				level = 4
 				reserves = 1
 				activate_production_methods = {
 					"pm_combustion_gas_engines_motors"
@@ -1247,14 +783,7 @@
 		region_state:FRA = {
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:FRA"
-						levels = 2
-						region = "STATE_ORAN"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -1262,14 +791,7 @@
 			}
 			create_building = {
 				building = "building_railway"
-				add_ownership = {
-					building = {
-						type = ""building_railway""
-						country = "c:FRA"
-						levels = 2
-						region = "STATE_ORAN"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_steam_trains"
@@ -1280,14 +802,7 @@
 			}
 			create_building = {
 				building = "building_aluminum_refinery"
-				add_ownership = {
-					building = {
-						type = ""building_aluminum_refinery""
-						country = "c:FRA"
-						levels = 1
-						region = "STATE_ORAN"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_hall_heroult_process"
@@ -1299,14 +814,7 @@
 			}
 			create_building = {
 				building = "building_fuel_refineries"
-				add_ownership = {
-					building = {
-						type = ""building_fuel_refineries""
-						country = "c:FRA"
-						levels = 2
-						region = "STATE_ORAN"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_oil_refineries"
@@ -1319,14 +827,7 @@
 			}
 			create_building = {
 				building = "building_tool_manufactories"
-				add_ownership = {
-					building = {
-						type = ""building_tool_manufactories""
-						country = "c:FRA"
-						levels = 5
-						region = "STATE_ORAN"
-					}
-				}
+				level = 5
 				reserves = 1
 				activate_production_methods = {
 					"pm_power_tools"
@@ -1338,14 +839,7 @@
 			}
 			create_building = {
 				building = "building_pharmaceutical_industry"
-				add_ownership = {
-					building = {
-						type = ""building_pharmaceutical_industry""
-						country = "c:FRA"
-						levels = 15
-						region = "STATE_ORAN"
-					}
-				}
+				level = 15
 				reserves = 1
 				activate_production_methods = {
 					"pm_modern_medicine"
@@ -1362,14 +856,7 @@
 		region_state:TUN = {
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:TUN"
-						levels = 2
-						region = "STATE_TUNISIA"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -1377,14 +864,7 @@
 			}
 			create_building = {
 				building = "building_cotton_plantation"
-				add_ownership = {
-					building = {
-						type = ""building_cotton_plantation""
-						country = "c:TUN"
-						levels = 13
-						region = "STATE_TUNISIA"
-					}
-				}
+				level = 13
 				reserves = 1
 				activate_production_methods = {
 					"pm_default_building_cotton_plantation"
@@ -1395,14 +875,7 @@
 			}
 			create_building = {
 				building = "building_wheat_farm"
-				add_ownership = {
-					building = {
-						type = ""building_wheat_farm""
-						country = "c:TUN"
-						levels = 2
-						region = "STATE_TUNISIA"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_privately_owned_farm"
@@ -1412,14 +885,7 @@
 			}
 			create_building = {
 				building = "building_fuel_refineries"
-				add_ownership = {
-					building = {
-						type = ""building_fuel_refineries""
-						country = "c:TUN"
-						levels = 2
-						region = "STATE_TUNISIA"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_oil_refineries"
@@ -1436,14 +902,7 @@
 		region_state:FEZ = {
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:FEZ"
-						levels = 1
-						region = "STATE_TRIPOLI"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -1455,14 +914,7 @@
 		region_state:LBY = {
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:LBY"
-						levels = 1
-						region = "STATE_LIBYA"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -1471,20 +923,14 @@
 		}
 	}
 	s:STATE_SAHARA = {
-		region_state:FRA
+		region_state:FRA = {
+		}
 	}
 	s:STATE_WEST_SAHARA = {
 		region_state:SPA = {
 			create_building = {
 				building = "building_port"
-				add_ownership = {
-					building = {
-						type = ""building_port""
-						country = "c:SPA"
-						levels = 1
-						region = "STATE_WEST_SAHARA"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_anchorage"
@@ -1496,14 +942,7 @@
 		region_state:WAU = {
 			create_building = {
 				building = "building_copper_mine"
-				add_ownership = {
-					building = {
-						type = ""building_copper_mine""
-						country = "c:WAU"
-						levels = 1
-						region = "STATE_MAURITANIA"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_manual_resource_extraction_copper"
@@ -1514,14 +953,7 @@
 			}
 			create_building = {
 				building = "building_oil_rig"
-				add_ownership = {
-					building = {
-						type = ""building_oil_rig""
-						country = "c:WAU"
-						levels = 1
-						region = "STATE_MAURITANIA"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_oil_rigs"
@@ -1532,20 +964,14 @@
 		}
 	}
 	s:STATE_INNER_MAURITANIA = {
-		region_state:WAU
+		region_state:WAU = {
+		}
 	}
 	s:STATE_EASTERN_MALI = {
 		region_state:WAU = {
 			create_building = {
 				building = "building_tobacco_plantation"
-				add_ownership = {
-					building = {
-						type = ""building_tobacco_plantation""
-						country = "c:WAU"
-						levels = 3
-						region = "STATE_EASTERN_MALI"
-					}
-				}
+				level = 3
 				reserves = 1
 				activate_production_methods = {
 					"pm_default_building_tobacco_plantation"
@@ -1556,14 +982,7 @@
 			}
 			create_building = {
 				building = "building_cotton_plantation"
-				add_ownership = {
-					building = {
-						type = ""building_cotton_plantation""
-						country = "c:WAU"
-						levels = 2
-						region = "STATE_EASTERN_MALI"
-					}
-				}
+				level = 2
 				reserves = 1
 				activate_production_methods = {
 					"pm_default_building_cotton_plantation"
@@ -1574,14 +993,7 @@
 			}
 			create_building = {
 				building = "building_millet_farm"
-				add_ownership = {
-					building = {
-						type = ""building_millet_farm""
-						country = "c:WAU"
-						levels = 1
-						region = "STATE_EASTERN_MALI"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_simple_farming"
@@ -1591,14 +1003,7 @@
 			}
 			create_building = {
 				building = "building_government_administration"
-				add_ownership = {
-					building = {
-						type = ""building_government_administration""
-						country = "c:WAU"
-						levels = 1
-						region = "STATE_EASTERN_MALI"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_informal_bureaucracy"
@@ -1612,14 +1017,7 @@
 		region_state:WAU = {
 			create_building = {
 				building = "building_opium_plantation"
-				add_ownership = {
-					building = {
-						type = ""building_opium_plantation""
-						country = "c:WAU"
-						levels = 4
-						region = "STATE_WESTERN_MALI"
-					}
-				}
+				level = 4
 				reserves = 1
 				activate_production_methods = {
 					"pm_default_building_opium_plantation"
@@ -1628,16 +1026,10 @@
 					"pm_privately_owned_plantation"
 				}
 			}
+			
 			create_building = {
 				building = "building_government_administration"
-				add_ownership = {
-					building = {
-						type = ""building_government_administration""
-						country = "c:WAU"
-						levels = 1
-						region = "STATE_WESTERN_MALI"
-					}
-				}
+				level = 1
 				reserves = 1
 				activate_production_methods = {
 					"pm_informal_bureaucracy"
@@ -1648,13 +1040,15 @@
 		}
 	}
 	s:STATE_TIMBUKTU = {
-		region_state:WAU
+		region_state:WAU = {
+		}
 	}
 	s:STATE_NIGER = {
-		region_state:WAU
+		region_state:WAU = {
+		}
 	}
 	s:STATE_CHAD = {
-		region_state:EQA
+		region_state:EQA = {
+		}
 	}
 }
-
